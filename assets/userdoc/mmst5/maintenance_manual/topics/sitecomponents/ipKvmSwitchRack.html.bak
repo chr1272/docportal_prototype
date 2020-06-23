@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="copyright" content="(C) Copyright 2019" />
+<meta name="DC.rights.owner" content="(C) Copyright 2019" />
+<meta name="DC.type" content="topic" />
+<meta name="DC.title" content="IP KVM Switch" />
+<meta name="abstract" content="The IP KVM Switch transmits data between operators and target devices." />
+<meta name="description" content="The IP KVM Switch transmits data between operators and target devices." />
+<meta name="DC.format" content="XHTML" />
+<meta name="DC.identifier" content="ipKvmSwitchRack" />
+<link rel="stylesheet" type="text/css" href="../../commonltr.css" />
+<title>IP KVM Switch</title>
+</head>
+<body class="pagebreak" id="ipKvmSwitchRack">
+
+    <h1 class="title topictitle1" id="ariaid-title1">IP KVM Switch</h1>
+
+    
+    <div class="body"><p class="shortdesc">The <em class="ph i">IP KVM Switch</em> transmits data between operators and target
+        devices.</p>
+
+        <p class="p">The <em class="ph i">Merge Point Unity Switching System</em> transmits <em class="ph i">KVM</em> and serial information
+            between operators and target devices, which are attached to the switch over a network
+            with either an Ethernet or modem connection (see the Merge Point Unity 8032 IP Switch in
+                <a class="xref" href="#ipKvmSwitchRack__IP_KVM_Switch">Figure 1</a>).</p>
+
+        <div class="fig fignone" id="ipKvmSwitchRack__IP_KVM_Switch"><span class="figcap"><span class="fig--title-label">Figure 1. </span>IP KVM Switch</span>
+            
+            <img class="image" src="../../images/Site_Components-IP_KVM_Switch1.png" />
+            <dl class="dl">
+                
+                    <dt class="dt dlterm">1</dt>
+
+                    <dd class="dd">AC power to PDU1</dd>
+
+                
+            
+                
+                    <dt class="dt dlterm">2</dt>
+
+                    <dd class="dd">Redundant AC power to PDU2</dd>
+
+                
+            
+                
+                    <dt class="dt dlterm">3</dt>
+
+                    <dd class="dd">LAN1 to Network Switch</dd>
+
+                
+            
+                
+                    <dt class="dt dlterm">4</dt>
+
+                    <dd class="dd">VGA to LCD KVM</dd>
+
+                
+            
+                
+                    <dt class="dt dlterm">5</dt>
+
+                    <dd class="dd">USB to LCD KVM</dd>
+
+                
+            
+                
+                    <dt class="dt dlterm">6</dt>
+
+                    <dd class="dd">Device port KVM adaptor to Camera VMD Computer</dd>
+
+                
+           
+                
+                    <dt class="dt dlterm">7</dt>
+
+                    <dd class="dd">Device port KVM adaptor to Service Computer</dd>
+
+                
+            </dl>
+
+        </div>
+
+    </div>
+
+</body>
+</html>

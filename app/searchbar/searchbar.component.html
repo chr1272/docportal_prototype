@@ -1,0 +1,61 @@
+<!-- new -->
+<div class="searchside">
+  <mat-form-field>
+      <input type="text" (keyup)="updateTerm()" placeholder="Enter search term"  matInput [formControl]="myControl" [matAutocomplete]="auto">
+      <mat-autocomplete #auto="matAutocomplete" [displayWith]="displayFn">
+        <mat-option *ngFor="let option of filteredOptions | async" [value]="option">
+          {{option.term}}
+        </mat-option>
+      </mat-autocomplete>
+    </mat-form-field>
+  <button mat-icon-button>
+      <mat-icon>search</mat-icon>
+    </button>
+
+  <span class="example-spacer">Search in: </span>
+  <span class="example-spacer"> </span>
+  <section class="searchcategories">
+      <mat-checkbox class="example-margin" [(ngModel)]="userdoc" (click)="toggleDisplay('ud')">User documentation</mat-checkbox>
+      <span class="example-spacer"> </span>
+      <mat-checkbox class="example-margin" [(ngModel)]="elearn"  (click)="toggleDisplay('el')">eLearning</mat-checkbox>
+      <span class="example-spacer"> </span>
+      <mat-checkbox class="example-margin" [(ngModel)]="incidents" (click)="toggleDisplay('ic')">Helpdesk incidents</mat-checkbox>
+      <span class="example-spacer"> </span>
+      <mat-checkbox class="example-margin" [(ngModel)]="knowba" (click)="toggleDisplay('kb')">Knowledge base</mat-checkbox>
+      <span class="example-spacer"> </span>
+      <mat-checkbox class="example-margin" [(ngModel)]="whatsthat" (click)="toggleDisplay('wt')">What's that ?</mat-checkbox>
+  </section>
+</div>
+
+<!--old
+<div class="searchtoolbar">
+  <mat-toolbar class="searchfield">
+      <span class="toolbar-title">Search</span>
+      <mat-form-field>
+          <input type="text" (keyup)="updateTerm()" placeholder="Enter search term"  matInput [formControl]="myControl" [matAutocomplete]="auto">
+          <mat-autocomplete #auto="matAutocomplete" [displayWith]="displayFn">
+            <mat-option *ngFor="let option of filteredOptions | async" [value]="option">
+              {{option.term}}
+            </mat-option>
+          </mat-autocomplete>
+        </mat-form-field>
+      <button mat-icon-button>
+          <mat-icon>search</mat-icon>
+        </button>
+      
+        <span class="example-spacer">Search in: </span>
+        <span class="example-spacer"> </span>
+        <section class="searchcategories">
+            <mat-checkbox class="example-margin" [(ngModel)]="userdoc" (click)="toggleDisplay('ud')">User documentation</mat-checkbox>
+            <span class="example-spacer"> </span>
+            <mat-checkbox class="example-margin" [(ngModel)]="elearn"  (click)="toggleDisplay('el')">eLearning</mat-checkbox>
+            <span class="example-spacer"> </span>
+            <mat-checkbox class="example-margin" [(ngModel)]="incidents" (click)="toggleDisplay('ic')">Helpdesk incidents</mat-checkbox>
+            <span class="example-spacer"> </span>
+            <mat-checkbox class="example-margin" [(ngModel)]="knowba" (click)="toggleDisplay('kb')">Knowledge base</mat-checkbox>
+            <span class="example-spacer"> </span>
+            <mat-checkbox class="example-margin" [(ngModel)]="whatsthat" (click)="toggleDisplay('wt')">What's that ?</mat-checkbox>
+          </section>
+  </mat-toolbar>
+</div>
+-->

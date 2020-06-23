@@ -1,0 +1,30 @@
+
+
+<!-- new layout-->
+<style>
+  .cardInner {
+    display: grid;
+    grid-template-areas: "header header" "content content" "footer footer";
+    grid-template-rows: auto auto auto;
+    grid-row-gap: 16px;
+    grid-column-gap: 16px;
+  }
+</style>
+<div 
+  style="height: 100vh; width:100vw"
+  gdAreas="header header | content content | footer footer"
+  gdGap="16px"
+  fxLayoutAlign="start start"
+  gdRows="auto auto auto">
+  <div gdArea="header">
+    <div class="pagetitle">DOCUMENTATION PORTAL v0.1</div>
+    <div class="spacer"></div>
+    <app-topnav></app-topnav>
+  </div>
+  <div gdArea="content" style="padding:15px;">
+    <router-outlet></router-outlet>
+  </div>
+  <div gdArea="footer">
+    
+  </div>
+</div>

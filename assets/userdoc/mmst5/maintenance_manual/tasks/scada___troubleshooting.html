@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+        <meta name="copyright" content="(C) Copyright 2019" />
+        <meta name="DC.rights.owner" content="(C) Copyright 2019" />
+        <meta name="DC.type" content="task" />
+        <meta name="DC.title" content="SCADA - Troubleshooting" />
+        <meta name="DC.format" content="XHTML" />
+        <meta name="DC.identifier" content="analog_input_terminal___troubleshooting" />
+        <link rel="stylesheet" type="text/css" href="../commonltr.css" />
+        <title>SCADA - Troubleshooting</title>
+    </head>
+    <body id="analog_input_terminal___troubleshooting">
+        <h1 class="title topictitle1" id="ariaid-title1">SCADA - Troubleshooting</h1>
+        <div class="body taskbody">
+            <div class="section prereq prelreqs p"
+                id="analog_input_terminal___troubleshooting__prelreqs_tn5_jyj_gdb">
+                <ul class="ul ul reqconds"
+                    id="analog_input_terminal___troubleshooting__reqconds_un5_jyj_gdb">
+                    <li class="li li noconds"></li>
+
+                </ul>
+
+                <ul class="ul ul reqpers"
+                    id="analog_input_terminal___troubleshooting__reqpers_vn5_jyj_gdb">
+                    <li class="li li personnel">1</li>
+
+                    <li class="li li perscat">Technical support team</li>
+
+                    <li class="li li perskill">Electric</li>
+
+                    <li class="li li esttime">10</li>
+
+                </ul>
+
+                <div class="p p supequip">
+                    <ul class="ul ul supeqli"
+                        id="analog_input_terminal___troubleshooting__supeqli_jgn_xwj_gdb">
+                        <li class="li li supequi">Standard toolbox tower</li>
+
+                    </ul>
+
+                </div>
+
+                <p class="p p supplies"> </p>
+
+                <p class="p p spares"> </p>
+
+            </div>
+
+            <ol>
+                <li class="li step">
+                    <span class="ph cmd">After switching on, the power supply immediately checks the
+                        connected Bus Terminal configuration. Error free start-up is signaled by the
+                        red "I/O ERR” LED being extinguished. If the “I/O ERR” LED blinks, an error
+                        in the area of the terminals is indicated. The error code can be determined
+                        from the frequency and number of blinks. This permits rapid rectification of
+                        the error.</span>
+                </li>
+                <li class="li step">
+                    <span class="ph cmd">Check LED status to verify if the SCADA system is free of
+                        errors.</span>
+                    <div class="fig fignone"
+                        id="analog_input_terminal___troubleshooting__fig_imq_qpl_3fb">
+                        <span class="figcap"><span class="fig--title-label">Figure 1. </span>SCADA
+                            LED</span>
+
+                        <img class="image"
+                            id="analog_input_terminal___troubleshooting__image_tfx_wpl_3fb"
+                            src="../images/ts_scada_LED.png" />
+                    </div>
+                    <table border="1" frame="hsides" rules="rows" cellpadding="4" cellspacing="0"
+                        summary="" class="simpletable choicetable choicetableborder"
+                        id="analog_input_terminal___troubleshooting__choicetable_zzp_xdl_3fb">
+                        <col style="width:50%" />
+                        <col style="width:50%" />
+                        <thead>
+                            <tr class="sthead chhead">
+                                <th class="stentry choptionhd"
+                                    style="vertical-align:bottom;text-align:left;"
+                                    id="d73881e79-option">Option</th>
+                                <th class="stentry chdeschd"
+                                    style="vertical-align:bottom;text-align:left;"
+                                    id="d73881e79-desc">Description</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="strow chrow">
+                                <th style="vertical-align:top;" headers="d73881e79-option"
+                                    id="d73881e83" class="stentry choption"><strong class="ph b"
+                                        >LED</strong></th>
+
+                                <td style="vertical-align:top;" headers="d73881e79-desc d73881e83"
+                                    class="stentry chdesc"><strong class="ph b"
+                                    >Meaning</strong></td>
+
+                            </tr>
+                            <tr class="strow chrow">
+                                <th style="vertical-align:top;" headers="d73881e79-option"
+                                    id="d73881e94" class="stentry choption">Us 24 V</th>
+
+                                <td style="vertical-align:top;" headers="d73881e79-desc d73881e94"
+                                    class="stentry chdesc">
+                                    <p class="p">Power supply for the CPU module. The LED lights
+                                        green if the power supply is correct.</p>
+                                </td>
+
+                            </tr>
+                            <tr class="strow chrow">
+                                <th style="vertical-align:top;" headers="d73881e79-option"
+                                    id="d73881e106" class="stentry choption">Up 24V</th>
+
+                                <td style="vertical-align:top;" headers="d73881e79-desc d73881e106"
+                                    class="stentry chdesc">
+                                    <p class="p">Power supply for terminal bus. The LED lights green
+                                        if the power supply is correct.</p>
+                                </td>
+
+                            </tr>
+                            <tr class="strow chrow">
+                                <th style="vertical-align:top;" headers="d73881e79-option"
+                                    id="d73881e118" class="stentry choption">K-BUS RUN</th>
+
+                                <td style="vertical-align:top;" headers="d73881e79-desc d73881e118"
+                                    class="stentry chdesc">
+                                    <p class="p">K-bus diagnostics. The green LED lights up in order
+                                        to indicate fault-free operation. "Fault-free" means that
+                                        the communication with the fieldbus system is also
+                                        running.</p>
+                                </td>
+
+                            </tr>
+                            <tr class="strow chrow">
+                                <th style="vertical-align:top;" headers="d73881e79-option"
+                                    id="d73881e130" class="stentry choption">K-BUS ERR</th>
+
+                                <td style="vertical-align:top;" headers="d73881e79-desc d73881e130"
+                                    class="stentry chdesc">
+                                    <p class="p">K-bus diagnostics. The red LED flashes to indicate
+                                        an error. The red LED blinks with two different
+                                        frequencies.</p>
+                                </td>
+
+                            </tr>
+                        </tbody>
+                    </table>
+                </li>
+                <li class="li step">
+                    <span class="ph cmd">If there are errors present check the I/O error LED blink
+                        code</span>
+                    <table border="1" frame="hsides" rules="rows" cellpadding="4" cellspacing="0"
+                        summary="" class="simpletable choicetable choicetableborder"
+                        id="analog_input_terminal___troubleshooting__choicetable_ljv_jhl_3fb">
+                        <col style="width:50%" />
+                        <col style="width:50%" />
+                        <thead>
+                            <tr class="sthead chhead">
+                                <th class="stentry choptionhd"
+                                    style="vertical-align:bottom;text-align:left;"
+                                    id="d73881e147-option">Option</th>
+                                <th class="stentry chdeschd"
+                                    style="vertical-align:bottom;text-align:left;"
+                                    id="d73881e147-desc">Description</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="strow chrow">
+                                <th style="vertical-align:top;" headers="d73881e147-option"
+                                    id="d73881e151" class="stentry choption">Fast blinking</th>
+
+                                <td style="vertical-align:top;" headers="d73881e147-desc d73881e151"
+                                    class="stentry chdesc">Start of the error code</td>
+
+                            </tr>
+                            <tr class="strow chrow">
+                                <th style="vertical-align:top;" headers="d73881e147-option"
+                                    id="d73881e160" class="stentry choption">First slow
+                                    sequence</th>
+
+                                <td style="vertical-align:top;" headers="d73881e147-desc d73881e160"
+                                    class="stentry chdesc">Error code</td>
+
+                            </tr>
+                            <tr class="strow chrow">
+                                <th style="vertical-align:top;" headers="d73881e147-option"
+                                    id="d73881e169" class="stentry choption">Second slow
+                                    sequence</th>
+
+                                <td style="vertical-align:top;" headers="d73881e147-desc d73881e169"
+                                    class="stentry chdesc">Error code argument</td>
+
+                            </tr>
+                        </tbody>
+                    </table>
+                </li>
+                <li class="li step">
+                    <span class="ph cmd">LEDs for K-bus diagnostics</span>
+                </li>
+            </ol>
+            <p class="li stepsection">
+                <table cellpadding="4" cellspacing="0" summary=""
+                    id="analog_input_terminal___troubleshooting__simpletable_w4b_4ql_3fb" border="0"
+                    class="simpletable">
+                    <col style="width:13.200934579439252%" />
+                    <col style="width:11.682242990654206%" />
+                    <col style="width:39.018691588785046%" />
+                    <col style="width:36.0981308411215%" />
+                    <thead></thead>
+                    <tbody>
+                        <tr class="strow">
+                            <td style="vertical-align:top;" class="stentry"><strong class="ph b"
+                                    >Error code</strong></td>
+
+                            <td style="vertical-align:top;" class="stentry"><strong class="ph b"
+                                    >Error code argument</strong></td>
+
+                            <td style="vertical-align:top;" class="stentry"><strong class="ph b"
+                                    >Description</strong></td>
+
+                            <td style="vertical-align:top;" class="stentry"><strong class="ph b"
+                                    >Remedy</strong></td>
+
+                        </tr>
+                        <tr class="strow">
+                            <td style="vertical-align:top;" class="stentry">
+                                <p class="p">Persistent, continuous</p>
+                                <p class="p">flashing</p>
+                            </td>
+
+                            <td style="vertical-align:top;" class="stentry"> </td>
+
+                            <td style="vertical-align:top;" class="stentry">EMC problems</td>
+
+                            <td style="vertical-align:top;" class="stentry">
+                                <ul class="ul"
+                                    id="analog_input_terminal___troubleshooting__ul_rdt_tql_3fb">
+                                    <li class="li">
+                                        <p class="p">Check power supply for overvoltage or
+                                            undervoltage peaks</p>
+                                    </li>
+
+                                    <li class="li">
+                                        <p class="p">Implement EMC measures If a K-Bus error is
+                                            present, it can be localized by a restart of the power
+                                            supply (by switching it off and then on again)</p>
+                                    </li>
+
+                                </ul>
+                            </td>
+
+                        </tr>
+                        <tr class="strow">
+                            <td style="vertical-align:top;" class="stentry">3 pulses</td>
+
+                            <td style="vertical-align:top;" class="stentry">0</td>
+
+                            <td style="vertical-align:top;" class="stentry">K-bus command error</td>
+
+                            <td style="vertical-align:top;" class="stentry">
+                                <ul class="ul"
+                                    id="analog_input_terminal___troubleshooting__ul_pyc_zql_3fb">
+                                    <li class="li">No Bus Terminal inserted</li>
+
+                                    <li class="li">
+                                        <p class="p">One of the Bus Terminals is defective; halve
+                                            the number of Bus Terminals attached and check whether
+                                            the error is still present with the remaining Bus
+                                            Terminals. Repeat until the defective Bus Terminal is
+                                            located.</p>
+                                    </li>
+
+                                </ul>
+                            </td>
+
+                        </tr>
+                        <tr class="strow">
+                            <td style="vertical-align:top;" class="stentry">4 pulses</td>
+
+                            <td style="vertical-align:top;" class="stentry">
+                                <div class="p">
+                                    <table cellpadding="4" cellspacing="0" summary=""
+                                        id="analog_input_terminal___troubleshooting__simpletable_nbc_grl_3fb"
+                                        border="0" class="simpletable">
+                                        <col style="width:100%" />
+                                        <thead></thead>
+                                        <tbody>
+                                            <tr class="strow">
+                                                <td style="vertical-align:top;" class="stentry">0 </td>
+
+                                            </tr>
+                                            <tr class="strow">
+                                                <td style="vertical-align:top;" class="stentry"
+                                                  >n</td>
+
+                                            </tr>
+                                        </tbody>
+                                    </table>
+
+                                </div>
+                            </td>
+
+                            <td style="vertical-align:top;" class="stentry">
+                                <div class="p">
+                                    <table cellpadding="4" cellspacing="0" summary=""
+                                        id="analog_input_terminal___troubleshooting__simpletable_prx_3rl_3fb"
+                                        border="0" class="simpletable">
+                                        <col style="width:100%" />
+                                        <thead></thead>
+                                        <tbody>
+                                            <tr class="strow">
+                                                <td style="vertical-align:top;" class="stentry">
+                                                  <p class="p">K-Bus data error, break behind the
+                                                  power supply</p>
+                                                </td>
+
+                                            </tr>
+                                            <tr class="strow">
+                                                <td style="vertical-align:top;" class="stentry">
+                                                  <p class="p">Break behind Bus Terminal n</p>
+                                                </td>
+
+                                            </tr>
+                                        </tbody>
+                                    </table>
+
+                                </div>
+                            </td>
+
+                            <td style="vertical-align:top;" class="stentry">
+                                <div class="p">
+                                    <table cellpadding="4" cellspacing="0" summary=""
+                                        id="analog_input_terminal___troubleshooting__simpletable_hvz_nrl_3fb"
+                                        border="0" class="simpletable">
+                                        <col style="width:100%" />
+                                        <thead></thead>
+                                        <tbody>
+                                            <tr class="strow">
+                                                <td style="vertical-align:top;" class="stentry">
+                                                  <p class="p">Check whether the n+1 Bus Terminal is
+                                                  correctly connected; replace if necessary.</p>
+                                                </td>
+
+                                            </tr>
+                                            <tr class="strow">
+                                                <td style="vertical-align:top;" class="stentry">
+                                                  <p class="p">Check whether the Bus End Terminal
+                                                  9010 is connected.</p>
+                                                </td>
+
+                                            </tr>
+                                        </tbody>
+                                    </table>
+
+                                </div>
+                            </td>
+
+                        </tr>
+                        <tr class="strow">
+                            <td style="vertical-align:top;" class="stentry">5 pulses</td>
+
+                            <td style="vertical-align:top;" class="stentry">n</td>
+
+                            <td style="vertical-align:top;" class="stentry">
+                                <p class="p">K-bus error in register communication with Bus Terminal
+                                    n</p>
+                            </td>
+
+                            <td style="vertical-align:top;" class="stentry">Exchange the nth bus
+                                terminal</td>
+
+                        </tr>
+                        <tr class="strow">
+                            <td style="vertical-align:top;" class="stentry">6 pulses</td>
+
+                            <td style="vertical-align:top;" class="stentry">
+                                <div class="p">
+                                    <table cellpadding="4" cellspacing="0" summary=""
+                                        id="analog_input_terminal___troubleshooting__simpletable_hpm_xrl_3fb"
+                                        border="0" class="simpletable">
+                                        <col style="width:100%" />
+                                        <thead></thead>
+                                        <tbody>
+                                            <tr class="strow">
+                                                <td style="vertical-align:top;" class="stentry"
+                                                  >0</td>
+
+                                            </tr>
+                                            <tr class="strow">
+                                                <td style="vertical-align:top;" class="stentry"
+                                                  >1</td>
+
+                                            </tr>
+                                            <tr class="strow">
+                                                <td style="vertical-align:top;" class="stentry"
+                                                  >8</td>
+
+                                            </tr>
+                                        </tbody>
+                                    </table>
+
+                                </div>
+                            </td>
+
+                            <td style="vertical-align:top;" class="stentry">
+                                <div class="p">
+                                    <table cellpadding="4" cellspacing="0" summary=""
+                                        id="analog_input_terminal___troubleshooting__simpletable_yn4_yrl_3fb"
+                                        border="0" class="simpletable">
+                                        <col style="width:100%" />
+                                        <thead></thead>
+                                        <tbody>
+                                            <tr class="strow">
+                                                <td style="vertical-align:top;" class="stentry"
+                                                  >Error at initialization</td>
+
+                                            </tr>
+                                            <tr class="strow">
+                                                <td style="vertical-align:top;" class="stentry"
+                                                  >Internal data error</td>
+
+                                            </tr>
+                                            <tr class="strow">
+                                                <td style="vertical-align:top;" class="stentry"
+                                                  >Internal data error</td>
+
+                                            </tr>
+                                        </tbody>
+                                    </table>
+
+                                </div>
+                            </td>
+
+                            <td style="vertical-align:top;" class="stentry">
+                                <div class="p">
+                                    <table cellpadding="4" cellspacing="0" summary=""
+                                        id="analog_input_terminal___troubleshooting__simpletable_j4t_zrl_3fb"
+                                        border="0" class="simpletable">
+                                        <col style="width:100%" />
+                                        <thead></thead>
+                                        <tbody>
+                                            <tr class="strow">
+                                                <td style="vertical-align:top;" class="stentry"
+                                                  >Exchange Bus Coupler</td>
+
+                                            </tr>
+                                            <tr class="strow">
+                                                <td style="vertical-align:top;" class="stentry">
+                                                  <p class="p">Perform a hardware reset on the Bus
+                                                  Coupler (switch off and on again)</p>
+                                                </td>
+
+                                            </tr>
+                                            <tr class="strow">
+                                                <td style="vertical-align:top;" class="stentry">
+                                                  <p class="p">Perform a hardware reset on the Bus
+                                                  Coupler (switch off and on again)</p>
+                                                </td>
+
+                                            </tr>
+                                        </tbody>
+                                    </table>
+
+                                </div>
+                            </td>
+
+                        </tr>
+                        <tr class="strow">
+                            <td style="vertical-align:top;" class="stentry">7 pulses</td>
+
+                            <td style="vertical-align:top;" class="stentry">0</td>
+
+                            <td style="vertical-align:top;" class="stentry">
+                                <p class="p">Process data lengths of the set and actual
+                                    configurations do not correspond</p>
+                            </td>
+
+                            <td style="vertical-align:top;" class="stentry">
+                                <p class="p">Check configuration and terminals for consistency</p>
+                            </td>
+
+                        </tr>
+                    </tbody>
+                </table>
+                <div class="note note">
+                    <span class="notetitle">Note:</span>
+                    <p class="p">The number of pulses indicates the position of the last Bus
+                        Terminal before the fault. Passive Bus Terminals, such as a power feed
+                        terminal, are not included in the count. </p>
+
+                    <p class="p">In the case of some errors, rectification does not cause the power
+                        supply to leave the blink sequence. The power supply can only be restarted
+                        by switching its supply voltage off and on again. </p>
+
+                    <p class="p">The CX unit recognizes these terminals automatically on scanning,
+                        reads out the terminal types and automatically places them in the System
+                        Manager.</p>
+
+                </div>
+            </p>
+            <ol start="5">
+                <li class="li step">
+                    <span class="ph cmd"></span><br />
+                </li>
+            </ol>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="copyright" content="(C) Copyright 2019" />
+<meta name="DC.rights.owner" content="(C) Copyright 2019" />
+<meta name="DC.type" content="task" />
+<meta name="DC.title" content="MCCB (UPS MDB) - Installation" />
+<meta name="abstract" content="Installation of the MCCB (UPS MDB)." />
+<meta name="description" content="Installation of the MCCB (UPS MDB)." />
+<meta name="DC.format" content="XHTML" />
+<meta name="DC.identifier" content="mccb_ups_mdb___installation" />
+<link rel="stylesheet" type="text/css" href="../commonltr.css" />
+<title>MCCB (UPS MDB) - Installation</title>
+</head>
+<body id="mccb_ups_mdb___installation">
+
+    <h1 class="title topictitle1" id="ariaid-title1">MCCB (UPS MDB) - Installation</h1>
+
+    
+    <div class="body taskbody"><p class="shortdesc">Installation of the <em class="ph i"><span class="ph">MCCB (UPS MDB)</span></em>.</p>
+
+        <ol class="ol steps"><li class="li step">
+                <span class="ph cmd">Insert the new <em class="ph i"><span class="ph">MCCB</span></em> into the <em class="ph i"><span class="ph">UPS MDB</span></em>.</span>
+            </li>
+<li class="li step">
+                <span class="ph cmd">Refasten the two screws, that fix the <em class="ph i"><span class="ph">MCCB</span></em> to
+                    the steel frame (see item 3 in <a class="xref" href="cm_mccb__UPS_MDB____removal.html#mccb_ups_mdb___removal__MCCB_UPS">Figure 2</a>).</span>
+            </li>
+<li class="li step">
+                <span class="ph cmd">Reconnect all cables to the <em class="ph i"><span class="ph">MCCB</span></em>.</span>
+            </li>
+<li class="li step">
+                <span class="ph cmd">Refasten the cover with the screw (see item 2 and 3 in <a class="xref" href="cm_mccb__UPS_MDB____removal.html#mccb_ups_mdb___removal__UPS_MDB_MCCB">Figure 1</a>).</span>
+            </li>
+<li class="li step">
+                <span class="ph cmd">Close the <em class="ph i"><span class="ph">UPS MDB</span></em>.</span>
+            </li>
+<li class="li step">
+                <span class="ph cmd">Reconnect the output line of the <em class="ph i">UPS Module</em> at the rear side of the
+                    rack.</span>
+            </li>
+<li class="li step">
+                <span class="ph cmd">Switch the power for the <em class="ph i"><span class="ph">Main Distribution Board (MDB)</span></em> on.</span>
+            </li>
+</ol>
+
+    </div>
+
+</body>
+</html>

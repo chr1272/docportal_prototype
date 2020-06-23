@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="13mm" height="13mm" viewBox="0 0 42.52 42.52" enable-background="new 0 0 42.52 42.52" xml:space="preserve">
+<g id="g1906" transform="translate(8.146196,8.022892)">
+		<path id="path1892" fill="#F3E600" d="M13.068-4.16c-0.89,0-1.425,0.862-1.754,1.581C5.334,7.823-0.721,18.185-6.655,28.61
+		c-0.364,1.042,0.683,2.213,1.76,1.999c12.217-0.018,24.437,0.04,36.651-0.032c1.069-0.204,1.59-1.685,0.862-2.508
+		C26.488,17.494,20.434,6.872,14.254-3.672C13.95-3.987,13.512-4.18,13.068-4.16z"/>
+		<g id="g4">
+			<path id="sign_border" fill="#010202" d="M32.302,28.547L14.016-3.128c-0.187-0.322-0.528-0.516-0.896-0.516
+			c-0.367,0-0.708,0.2-0.896,0.516L-6.062,28.547c-0.187,0.322-0.187,0.716,0,1.031c0.187,0.322,0.528,0.516,0.896,0.516h36.573
+			c0.367,0,0.709-0.2,0.896-0.516C32.49,29.256,32.49,28.863,32.302,28.547z"/>
+			<polygon id="sign_bg" fill="#EFE52C" points="-3.375,28.026 13.12,-0.538 29.616,28.026 		"/>
+		</g>
+		<g id="g2978" transform="translate(686.9172,23.4099)">
+			<g id="g2942">
+				<rect id="rect2934" x="-674.133" y="-12.127" fill="#010202" stroke="#010202" stroke-width="0.0571" stroke-linecap="square" width="0.575" height="14.555"/>
+				<rect id="rect2940" x="-674.133" y="-9.616" transform="matrix(-0.9662 0.2579 -0.2579 -0.9662 -1326.1509 164.2316)" fill="#010202" stroke="#010202" stroke-width="0.0571" stroke-linecap="square" width="0.576" height="9.532"/>
+			</g>
+			<g id="g2946" transform="matrix(0.866025,-0.5,0.5,0.866025,-212.5458,-150.8503)">
+				<rect id="rect2948" x="-472.785" y="-111.487" fill="#010202" stroke="#010202" stroke-width="0.0571" stroke-linecap="square" width="0.576" height="14.555"/>
+				<rect id="rect2950" x="-472.786" y="-108.975" transform="matrix(0.9659 -0.2588 0.2588 0.9659 10.8713 -125.8433)" fill="#010202" stroke="#010202" stroke-width="0.0571" stroke-linecap="square" width="0.576" height="9.532"/>
+			</g>
+			<g id="g2952" transform="matrix(0.5,-0.866025,0.866025,0.5,-472.0409,-175.2175)">
+				<rect id="rect2954" x="-248.732" y="-96.861" fill="#010202" stroke="#010202" stroke-width="0.0571" stroke-linecap="square" width="0.575" height="14.555"/>
+				<rect id="rect2956" x="-248.734" y="-94.35" transform="matrix(0.9658 -0.2592 0.2592 0.9658 14.7288 -67.4552)" fill="#010202" stroke="#010202" stroke-width="0.0571" stroke-linecap="square" width="0.576" height="9.532"/>
+			</g>
+			<rect id="rect2960" x="-681.122" y="-5.138" fill="#010202" stroke="#010202" stroke-width="0.0571" stroke-linecap="square" width="19.475" height="0.576"/>
+			<rect id="rect2962" x="-674.133" y="-9.616" transform="matrix(0.2589 0.9659 -0.9659 0.2589 -504.0864 647.2798)" fill="#010202" stroke="#010202" stroke-width="0.0571" stroke-linecap="square" width="0.575" height="9.532"/>
+			<g id="g2964" transform="matrix(-0.5,-0.866026,0.866026,-0.5,-859.8043,145.9731)">
+				<rect id="rect2966" x="37.349" y="229.179" fill="#010202" stroke="#010202" stroke-width="0.0571" stroke-linecap="square" width="0.575" height="14.555"/>
+				<rect id="rect2968" x="37.349" y="231.691" transform="matrix(0.9656 -0.26 0.26 0.9656 -60.1801 17.9157)" fill="#010202" stroke="#010202" stroke-width="0.0571" stroke-linecap="square" width="0.575" height="9.532"/>
+			</g>
+			<g id="g2970" transform="matrix(-0.866026,-0.500001,0.500001,-0.866026,-884.1717,405.4684)">
+				<rect id="rect2972" x="22.724" y="453.231" fill="#010202" stroke="#010202" stroke-width="0.0571" stroke-linecap="square" width="0.575" height="14.555"/>
+				<rect id="rect2974" x="22.723" y="455.742" transform="matrix(0.9661 -0.2582 0.2582 0.9661 -118.1159 21.5543)" fill="#010202" stroke="#010202" stroke-width="0.0571" stroke-linecap="square" width="0.576" height="9.532"/>
+			</g>
+		</g>
+	</g>
+</svg>

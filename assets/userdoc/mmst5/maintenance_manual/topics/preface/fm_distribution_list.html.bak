@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="copyright" content="(C) Copyright 2019" />
+<meta name="DC.rights.owner" content="(C) Copyright 2019" />
+<meta name="DC.type" content="topic" />
+<meta name="DC.title" content="Distribution list" />
+<meta name="DC.format" content="XHTML" />
+<meta name="DC.identifier" content="distribution_list" />
+<link rel="stylesheet" type="text/css" href="../../commonltr.css" />
+<title>Distribution list</title>
+</head>
+<body id="distribution_list">
+
+    <h1 class="title topictitle1" id="ariaid-title1">Distribution list</h1>
+
+    <div class="body">
+        <p class="p">A project internal distribution of printouts of this document is not necessary. It is
+            available to every member of the project team electronically via the used configuration
+            management tool (PLM).</p>
+
+        
+<div class="tablenoborder"><table cellpadding="4" cellspacing="0" summary="" id="distribution_list__table_zsn_2ll_dcb" class="table" frame="border" border="1" rules="all"><colgroup><col style="width:16.483516483516482%" /><col style="width:13.186813186813188%" /><col style="width:15.384615384615385%" /><col style="width:41.75824175824176%" /><col style="width:13.186813186813188%" /></colgroup><thead class="thead" style="text-align:left;">
+                    <tr class="row">
+                        <th class="entry nocellnorowborder" style="vertical-align:top;" id="d49703e35">Company</th>
+
+                        <th class="entry nocellnorowborder" style="vertical-align:top;" id="d49703e38">Name</th>
+
+                        <th class="entry nocellnorowborder" style="vertical-align:top;" id="d49703e41">Org. unit</th>
+
+                        <th class="entry nocellnorowborder" style="vertical-align:top;" id="d49703e44">Function</th>
+
+                        <th class="entry cell-norowborder" style="vertical-align:top;" id="d49703e47">N° of copies</th>
+
+                    </tr>
+
+                </thead>
+<tbody class="tbody">
+                    <tr class="row">
+                        <td class="entry nocellnorowborder" style="vertical-align:top;" headers="d49703e35 ">Airbus DS</td>
+
+                        <td class="entry nocellnorowborder" style="vertical-align:top;" headers="d49703e38 ">Ingo Stohrer</td>
+
+                        <td class="entry nocellnorowborder" style="vertical-align:top;" headers="d49703e41 ">TCPIB</td>
+
+                        <td class="entry nocellnorowborder" style="vertical-align:top;" headers="d49703e44 ">Chief engineer</td>
+
+                        <td class="entry cell-norowborder" style="vertical-align:top;" headers="d49703e47 ">1</td>
+
+                    </tr>
+
+                    <tr class="row">
+                        <td class="entry row-nocellborder" style="vertical-align:top;" headers="d49703e35 ">Airbus DS</td>
+
+                        <td class="entry row-nocellborder" style="vertical-align:top;" headers="d49703e38 ">Ronald Zwick</td>
+
+                        <td class="entry row-nocellborder" style="vertical-align:top;" headers="d49703e41 ">TECSD3</td>
+
+                        <td class="entry row-nocellborder" style="vertical-align:top;" headers="d49703e44 ">Configuration Manager</td>
+
+                        <td class="entry cellrowborder" style="vertical-align:top;" headers="d49703e47 ">1</td>
+
+                    </tr>
+
+                </tbody>
+</table>
+</div>
+
+    </div>
+
+</body>
+</html>

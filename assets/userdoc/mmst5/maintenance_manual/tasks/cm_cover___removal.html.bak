@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="copyright" content="(C) Copyright 2019" />
+<meta name="DC.rights.owner" content="(C) Copyright 2019" />
+<meta name="DC.type" content="task" />
+<meta name="DC.title" content="Turning Unit Cover - Removal" />
+<meta name="abstract" content="Removal of the Turning Unit Cover." />
+<meta name="description" content="Removal of the Turning Unit Cover." />
+<meta name="DC.format" content="XHTML" />
+<meta name="DC.identifier" content="cover___removal" />
+<link rel="stylesheet" type="text/css" href="../commonltr.css" />
+<title>Turning Unit Cover - Removal</title>
+</head>
+<body id="cover___removal">
+
+    <h1 class="title topictitle1" id="ariaid-title1">Turning Unit Cover - Removal</h1>
+
+    
+    <div class="body taskbody"><p class="shortdesc">Removal of the <em class="ph i"><span class="ph">Turning Unit Cover</span></em>.</p>
+
+        <ol class="ol steps"><li class="li step" id="cover___removal__motor_cover_and_encoder_cover">
+                <span class="ph cmd"><strong class="ph b">Removing <em class="ph i"><span class="ph">Encoder Cover</span></em> and <em class="ph i"><span class="ph">Motor Cover</span></em></strong></span>
+                <ol type="a" class="ol substeps">
+                    <li class="li substep">
+                        <span class="ph cmd">Loosen (do not unscrew) four hexagon bolts (see <a class="xref" href="#cover___removal__Cover_1">Figure 1</a>) to loosen the support plates (see
+                            item A in <a class="xref" href="#cover___removal__Cover_2">Figure 2</a>).</span>
+                        
+                            <div class="fig fignone" id="cover___removal__Cover_1"><span class="figcap"><span class="fig--title-label">Figure 1. </span>Cover 1</span>
+                                
+                                <img class="image" src="../images/030-10-2104-00A-fig1.png" />
+                            </div>
+
+                        
+                         
+                            <div class="fig fignone" id="cover___removal__Cover_2"><span class="figcap"><span class="fig--title-label">Figure 2. </span>Cover 2</span>
+                                
+                                <img class="image" src="../images/030-10-2104-00A-fig2.png" />
+                            </div>
+
+                        
+                    </li>
+
+                    <li class="li substep">
+                        <span class="ph cmd">Pull the bottom of the cover out - the pivotal point is a plastic hinge
+                            at the top of the cover.</span>
+                    </li>
+
+                    <li class="li substep">
+                        <span class="ph cmd">Hold the cover in horizontal position by the two rods which are
+                            inserted in the structure (see <a class="xref" href="#cover___removal__Cover_3">Figure 3</a>)</span>
+                        
+                            <div class="fig fignone" id="cover___removal__Cover_3"><span class="figcap"><span class="fig--title-label">Figure 3. </span>Cover 3</span>
+                                
+                                <img class="image" src="../images/030-10-2104-00A-fig3.png" />
+                            </div>
+
+                        
+                    </li>
+
+                    <li class="li substep">
+                        <span class="ph cmd">Unscrew the four screws (see <a class="xref" href="#cover___removal__Cover_4">Figure 4</a>),
+                            which are fixing the plastic hinge, and remove the cover totally.</span>
+                        
+                            <div class="fig fignone" id="cover___removal__Cover_4"><span class="figcap"><span class="fig--title-label">Figure 4. </span>Cover 4</span>
+                                
+                                <img class="image" src="../images/030-10-2104-00A-fig4.png" />
+                            </div>
+
+                        
+                    </li>
+
+                </ol>
+
+            </li>
+<li class="li step" id="cover___removal__side_covers">
+                <span class="ph cmd"><strong class="ph b">Removal of <em class="ph i"><span class="ph">Left Side Cover</span></em> and <em class="ph i"><span class="ph">Right Side Cover</span></em></strong></span>
+                <ol type="a" class="ol substeps">
+                    <li class="li substep">
+                        <span class="ph cmd">The <em class="ph i"><span class="ph">Motor Cover</span></em> and the <em class="ph i"><span class="ph">Encoder Cover</span></em> must be removed
+                            beforehand (see step <a class="xref" href="#cover___removal__motor_cover_and_encoder_cover">1</a>).</span>
+                    </li>
+
+                    <li class="li substep">
+                        <span class="ph cmd">Pull the bottom of the <em class="ph i"><span class="ph">Side Cover</span></em> a
+                            couple of centimeters away from the unit and at the same time, pull the
+                                    <em class="ph i"><span class="ph">Side Cover</span></em> towards the motor
+                            cover (see <a class="xref" href="#cover___removal__Cover_5">Figure 5</a>).</span>
+                        
+                            <div class="fig fignone" id="cover___removal__Cover_5"><span class="figcap"><span class="fig--title-label">Figure 5. </span>Cover 5</span>
+                                
+                                <img class="image" src="../images/030-10-2104-00A-fig5.png" height="291" width="388" />
+                            </div>
+
+                        
+                    </li>
+
+                    <li class="li substep">
+                        <span class="ph cmd">Remove the <em class="ph i"><span class="ph">Side Cover</span></em> (see <a class="xref" href="#cover___removal__Cover_6">Figure 6</a>).</span>
+                        
+                            <div class="fig fignone" id="cover___removal__Cover_6"><span class="figcap"><span class="fig--title-label">Figure 6. </span>Cover 6</span>
+                                
+                                <img class="image" src="../images/030-10-2104-00A-fig6.png" height="289" width="384" />
+                            </div>
+
+                        
+                    </li>
+
+                </ol>
+
+            </li>
+<li class="li step">
+                <span class="ph cmd"><strong class="ph b">Removal of <em class="ph i"><span class="ph">Top Cover</span></em></strong></span>
+                <ol type="a" class="ol substeps">
+                    <li class="li substep">
+                        <span class="ph cmd">As the <em class="ph i"><span class="ph">Encoder Cover</span></em> and the <em class="ph i"><span class="ph">Motor Cover</span></em> are fixed to the <em class="ph i"><span class="ph">Top Cover</span></em>, it is necessary to remove
+                            these two covers first (see step <a class="xref" href="#cover___removal__motor_cover_and_encoder_cover">1</a> and step
+                                <a class="xref" href="#cover___removal__side_covers">2</a>).</span>
+                    </li>
+
+                    <li class="li substep">
+                        <span class="ph cmd">Remove the O-ring by pulling it out and up (see <a class="xref" href="#cover___removal__Cover_7">Figure 7</a>).</span>
+                        
+                            <div class="fig fignone" id="cover___removal__Cover_7"><span class="figcap"><span class="fig--title-label">Figure 7. </span>Cover 7</span>
+                                
+                                <img class="image" src="../images/030-10-2104-00A-fig7.png" />
+                            </div>
+
+                        
+                    </li>
+
+                    <li class="li substep">
+                        <span class="ph cmd">Remove the four hexagon bolts (see <a class="xref" href="#cover___removal__Cover_8">Figure 8</a>)</span>
+                        
+                            <div class="fig fignone" id="cover___removal__Cover_8"><span class="figcap"><span class="fig--title-label">Figure 8. </span>Cover 8</span>
+                                
+                                <img class="image" src="../images/030-10-2104-00A-fig8.png" />
+                            </div>
+
+                        
+                    </li>
+
+                    <li class="li substep">
+                        <span class="ph cmd">Take off the <em class="ph i"><span class="ph">Top Cover</span></em> by lifting it
+                            up over the shaft.</span>
+                    </li>
+
+                    <li class="li substep">
+                        <span class="ph cmd">Before mounting the <em class="ph i"><span class="ph">Top Cover</span></em> ensure
+                            that the threads for the four bolts are adjusted correctly. As seen in
+                                <a class="xref" href="#cover___removal__Cover_9">Figure 9</a> the threads can be moved in
+                            two directions.</span>
+                        
+                            <div class="fig fignone" id="cover___removal__Cover_9"><span class="figcap"><span class="fig--title-label">Figure 9. </span>Cover 9</span>
+                                
+                                <img class="image" src="../images/030-10-2104-00A-fig9.png" />
+                            </div>
+
+                        
+                    </li>
+
+                    <li class="li substep">
+                        <span class="ph cmd">Mount the <em class="ph i"><span class="ph">Top Cover</span></em>, insert and fasten
+                            the four bolts and finally, mount the O-ring.</span>
+                    </li>
+
+                </ol>
+
+            </li>
+</ol>
+
+    </div>
+
+</body>
+</html>

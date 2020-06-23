@@ -1,0 +1,30 @@
+<div class="allcontainer">
+  <div class="sidebuffer">col1</div>
+  <div class="centercolumn">
+    
+      <span class="doctitle" color="primary">{{docu.title}} - {{docu.type}} </span>
+    
+    <mat-sidenav-container class="navcontainer">
+        <mat-sidenav class="sidenav">
+            <app-toc [docid]='did'></app-toc>
+        </mat-sidenav>
+    
+        <mat-sidenav-content class="maincontent">
+          
+          
+          
+            <!--router-outlet name="html" class="routlet"></router-outlet-->
+            <app-htmldoc [doc]="doc" [docf]="docf"></app-htmldoc>
+          
+          <!--div [innerHtml]='htmlstring' class="htmlcontainer"></div-->
+       
+        </mat-sidenav-content> 
+      </mat-sidenav-container>
+  </div>
+  <div class="sidebuffer">col3</div>
+</div>
+
+
+<!-- open-close TOC-->
+
+

@@ -1,0 +1,30 @@
+
+    <button mat-icon-button (click)="snav.toggle()"><mat-icon>search</mat-icon> SEARCH</button>
+    <h2>Welcome </h2>
+    
+    <p *ngIf="loginstate.loggedin==false">Please login before you continue.</p>
+    <div fxLayout="row">
+      <mat-drawer-container>
+        <mat-drawer #snav mode="push">
+                <div class="sidenavcontainer">
+                    <app-searchbar (updateTerm)="onchangeTerm()"></app-searchbar>
+                </div>
+        </mat-drawer>
+    
+        <mat-drawer-content>
+                <div class="maincontent">
+                    <app-userdoc id="ud" class="boxitem"></app-userdoc>
+                    <app-elearning id="el" class="boxitem"></app-elearning>
+                    <app-whatsthat id="wt" class="boxitem"></app-whatsthat>
+                    <app-kbarticles id="kb" class="boxitem"></app-kbarticles>
+                    <app-incidents id="ic" class="boxitem"></app-incidents>
+                </div>
+        </mat-drawer-content>
+      </mat-drawer-container>
+    </div>
+    
+    <!-- sidenav-->
+    
+    
+    
+

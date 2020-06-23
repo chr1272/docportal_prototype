@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="copyright" content="(C) Copyright 2019" />
+<meta name="DC.rights.owner" content="(C) Copyright 2019" />
+<meta name="DC.type" content="topic" />
+<meta name="DC.title" content="VHF Antenna" />
+<meta name="abstract" content="The VHF Antenna converts electric power into radio waves, and vice versa." />
+<meta name="description" content="The VHF Antenna converts electric power into radio waves, and vice versa." />
+<meta name="DC.format" content="XHTML" />
+<meta name="DC.identifier" content="st5_vhf_antenna" />
+<link rel="stylesheet" type="text/css" href="../../commonltr.css" />
+<title>VHF Antenna</title>
+</head>
+<body id="st5_vhf_antenna">
+
+    <h1 class="title topictitle1" id="ariaid-title1">VHF Antenna</h1>
+
+    
+    <div class="body"><p class="shortdesc">The <em class="ph i">VHF Antenna</em> converts electric power into radio waves, and vice
+        versa.</p>
+
+        <p class="p">The VHF Antenna "PROCOM CXL 2-1LW" is used to convert electric power into radio waves,
+            and vice versa.</p>
+
+        <p class="p">The antenna is equipped with a lightning protection. It is installed in the shelter on
+            the AIS surge protection plate.</p>
+
+        <div class="fig fignone" id="st5_vhf_antenna__VHF_Antenna"><span class="figcap"><span class="fig--title-label">Figure 1. </span>VHF Antenna</span>
+            
+            <img class="image" src="../../images/st5_vhf_antenna.png" />
+        </div>
+
+    </div>
+
+</body>
+</html>

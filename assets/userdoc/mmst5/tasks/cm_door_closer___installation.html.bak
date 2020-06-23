@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="copyright" content="(C) Copyright 2019" />
+<meta name="DC.rights.owner" content="(C) Copyright 2019" />
+<meta name="DC.type" content="task" />
+<meta name="DC.title" content="Door Closer - Installation" />
+<meta name="abstract" content="Installation of the Door Closer." />
+<meta name="description" content="Installation of the Door Closer." />
+<meta name="DC.format" content="XHTML" />
+<meta name="DC.identifier" content="door_closer___installation" />
+<link rel="stylesheet" type="text/css" href="../commonltr.css" />
+<title>Door Closer - Installation</title>
+</head>
+<body id="door_closer___installation">
+
+    <h1 class="title topictitle1" id="ariaid-title1">Door Closer - Installation</h1>
+
+    
+    <div class="body taskbody"><p class="shortdesc">Installation of the <em class="ph i"><span class="ph">Door Closer</span></em>.</p>
+
+        <ol class="ol steps"><li class="li step">
+                <span class="ph cmd">Put the new <em class="ph i"><span class="ph">Door Closer</span></em> in the correct position (see <a class="xref" href="#door_closer___installation__Door_Closer">Figure 1</a>).</span>
+                
+                    <div class="fig fignone" id="door_closer___installation__Door_Closer"><span class="figcap"><span class="fig--title-label">Figure 1. </span>Door Closer</span>
+                        
+                        <img class="image" src="../images/ICN-ACTA-AA-XX-X-XXX-A-D2714-06367-A-01-1.png" />
+                    </div>
+
+                
+            </li>
+<li class="li step">
+                <span class="ph cmd">Fasten the six screws to the door and to the ground shelter frame (see item 1
+                    in <a class="xref" href="cm_door_closer___removal.html#door_closer___removal__Door_Closer_load_unload">Figure 1</a>).</span>
+            </li>
+<li class="li step">
+                <span class="ph cmd">Pre-load the <em class="ph i"><span class="ph">Door Closer</span></em> (see item 2 in <a class="xref" href="cm_door_closer___removal.html#door_closer___removal__Door_Closer_load_unload">Figure 1</a>).</span>
+            </li>
+<li class="li step">
+                <span class="ph cmd"><strong class="ph b">Adjust the <em class="ph i"><span class="ph">Door Closer</span></em>:</strong></span>
+                <ol type="a" class="ol substeps">
+                    <li class="li substep substepexpand">
+                        <span class="ph cmd">Adjust the <strong class="ph b">Spring Power</strong> (see right side in <a class="xref" href="#door_closer___installation__Adjustment_of_Door_Closer">Figure 2</a>).</span>
+                        <div class="itemgroup info">On the right-hand side the <em class="ph i">Spring Power</em> can be adjusted by
+                            tightening or loosening the screw. It is used to adjust the spring
+                            strength (force to close the door). Clockwise gives the closer more
+                            closing power (which also makes the door harder to open), and turning
+                            the screw counter clockwise, will give the door less closing strength
+                            (and makes the door easier to open).</div>
+                    </li>
+
+                    <li class="li substep substepexpand">
+                        <span class="ph cmd">Adjust the <strong class="ph b">Back Check</strong> (see item 1 in <a class="xref" href="#door_closer___installation__Adjustment_of_Door_Closer">Figure 2</a>).</span>
+                        <div class="itemgroup info">The <em class="ph i">Back Check</em> is used to slow the door down if someone throws
+                            the door open, or if the wind were to catch the door, and blow it open.
+                            Back check is used to slow the door down, not to stop the door.</div>
+                    </li>
+
+                    <li class="li substep substepexpand">
+                        <span class="ph cmd">Adjust the <strong class="ph b">Latch Speed</strong> (see item 3 in <a class="xref" href="#door_closer___installation__Adjustment_of_Door_Closer">Figure 2</a>).</span>
+                        <div class="itemgroup info">The <em class="ph i">Latch Speed Valve</em> can be adjusted to control how fast the
+                            door closes for the last few centimeters.</div>
+                    </li>
+
+                    <li class="li substep substepexpand">
+                        <span class="ph cmd">Adjust the <strong class="ph b">Main Speed</strong> (see item 2 in <a class="xref" href="#door_closer___installation__Adjustment_of_Door_Closer">Figure 2</a>).</span>
+                        <div class="itemgroup info">The <em class="ph i">Main Speed Screw</em> controls the main closing speed of the
+                            door. The main speed is the area from the door in the wide open position
+                            down to the last 15° before the latch. Turning the valve clockwise will
+                            make the door close slower. Turning the valve counter clockwise will
+                            cause the door to close faster.</div>
+                    </li>
+
+                </ol>
+
+                
+                    <div class="fig fignone" id="door_closer___installation__Adjustment_of_Door_Closer"><span class="figcap"><span class="fig--title-label">Figure 2. </span>Adjustment of Door Closer</span>
+                        
+                        <img class="image" src="../images/ICN-ACTA-AA-XX-X-XXX-A-D2714-06368-A-01-1.png" />
+                    </div>
+
+                
+            </li>
+</ol>
+
+    </div>
+
+</body>
+</html>

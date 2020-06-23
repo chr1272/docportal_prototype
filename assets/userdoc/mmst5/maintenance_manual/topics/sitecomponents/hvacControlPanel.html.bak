@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="copyright" content="(C) Copyright 2019" />
+<meta name="DC.rights.owner" content="(C) Copyright 2019" />
+<meta name="DC.type" content="topic" />
+<meta name="DC.title" content="HVAC Control Panel" />
+<meta name="abstract" content="The HVAC Control Panel controlls the Air Conditioning Unit." />
+<meta name="description" content="The HVAC Control Panel controlls the Air Conditioning Unit." />
+<meta name="DC.format" content="XHTML" />
+<meta name="DC.identifier" content="hvacControlPanel" />
+<link rel="stylesheet" type="text/css" href="../../commonltr.css" />
+<title>HVAC Control Panel</title>
+</head>
+<body id="hvacControlPanel">
+
+    <h1 class="title topictitle1" id="ariaid-title1">HVAC Control Panel</h1>
+
+    
+    <div class="body"><p class="shortdesc">The <em class="ph i">HVAC Control Panel</em> controlls the <em class="ph i">Air Conditioning Unit</em>.</p>
+
+        <p class="p">The <em class="ph i">MC4000 HVAC Control Panel</em> is manufactured by Bard and provides means for
+            communication and controlling the <em class="ph i">Air Conditioning Unit</em>.</p>
+
+        <div class="fig fignone" id="hvacControlPanel__HVAC_Control_Panel"><span class="figcap"><span class="fig--title-label">Figure 1. </span>HVAC Control Panel</span>
+            
+            <img class="image" src="../../images/ICN-ACTA-AA-050100000-A-D2714-06005-A-01-1.jpg" />
+        </div>
+
+    </div>
+
+</body>
+</html>

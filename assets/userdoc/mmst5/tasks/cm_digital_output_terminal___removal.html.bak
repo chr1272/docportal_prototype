@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="copyright" content="(C) Copyright 2019" />
+<meta name="DC.rights.owner" content="(C) Copyright 2019" />
+<meta name="DC.type" content="task" />
+<meta name="DC.title" content="Digital Output Terminal - Removal" />
+<meta name="abstract" content="Removal of the EL2008 8-Channel Digital Output Terminal." />
+<meta name="description" content="Removal of the EL2008 8-Channel Digital Output Terminal." />
+<meta name="DC.format" content="XHTML" />
+<meta name="DC.identifier" content="digital_output_terminal___removal" />
+<link rel="stylesheet" type="text/css" href="../commonltr.css" />
+<title>Digital Output Terminal - Removal</title>
+</head>
+<body id="digital_output_terminal___removal">
+
+    <h1 class="title topictitle1" id="ariaid-title1">Digital Output Terminal - Removal</h1>
+
+    
+    <div class="body taskbody"><p class="shortdesc">Removal of the <em class="ph i"><span class="ph">EL2008
+                        8-Channel Digital Output Terminal</span></em>.</p>
+
+        <ol class="ol steps"><li class="li step stepexpand">
+                <span class="ph cmd">Note and record the position of the cables before you disconnect them.</span>
+                
+                    <div class="fig fignone" id="digital_output_terminal___removal__EL1008_8-Channel_Digital_Output_Terminal"><span class="figcap"><span class="fig--title-label">Figure 1. </span>EL2008 8-Channel Digital Output Terminal</span>
+                        
+                        <img class="image" src="../images/ICN-ACTA-AA-03040107A-A-D2714-06398-A-A-1.jpg" />
+                        <dl class="dl">
+                            
+                                <dt class="dt dlterm">1</dt>
+
+                                <dd class="dd">Signal LED 2</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">2</dt>
+
+                                <dd class="dd">Signal LED 4</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">3</dt>
+
+                                <dd class="dd">Signal LED 6</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">4</dt>
+
+                                <dd class="dd">Signal LED 8</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">5</dt>
+
+                                <dd class="dd">Output 2</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">6</dt>
+
+                                <dd class="dd">Output 4</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">7</dt>
+
+                                <dd class="dd">Output 6</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">8</dt>
+
+                                <dd class="dd">Output 8</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">9</dt>
+
+                                <dd class="dd">Signal LED 1</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">10</dt>
+
+                                <dd class="dd">Signal LED 3</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">11</dt>
+
+                                <dd class="dd">Signal LED 5</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">12</dt>
+
+                                <dd class="dd">Signal LED 7</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">13</dt>
+
+                                <dd class="dd">Output 1</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">14</dt>
+
+                                <dd class="dd">Output 3</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">15</dt>
+
+                                <dd class="dd">Power contact +24 V</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">16</dt>
+
+                                <dd class="dd">Output 5</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">17</dt>
+
+                                <dd class="dd">Power contact 0 V</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">18</dt>
+
+                                <dd class="dd">Output 7</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">19</dt>
+
+                                <dd class="dd">Top view</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">20</dt>
+
+                                <dd class="dd">Contact assembly</dd>
+
+                            
+                        </dl>
+
+                    </div>
+
+                
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Disconnect the cables from the <em class="ph i"><span class="ph">Digital Output Terminal</span></em>.</span>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">To remove the terminal, release the secure lock on the mounting rail.</span>
+                
+                    <div class="fig fignone" id="digital_output_terminal___removal__Removal_of_the_terminal"><span class="figcap"><span class="fig--title-label">Figure 2. </span>Removal of the terminal</span>
+                        
+                        <img class="image" src="../images/ICN-ACTA-AA-03040107A-A-D2714-06405-A-A-1.jpg" />
+                    </div>
+
+                
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Pull the terminal by its orange-colored lugs approximately 1 cm away from the
+                    mounting rail (see <a class="xref" href="#digital_output_terminal___removal__Removal_of_the_terminal">Figure 2</a>).</span>
+                <div class="itemgroup stepresult">The mounting rail lock will be released automatically.</div>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Pull the terminal out of the bus terminal block.</span>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Hold the released terminal with thumb and index finger at the same time at the
+                    upper and lower grooved housing surfaces.</span>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Pull the terminal out of the bus terminal block.</span>
+            </li>
+</ol>
+
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="copyright" content="(C) Copyright 2019" />
+<meta name="DC.rights.owner" content="(C) Copyright 2019" />
+<meta name="DC.type" content="topic" />
+<meta name="DC.title" content="Troubleshooting tools" />
+<meta name="abstract" content="Short description of tools that can be used for troubleshooting." />
+<meta name="description" content="Short description of tools that can be used for troubleshooting." />
+<meta name="DC.format" content="XHTML" />
+<meta name="DC.identifier" content="tools" />
+<link rel="stylesheet" type="text/css" href="../../commonltr.css" />
+<title>Troubleshooting tools</title>
+</head>
+<body id="tools">
+
+    <h1 class="title topictitle1" id="ariaid-title1">Troubleshooting tools</h1>
+
+    
+    <div class="body"><p class="shortdesc">Short description of tools that can be used for troubleshooting.</p>
+
+        <div class="section" id="tools__section_l43_n3d_z2b"><h2 class="title sectiontitle">Built-In Test Equipment (BITE)</h2>
+            
+            <p class="p">This term refers to passive fault management and diagnosis equipment built into
+                assemblies and systems to support maintenance processes. In the context of <span class="ph">Site type 5 (Cam, Radar, AIS, RDF)</span>, this concerns the following components:</p>
+
+            <ul class="ul">
+                <li class="li">TERMA Radar</li>
+
+                <li class="li">NightOwl-M camera</li>
+
+                <li class="li">AIS</li>
+
+                <li class="li">RDF</li>
+
+            </ul>
+
+        </div>
+
+        <div class="section" id="tools__section_t2n_dlx_y2b"><h2 class="title sectiontitle">Multimeter</h2>
+            
+            <div class="p">
+                <table cellpadding="4" cellspacing="0" summary="" id="tools__simpletable_spq_shd_z2b" border="0" class="simpletable"><col style="width:50%" /><col style="width:50%" /><thead></thead><tbody><tr class="strow">
+                        <td style="vertical-align:top;" class="stentry"><img class="image" src="../../images/ts_multimeter.jpg" /><p class="p"><em class="ph i">(the multimeter used
+                                    for on-site troubleshooting may look
+                            different)</em></p>
+</td>
+
+                        <td style="vertical-align:top;" class="stentry">
+                            <p class="p">A multimeter is a combination of a multirange DC voltmeter,
+                                multirange AC voltmeter, multirange ammeter, and multirange
+                                ohmmeter.</p>
+
+                            <p class="p">In the context of on-site troubleshooting, it is used to determine if
+                                sufficient power (or any at all) is provided to an electrical
+                                component.</p>
+
+                        </td>
+
+                    </tr>
+</tbody></table>
+
+            </div>
+
+        </div>
+
+        <div class="section" id="tools__section_pk1_b3d_z2b"><h2 class="title sectiontitle">Wiring diagrams</h2>
+            
+            <div class="p">The appendix of this document contains wiring diagrams for the major site
+                    components:<ul class="ul" id="tools__ul_lry_d3d_z2b">
+                    <li class="li">Ground shelter (link)</li>
+
+                    <li class="li">Upmast cabinet (link)</li>
+
+                    <li class="li">Sensor platform (link)</li>
+
+                </ul>
+</div>
+
+        </div>
+
+        <div class="section" id="tools__section_lhr_g3d_z2b"><h2 class="title sectiontitle">Cabling diagrams</h2>
+            
+            <p class="p">The appendix of this document also contains cabling diagrams for the major site
+                components: </p>
+
+            <div class="p">
+                <ul class="ul" id="tools__ul_ejx_33d_z2b">
+                    <li class="li">Ground shelter (link)</li>
+
+                    <li class="li">Upmast cabinet (link)</li>
+
+                    <li class="li">Sensor platform (link)</li>
+
+                </ul>
+
+            </div>
+
+        </div>
+
+        <div class="section" id="tools__section_v5y_j3d_z2b"><h2 class="title sectiontitle">Network diagrams</h2>
+            
+            <p class="p">The appendix of this document also contains network diagrams for the major site
+                components: </p>
+
+            <div class="p">
+                <ul class="ul" id="tools__ul_w5y_j3d_z2b">
+                    <li class="li">Ground shelter (link)</li>
+
+                    <li class="li">Upmast cabinet (link)</li>
+
+                    <li class="li">Sensor platform (link)</li>
+
+                </ul>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</body>
+</html>

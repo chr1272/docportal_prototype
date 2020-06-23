@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="copyright" content="(C) Copyright 2019" />
+<meta name="DC.rights.owner" content="(C) Copyright 2019" />
+<meta name="DC.type" content="task" />
+<meta name="DC.title" content="AIS - Base Station - Fuse - Removal" />
+<meta name="abstract" content="Removal of a AIS - Base Station - Fuse." />
+<meta name="description" content="Removal of a AIS - Base Station - Fuse." />
+<meta name="DC.format" content="XHTML" />
+<meta name="DC.identifier" content="st5_cm_ais___base_station___fuse___removal" />
+<link rel="stylesheet" type="text/css" href="../commonltr.css" />
+<title>AIS - Base Station - Fuse - Removal</title>
+</head>
+<body id="st5_cm_ais___base_station___fuse___removal">
+
+    <h1 class="title topictitle1" id="ariaid-title1">AIS - Base Station - Fuse - Removal</h1>
+
+    
+    <div class="body taskbody"><p class="shortdesc">Removal of a <em class="ph i">AIS - Base Station - Fuse</em>.</p>
+
+        <ol class="ol steps"><li class="li step stepexpand">
+                <span class="ph cmd">Use the <em class="ph i">Monitor and Control Tool (MCT)</em> to shut down the FASS unit.</span>
+                <div class="itemgroup stepresult">Await clearance to power down the FASS unit and confirm it.</div>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Switch <strong class="ph b">OFF</strong> the <em class="ph i">AIS Base Station</em> with the power switch at the
+                    front of the device.</span>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Remove the defect fuse from the backside of the unit (see <a class="xref" href="#st5_cm_ais___base_station___fuse___removal__AIS_Base_Station_Fuse">Figure 1</a>).</span>
+                
+                    <div class="fig fignone" id="st5_cm_ais___base_station___fuse___removal__AIS_Base_Station_Fuse"><span class="figcap"><span class="fig--title-label">Figure 1. </span>AIS Base Station - Fuse</span>
+                        
+                        <img class="image" src="../images/st5_ais_base_station_3.png" />
+                        <dl class="dl">
+                            
+                                <dt class="dt dlterm">1</dt>
+
+                                <dd class="dd">Fuses F1 to F3</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">2</dt>
+
+                                <dd class="dd">Fuses in AC power intake</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">3</dt>
+
+                                <dd class="dd">Fuses F4 to F6</dd>
+
+                            
+                        </dl>
+
+                    </div>
+
+                
+            </li>
+</ol>
+
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,176 @@
+[
+        {
+            "name": "Abstract",
+            "url": "concepts::taskbook-abstract.html",
+            "shortdesc": "",
+            "hasChildren": false
+        },
+        {
+            "name": "Notice",
+            "url": "concepts::notices.html",
+            "shortdesc": "",
+            "hasChildren": true,
+            "children": {
+                "name": "Trademarks",
+                "url": "topics::trademarks.html",
+                "shortdesc": "",
+                "hasChildren": false
+            }
+        },
+        {
+            "name": "Sample Preface",
+            "url": "topics::task_preface.html",
+            "shortdesc": "",
+            "hasChildren": false
+        },
+        {
+            "name": "Installing",
+            "url": "topics::installing.html",
+            "shortdesc": "",
+            "hasChildren": true,
+            "children": [
+                {
+                    "name": "Installing hard drives or other storage",
+                    "url": "tasks::installstorage.html",
+                    "shortdesc": "",
+                    "hasChildren": true,
+                    "children": [
+                        {
+                            "name": "Remove the cover of your system",
+                            "url": "tasks::unscrewcover.html",
+                            "shortdesc": "",
+                            "hasChildren": false
+                        },
+                        {
+                            "name": "Attach the drive to the system",
+                            "url": "tasks::insertdrive.html",
+                            "shortdesc": "",
+                            "hasChildren": false
+                        },
+                        {
+                            "name": "Replace the cover of your system.",
+                            "url": "tasks::replacecover.html",
+                            "shortdesc": "",
+                            "hasChildren": false
+                        }
+                    ]
+                },
+                {
+                    "name": "Installing your own Web Server",
+                    "url": "tasks::installwebserver.html",
+                    "shortdesc": "",
+                    "hasChildren": true,
+                    "children": [
+                        {
+                            "name": "Close all of your programs",
+                            "url": "tasks::closeprograms.html",
+                            "shortdesc": "",
+                            "hasChildren": false
+                        },
+                        {
+                            "name": "Run Setup.exe",
+                            "url": "tasks::runsetup.html",
+                            "shortdesc": "",
+                            "hasChildren": false
+                        },
+                        {
+                            "name": "Restart your system",
+                            "url": "tasks::restart.html",
+                            "shortdesc": "",
+                            "hasChildren": false
+                        }
+                    ]
+                },
+                {
+                    "name": "Installing your own Database",
+                    "url": "tasks::installdb.html",
+                    "shortdesc": "",
+                    "hasChildren": false
+                }
+            ]
+        },
+        {
+            "name": "Configuring",
+            "url": "tasks::configuring.html",
+            "shortdesc": "",
+            "hasChildren": true,
+            "children": [
+                {
+                    "name": "Configuring hard storage devices",
+                    "url": "tasks::configurestorage.html",
+                    "shortdesc": "",
+                    "hasChildren": false
+                },
+                {
+                    "name": "Configuring your Web Server",
+                    "url": "tasks::configurewebserver.html",
+                    "shortdesc": "",
+                    "hasChildren": false
+                },
+                {
+                    "name": "Configuring a Database",
+                    "url": "tasks::configuredatabase.html",
+                    "shortdesc": "",
+                    "hasChildren": false
+                }
+            ]
+        },
+        {
+            "name": "Maintaining",
+            "url": "tasks::maintaining.html",
+            "shortdesc": "",
+            "hasChildren": true,
+            "children": [
+                {
+                    "name": "Maintaining your hard drive",
+                    "url": "tasks::maintainstorage.html",
+                    "shortdesc": "",
+                    "hasChildren": false
+                },
+                {
+                    "name": "Maintaining a Web Server",
+                    "url": "tasks::maintainserver.html",
+                    "shortdesc": "",
+                    "hasChildren": false
+                },
+                {
+                    "name": "Maintaining a database",
+                    "url": "tasks::maintaindatabase.html",
+                    "shortdesc": "",
+                    "hasChildren": false
+                }
+            ]
+        },
+        {
+            "name": "Troubleshooting",
+            "url": "tasks::troubleshooting.html",
+            "shortdesc": "",
+            "hasChildren": true,
+            "children": [
+                {
+                    "name": "Troubleshooting your hard disk",
+                    "url": "tasks::drivetrouble.html",
+                    "shortdesc": "",
+                    "hasChildren": false
+                },
+                {
+                    "name": "Troublshooting Web Server problems",
+                    "url": "tasks::webtrouble.html",
+                    "shortdesc": "",
+                    "hasChildren": false
+                },
+                {
+                    "name": "Troubleshooting a database",
+                    "url": "tasks::databasetrouble.html",
+                    "shortdesc": "",
+                    "hasChildren": false
+                }
+            ]
+        },
+        {
+            "name": "Sample Appendix",
+            "url": "topics::task_appendix.html",
+            "shortdesc": "",
+            "hasChildren": false
+        }
+    ]

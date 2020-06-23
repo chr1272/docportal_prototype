@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="copyright" content="(C) Copyright 2019" />
+<meta name="DC.rights.owner" content="(C) Copyright 2019" />
+<meta name="DC.type" content="task" />
+<meta name="DC.title" content="Maritime Radar Antenna System - Removal" />
+<meta name="abstract" content="Removal of the Maritime Radar Antenna System." />
+<meta name="description" content="Removal of the Maritime Radar Antenna System." />
+<meta name="DC.format" content="XHTML" />
+<meta name="DC.identifier" content="maritime_radar_antenna_system___removal" />
+<link rel="stylesheet" type="text/css" href="../commonltr.css" />
+<title>Maritime Radar Antenna System - Removal</title>
+</head>
+<body id="maritime_radar_antenna_system___removal">
+
+    <h1 class="title topictitle1" id="ariaid-title1">Maritime Radar Antenna System - Removal</h1>
+
+    
+    <div class="body taskbody"><p class="shortdesc">Removal of the <em class="ph i"><span class="ph">Maritime Radar Antenna System</span></em>.</p>
+
+        <ol class="ol steps"><li class="li step stepexpand">
+                <span class="ph cmd">To access the <em class="ph i"><span class="ph">Waveguide Junction</span></em>, remove the
+                    screws from one or two <em class="ph i"><span class="ph">Cover Plates</span></em> (see <a class="xref" href="#maritime_radar_antenna_system___removal__No_reinforcement">Figure 1</a> for
+                            <em class="ph i"><span class="ph">Non-reinforced Scanners</span></em> and <a class="xref" href="#maritime_radar_antenna_system___removal__Reinforcement">Figure 2</a> for <em class="ph i"><span class="ph">Reinforced Scanners</span></em>).</span>
+                
+                    <div class="fig fignone" id="maritime_radar_antenna_system___removal__No_reinforcement"><span class="figcap"><span class="fig--title-label">Figure 1. </span>No reinforcement</span>
+                        
+                        <img class="image" src="../images/ICN-ACTA-AA-030102010-A-D2714-05071-A-01-1.jpg" />
+                    </div>
+
+                
+                 
+                    <div class="fig fignone" id="maritime_radar_antenna_system___removal__Reinforcement"><span class="figcap"><span class="fig--title-label">Figure 2. </span>Reinforcement</span>
+                        
+                        <img class="image" src="../images/ICN-ACTA-AA-030102010-A-D2714-05072-A-01-1.jpg" />
+                    </div>
+
+                
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Loosen and remove the <em class="ph i">4 Finger Screws</em> (see <a class="xref" href="#maritime_radar_antenna_system___removal__Finger_screws">Figure 3</a>) to separate
+                    the <em class="ph i"><span class="ph">Waveguide</span></em> in the scanner from the <em class="ph i"><span class="ph">Waveguide</span></em> in the installation.</span>
+                <div class="itemgroup info">For the <em class="ph i"><span class="ph">Reinforced Scanners</span></em>, the center
+                    waveguide is rectangular and the finger screws are substituted by normal
+                    waveguide screws.</div>
+                 
+                    <div class="fig fignone" id="maritime_radar_antenna_system___removal__Finger_screws"><span class="figcap"><span class="fig--title-label">Figure 3. </span>Finger screws</span>
+                        
+                        <img class="image" src="../images/ICN-ACTA-AA-030102010-A-D2714-05073-A-01-1.jpg" />
+                    </div>
+
+                
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Mount the <em class="ph i"><span class="ph">Lifting Yoke</span></em> on the bearing
+                    construction for the radome and use the enclosed nuts to fasten it (see <a class="xref" href="#maritime_radar_antenna_system___removal__Lifting_yoke_with_slings">Figure 4</a>
+                    and <a class="xref" href="#maritime_radar_antenna_system___removal__Nuts_for_the_lifting_yoke">Figure 5</a>).</span>
+                <div class="itemgroup info">Mount the slings (minimum length 2 m) in the yoke so the crane is ready to
+                    lift the scanner as soon as the fixing nuts are removed. The crane also ensures
+                    that the scanner will not fall when the nuts are removed.</div>
+                 
+                    <div class="fig fignone" id="maritime_radar_antenna_system___removal__Lifting_yoke_with_slings"><span class="figcap"><span class="fig--title-label">Figure 4. </span>Lifting yoke with slings</span>
+                        
+                        <img class="image" src="../images/ICN-ACTA-AA-030102010-A-D2714-05074-A-01-1.jpg" />
+                    </div>
+
+                
+                 
+                    <div class="fig fignone" id="maritime_radar_antenna_system___removal__Nuts_for_the_lifting_yoke"><span class="figcap"><span class="fig--title-label">Figure 5. </span>Nuts for the lifting yoke</span>
+                        
+                        <img class="image" src="../images/ICN-ACTA-AA-030102010-A-D2714-05075-A-01-1.jpg" />
+                    </div>
+
+                
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Remove the eigth <em class="ph i"><span class="ph">Self-locking Nuts</span></em> and
+                    the eigth <em class="ph i"><span class="ph">Lock Washers</span></em>, which fix the
+                    scanner to the gearbox (see <a class="xref" href="#maritime_radar_antenna_system___removal__Nuts_and_washers_scanner">Figure 6</a>
+                    and <a class="xref" href="#maritime_radar_antenna_system___removal__Close-up_of_Nut_and_Washer">Figure 7</a>). </span>
+                
+                    <div class="fig fignone" id="maritime_radar_antenna_system___removal__Nuts_and_washers_scanner"><span class="figcap"><span class="fig--title-label">Figure 6. </span>Nuts and Washers (Scanner)</span>
+                        
+                        <img class="image" src="../images/ICN-ACTA-AA-030102010-A-D2714-05076-A-01-1.jpg" />
+                    </div>
+
+                
+                 
+                    <div class="fig fignone" id="maritime_radar_antenna_system___removal__Close-up_of_Nut_and_Washer"><span class="figcap"><span class="fig--title-label">Figure 7. </span>Close-up of Nut and Washer</span>
+                        
+                        <img class="image" src="../images/ICN-ACTA-AA-030102010-A-D2714-05077-A-01-1.jpg" />
+                    </div>
+
+                
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Lift the scanner.</span>
+            </li>
+</ol>
+
+    </div>
+
+</body>
+</html>

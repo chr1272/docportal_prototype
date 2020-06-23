@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="copyright" content="(C) Copyright 2019" />
+<meta name="DC.rights.owner" content="(C) Copyright 2019" />
+<meta name="DC.type" content="task" />
+<meta name="DC.title" content="Air Conditioning Unit - Filter - Installation" />
+<meta name="abstract" content="Installation of the Air Conditioning Unit - Filter." />
+<meta name="description" content="Installation of the Air Conditioning Unit - Filter." />
+<meta name="DC.format" content="XHTML" />
+<meta name="DC.identifier" content="pm_air_conditioning_unit___filter___installation" />
+<link rel="stylesheet" type="text/css" href="../commonltr.css" />
+<title>Air Conditioning Unit - Filter - Installation</title>
+</head>
+<body id="pm_air_conditioning_unit___filter___installation">
+
+    <h1 class="title topictitle1" id="ariaid-title1">Air Conditioning Unit - Filter - Installation</h1>
+
+    
+    <div class="body taskbody"><p class="shortdesc">Installation of the <em class="ph i"><span class="ph">Air Conditioning Unit - Filter</span></em>.</p>
+
+        <ol class="ol steps"><li class="li step">
+                <span class="ph cmd">Install the new <em class="ph i"><span class="ph">Filter</span></em> in the air filter tray.
+                    The air flow arrow (see red square in <a class="xref" href="#pm_air_conditioning_unit___filter___installation__Installation_position_of_filter">Figure 1</a>) has to point upwards!</span>
+                
+                    <div class="fig fignone" id="pm_air_conditioning_unit___filter___installation__Installation_position_of_filter"><span class="figcap"><span class="fig--title-label">Figure 1. </span>Installation position of filter</span>
+                        
+                        <img class="image" src="../images/Air_conditioning_fig4.png" />
+                    </div>
+
+                
+            </li>
+<li class="li step">
+                <span class="ph cmd">Reinstall the <em class="ph i"><span class="ph">Filter Access Cover</span></em> with the six
+                    screws (see <a class="xref" href="pm_air_conditioning_unit___filter___removal.html#pm_air_conditioning_unit___filter___removal__Filter_access_cover_closed">Figure 1</a>).</span>
+            </li>
+<li class="li step">
+                <span class="ph cmd">Switch both MDB circuit breakers for the <em class="ph i"><span class="ph">Air Conditioning Unit</span></em> to ON.</span>
+            </li>
+</ol>
+
+    </div>
+
+</body>
+</html>

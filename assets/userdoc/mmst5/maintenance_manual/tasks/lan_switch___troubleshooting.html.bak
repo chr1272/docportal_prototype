@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="copyright" content="(C) Copyright 2019" />
+<meta name="DC.rights.owner" content="(C) Copyright 2019" />
+<meta name="DC.type" content="task" />
+<meta name="DC.title" content="LAN Switch - Troubleshooting" />
+<meta name="abstract" content="This troubleshooting procedure applies to failure at the LAN Switch. The steps in this procedure should be performed after the equipment has been checked remotly with the network management tool." />
+<meta name="description" content="This troubleshooting procedure applies to failure at the LAN Switch. The steps in this procedure should be performed after the equipment has been checked remotly with the network management tool." />
+<meta name="DC.format" content="XHTML" />
+<meta name="DC.identifier" content="lan_switch___troubleshooting" />
+<link rel="stylesheet" type="text/css" href="../commonltr.css" />
+<title>LAN Switch - Troubleshooting</title>
+</head>
+<body id="lan_switch___troubleshooting">
+
+    <h1 class="title topictitle1" id="ariaid-title1">LAN Switch - Troubleshooting</h1>
+
+    
+    <div class="body taskbody"><p class="shortdesc">This troubleshooting procedure applies to failure at the LAN Switch. The steps in
+        this procedure should be performed after the equipment has been checked remotly with the
+        network management tool. </p>
+
+        <div class="section prereq prelreqs p" id="lan_switch___troubleshooting__prelreqs_tn5_jyj_gdb">
+            <ul class="ul ul reqconds" id="lan_switch___troubleshooting__reqconds_un5_jyj_gdb">
+                <li class="li li noconds"></li>
+
+            </ul>
+
+            <ul class="ul ul reqpers" id="lan_switch___troubleshooting__reqpers_vn5_jyj_gdb">
+                <li class="li li personnel">1</li>
+
+                <li class="li li perscat">Technical support team</li>
+
+                <li class="li li perskill">Electric</li>
+
+                <li class="li li esttime">10</li>
+
+            </ul>
+
+            <p class="p p supequip">
+                
+            </p>
+
+            <p class="p p supplies">
+                
+            </p>
+
+            <p class="p p spares">
+                
+            </p>
+
+        </div>
+
+        <ol><li class="li step">
+                <span class="ph cmd">Check that all lan cables properly inserted and the locking clip of the plug is
+                    engaged.</span>
+            </li>
+<li class="li step">
+                <span class="ph cmd">Check the ports LED's for any signs of anomaly.</span>
+            </li>
+</ol><p class="li stepsection">
+                <div class="fig fignone" id="lan_switch___troubleshooting__fig_x1n_v2z_3fb"><span class="figcap"><span class="fig--title-label">Figure 1. </span>Switch port LED</span>
+                    
+                    <img class="image" id="lan_switch___troubleshooting__image_ibt_x2z_3fb" src="../images/ts_switch_LED.jpg" height="118" width="172" />
+                </div>
+
+                <table cellpadding="4" cellspacing="0" summary="" id="lan_switch___troubleshooting__simpletable_w31_dfz_3fb" border="1" class="simpletable"><col style="width:15.356265356265355%" /><col style="width:12.285012285012284%" /><col style="width:72.35872235872235%" /><thead></thead><tbody><tr class="strow">
+                        <td style="vertical-align:top;" class="stentry"><strong class="ph b">LED</strong></td>
+
+                        <td style="vertical-align:top;" class="stentry"><strong class="ph b">Color</strong></td>
+
+                        <td style="vertical-align:top;" class="stentry"><strong class="ph b">State and Description</strong></td>
+
+                    </tr>
+<tr class="strow">
+                        <td style="vertical-align:top;" class="stentry">Link/Activity</td>
+
+                        <td style="vertical-align:top;" class="stentry">Green</td>
+
+                        <td style="vertical-align:top;" class="stentry">
+                            <ul class="ul" id="lan_switch___troubleshooting__ul_scs_ffz_3fb">
+                                <li class="li">Blinking—The port and the link are active, and there is link
+                                    activity</li>
+
+                                <li class="li">On steadily—The port and the link are active, but there is no
+                                    link activity.</li>
+
+                                <li class="li">Off—The port is not active.</li>
+
+                            </ul>
+
+                        </td>
+
+                    </tr>
+<tr class="strow">
+                        <td style="vertical-align:top;" class="stentry">Status</td>
+
+                        <td style="vertical-align:top;" class="stentry">Green</td>
+
+                        <td style="vertical-align:top;" class="stentry">Indicates the speed. The speed indicators are:<ul class="ul" id="lan_switch___troubleshooting__ul_jdn_3gz_3fb">
+                                <li class="li">One blink per second—10 Mbps</li>
+
+                                <li class="li">Two blinks per second—100 Mbps</li>
+
+                            </ul>
+</td>
+
+                    </tr>
+</tbody></table>
+
+            </p><ol start="3"><li class="li step">
+                <span class="ph cmd">If an amber or red LED is present that means there is an alarm or malfunction
+                    and needs to be checked remotely.</span>
+            </li>
+</ol>
+    </div>
+
+</body>
+</html>

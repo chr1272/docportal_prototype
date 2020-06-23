@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="copyright" content="(C) Copyright 2019" />
+<meta name="DC.rights.owner" content="(C) Copyright 2019" />
+<meta name="DC.type" content="task" />
+<meta name="DC.title" content="Remote Power Distribution 3Ph (Upmast Cabinet) - Configuration" />
+<meta name="abstract" content="Configuration of the Remote Power Distribution 3Ph (Upmast Cabinet)." />
+<meta name="description" content="Configuration of the Remote Power Distribution 3Ph (Upmast Cabinet)." />
+<meta name="DC.format" content="XHTML" />
+<meta name="DC.identifier" content="remote_power_distribution_3ph__upmast_cabinet____configuration" />
+<link rel="stylesheet" type="text/css" href="../commonltr.css" />
+<title>Remote Power Distribution 3Ph (Upmast Cabinet) - Configuration</title>
+</head>
+<body id="remote_power_distribution_3ph__upmast_cabinet____configuration">
+
+    <h1 class="title topictitle1" id="ariaid-title1">Remote Power Distribution 3Ph (Upmast Cabinet) - Configuration</h1>
+
+    
+    <div class="body taskbody"><p class="shortdesc">Configuration of the Remote <em class="ph i">Power Distribution 3Ph (Upmast
+        Cabinet)</em>.</p>
+
+        <div class="li step p">
+                <span class="ph cmd">From the KVM interface, configure the IP settings.</span>
+                <ol type="a" class="ol substeps">
+                    <li class="li substep substepexpand">
+                        <span class="ph cmd">Connect the PDU to a computer that has a terminal emulation program connected to the
+                            console port of the console server (with session settings of 9600, 8, N and 1, without flow
+                            control).
+                        </span>
+                    </li>
+
+                    <li class="li substep substepexpand">
+                        <span class="ph cmd">Access the CLI through the console port, with Telnet or SSH or through the web manager.</span>
+                    </li>
+
+                    <li class="li substep substepexpand">
+                        <span class="ph cmd">Type the username and password at the prompt. --&gt; The <em class="ph i">cli-&gt;</em>
+                            prompt appears.</span>
+                        <div class="itemgroup stepresult"><em class="ph i">Welcome to Avocent PM PDU </em>host name<em class="ph i">. Type help for
+                            more information --:- / cli-&gt;</em></div>
+                    </li>
+
+                    <li class="li substep substepexpand">
+                        <span class="ph cmd">At the command prompt (at the "/" level), enter <em class="ph i">wiz</em> to view the
+                            current IP configuration.</span>
+                    </li>
+
+                    <li class="li substep substepexpand">
+                        <span class="ph cmd">To change the IP configuration, press <em class="ph i">Tab</em> to move through the
+                            parameters, and press <em class="ph i">Esc + Tab</em> to edit the selected parameter.
+                        </span>
+                    </li>
+
+                    <li class="li substep substepexpand">
+                        <span class="ph cmd">When you are finished, enter <em class="ph i">yes</em> to confirm that all parameters
+                            are correct and to save the new parameters. </span>
+                    </li>
+
+                </ol>
+
+            </div>
+
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="copyright" content="(C) Copyright 2019" />
+<meta name="DC.rights.owner" content="(C) Copyright 2019" />
+<meta name="DC.type" content="task" />
+<meta name="DC.title" content="Fixed Outdoor Camera Unit - Installation" />
+<meta name="abstract" content="Installation of the Fixed Outdoor Camera Unit." />
+<meta name="description" content="Installation of the Fixed Outdoor Camera Unit." />
+<meta name="DC.format" content="XHTML" />
+<meta name="DC.identifier" content="fixed_outdoor_camera_unit___installation" />
+<link rel="stylesheet" type="text/css" href="../commonltr.css" />
+<title>Fixed Outdoor Camera Unit - Installation</title>
+</head>
+<body id="fixed_outdoor_camera_unit___installation">
+
+    <h1 class="title topictitle1" id="ariaid-title1">Fixed Outdoor Camera Unit - Installation</h1>
+
+    
+    <div class="body taskbody"><p class="shortdesc">Installation of the <em class="ph i"><span class="ph">Fixed Outdoor Camera
+                                Unit</span></em>.</p>
+
+        <ol><li class="li step">
+                <span class="ph cmd">Mount the replacement camera into the camera housing.</span>
+            </li>
+</ol><p class="li stepsection">
+                <ol class="ol" type="a">
+                    <li class="li">Slightly tilt the camera/lens tray assembly and slide it in under the rail
+                        (which is located under the heater, on the right side of the housing).</li>
+
+                    <li class="li">Lower the tray, so that the holes at the side fit over the two screws of the
+                        housing.</li>
+
+                    <li class="li">Slide the entire assembly forward (approximately 5 mm (0.2 in.) from the
+                        front of the<p class="p">window).</p>
+</li>
+
+                    <li class="li">Tighten the two screws, to lock the tray in place. <div class="fig fignone"><span class="figcap"><span class="fig--title-label">Figure 1. </span>Camera mounting</span>
+                            
+                            <img class="image" src="../images/ts_outdoor_camera_mounting.png" height="335" width="412" />
+                        </div>
+</li>
+
+                </ol>
+
+            </p><ol start="2"><li class="li step">
+                <span class="ph cmd">Connect the network and the power cable.</span>
+            </li>
+<li class="li step">
+                <span class="ph cmd">Check, if the camera is
+                    functional.</span>
+            </li>
+</ol>
+    </div>
+
+</body>
+</html>

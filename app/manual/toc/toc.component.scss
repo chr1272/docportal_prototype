@@ -1,0 +1,88 @@
+
+.example-tree {
+  min-width:200px;
+}
+
+
+.example-tree-invisible {
+  display: none;
+}
+
+.example-tree ul,
+.example-tree li {
+  margin-top: -5px;
+  margin-bottom: 0;
+  list-style-type: none;
+}
+
+ul{
+  margin-left:10px;
+}
+
+/* Second Level
+.example-tree-progress-bar {
+  margin-left: 10px;
+}
+ */
+.example-tree-nested-node {
+  padding-left: 10px;
+}
+
+li.mat-tree-node,
+li div { 
+  margin: 0;
+  position: relative;
+  min-height:30px;
+  //top: 24px; 
+}
+
+li ul {
+  //border-top: 1px dotted grey;
+  margin-left: -15px;
+  padding-left: 25px;
+}
+
+.mat-nested-tree-node:last-child ul {
+  /*border-left: 1px solid white;*/
+  margin-left: -11px;
+}
+
+.mat-icon-button {
+  z-index: 100;
+  line-height:32px;
+}
+mat-button {
+  line-height:32px;
+}
+/*
+.mat-tree-node.button-active {
+  background-image: url('../../../assets/images/bg_toc_active.svg');
+  background-repeat: no-repeat;
+}
+*/
+.button-active {
+  background-color: #FFD458;
+}
+
+.matbutt {
+  width:100%;
+  font-size:0.8em;
+  text-align: left;
+}
+.mat-tree-node, .mat-tree-node.mat-tree-node, .mat-nested-tree-node, .mat-nested-tree-node.mat-nested-tree-node {
+  line-height:32px;
+}
+
+.mat-tree-node > button {
+  font-size:0.8em;
+}
+
+.mat-tree-node > li {
+  margin:0;
+  padding:0;
+}
+
+.mat-nested-tree-node > li {
+  margin:0;
+  padding:0;
+}

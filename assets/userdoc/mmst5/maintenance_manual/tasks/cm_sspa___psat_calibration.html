@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+        <meta name="copyright" content="(C) Copyright 2019" />
+        <meta name="DC.rights.owner" content="(C) Copyright 2019" />
+        <meta name="DC.type" content="task" />
+        <meta name="DC.title" content="SSPA - PSAT Calibration" />
+        <meta name="abstract" content="PSAT calibration of the SSPA." />
+        <meta name="description" content="PSAT calibration of the SSPA." />
+        <meta name="DC.format" content="XHTML" />
+        <meta name="DC.identifier" content="sspa___psat_calibration" />
+        <link rel="stylesheet" type="text/css" href="../commonltr.css" />
+        <title>SSPA - PSAT Calibration</title>
+    </head>
+    <body id="sspa___psat_calibration">
+        <h1 class="title topictitle1" id="ariaid-title1">SSPA - PSAT Calibration</h1>
+        <div class="body taskbody">
+            <p class="shortdesc">PSAT calibration of the <em class="ph i"><span class="ph"
+                        >SSPA</span></em>.</p>
+
+            <ol class="ol steps">
+                <li class="li step">
+                    <span class="ph cmd">This procedure assumes, that all profiles use the same
+                        frequency bands. If this is not the case, then each profile should be
+                        calibrated separately.</span>
+                </li>
+                <li class="li step">
+                    <span class="ph cmd">Calibration in the “Low Level” perspective:</span>
+                    <ol type="a" class="ol substeps">
+                        <li class="li substep">
+                            <span class="ph cmd">Open the “<em class="ph i">Profile Editor</em>”
+                                view.</span>
+                        </li>
+
+                        <li class="li substep">
+                            <span class="ph cmd">Find the “<em class="ph i">Carrier frequency scale
+                                    factors</em>” parameters and make sure, that none of the scale
+                                factors are checked as “<em class="ph i">Profiled</em>” (see "<em
+                                    class="ph i">Configuration/RxTx/Chirp Generation</em>").</span>
+                        </li>
+
+                    </ol>
+                </li>
+                <li class="li step">
+                    <span class="ph cmd">Calibration in the “<em class="ph i">Profile Editor</em>”
+                        perspective:</span>
+                    <ol type="a" class="ol substeps">
+                        <li class="li substep">
+                            <span class="ph cmd">Find the “<em class="ph i">PSAT Calibration
+                                    Status</em>” parameter.</span>
+                        </li>
+
+                        <li class="li substep">
+                            <span class="ph cmd">Make sure, it is not checked as “<em class="ph i"
+                                    >Profiled</em>” (see "<em class="ph i">Service And
+                                    Installation/PSAT Calibration</em>").</span>
+                        </li>
+
+                    </ol>
+                </li>
+                <li class="li step">
+                    <span class="ph cmd">Calibration in the “<em class="ph i">Parameter</em>”
+                        perspective:</span>
+                    <ol type="a" class="ol substeps">
+                        <li class="li substep substepexpand">
+                            <span class="ph cmd">Check the value of the “<em class="ph i">PSAT
+                                    Calibration Status</em>” parameter.</span>
+                        </li>
+
+                        <li class="li substep substepexpand">
+                            <span class="ph cmd">If the value is “<em class="ph i">Not
+                                    Calibrated</em>”, then change the “<em class="ph i">PSAT
+                                    Calibration</em>” parameter from “<em class="ph i">off</em>” to
+                                    “<em class="ph i">on</em>”.</span>
+                            <div class="itemgroup stepresult">The calibration process will take a
+                                few minutes. The “<em class="ph i">PSAT Calibration Status</em>”
+                                will then show the value “<em class="ph i">Calibrated</em>”.</div>
+                        </li>
+
+                    </ol>
+                </li>
+            </ol>
+
+        </div>
+    </body>
+</html>

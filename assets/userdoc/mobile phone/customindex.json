@@ -1,0 +1,158 @@
+[
+        {
+            "name": "Getting Started",
+            "url": "topics::gettingStarted.html",
+            "shortdesc": "Technical details.",
+            "hasChildren": true,
+            "children": [
+                {
+                    "name": "Introduction",
+                    "url": "topics::introduction.html",
+                    "shortdesc": "",
+                    "hasChildren": false
+                },
+                {
+                    "name": "Brief specifications",
+                    "url": "topics::Specifications.html",
+                    "shortdesc": "",
+                    "hasChildren": false
+                },
+                {
+                    "name": "Inserting the battery",
+                    "url": "tasks::insertBattery.html",
+                    "shortdesc": "",
+                    "hasChildren": false
+                },
+                {
+                    "name": "Removing the battery",
+                    "url": "tasks::removingBattery.html",
+                    "shortdesc": "",
+                    "hasChildren": false
+                },
+                {
+                    "name": "Inserting the SIM card",
+                    "url": "tasks::insertSim.html",
+                    "shortdesc": "",
+                    "hasChildren": false
+                },
+                {
+                    "name": "Important keys and shortcuts",
+                    "url": "topics::importantKeys.html",
+                    "shortdesc": "",
+                    "hasChildren": false
+                }
+            ]
+        },
+        {
+            "name": "Phone Basics",
+            "url": "topics::phoneBasics.html",
+            "shortdesc": "Basic phone operations.",
+            "hasChildren": true,
+            "children": [
+                {
+                    "name": "Making a call",
+                    "url": "tasks::makeACall.html",
+                    "shortdesc": "",
+                    "hasChildren": false
+                },
+                {
+                    "name": "Setting up a conference call",
+                    "url": "tasks::makeConferenceCall.html",
+                    "shortdesc": "You can easily set up a conference call with your family, friends, co-workers. Call\n        the first participant and then join calls together as described  in the following\n        procedure.",
+                    "hasChildren": false
+                },
+                {
+                    "name": "Adjusting the volume",
+                    "url": "topics::adjustVolume.html",
+                    "shortdesc": "",
+                    "hasChildren": false
+                },
+                {
+                    "name": "Locking and unlocking your phone",
+                    "url": "tasks::lockKeys.html",
+                    "shortdesc": "",
+                    "hasChildren": false
+                }
+            ]
+        },
+        {
+            "name": "Phone Setup",
+            "url": "topics::setup.html",
+            "shortdesc": "Basic phone setup.",
+            "hasChildren": true,
+            "children": [
+                {
+                    "name": "E-mail",
+                    "url": "topics::email.html",
+                    "shortdesc": "Setting up your e-mail account.",
+                    "hasChildren": true,
+                    "children": [
+                        {
+                            "name": "Setting up an e-mail address",
+                            "url": "tasks::setUpEmail.html",
+                            "shortdesc": "You can use the Mail application to set up your email and other POP3 or IMAP email\n        accounts.",
+                            "hasChildren": false
+                        },
+                        {
+                            "name": "Composing and sending email messages",
+                            "url": "tasks::composeSendEmail.html",
+                            "shortdesc": "",
+                            "hasChildren": false
+                        },
+                        {
+                            "name": "Deleting one or more email messages",
+                            "url": "topics::deleteEmails.html",
+                            "shortdesc": "",
+                            "hasChildren": false
+                        }
+                    ]
+                },
+                {
+                    "name": "Bluetooth®",
+                    "url": "concepts::Bluetooth.html",
+                    "shortdesc": "Connect to any device",
+                    "hasChildren": true,
+                    "children": [
+                        {
+                            "name": "Turning Bluetooth® on and off",
+                            "url": "tasks::turnBluetoothOnOff.html",
+                            "shortdesc": "Turn off Bluetooth when you are not using it to save battery power.\n        Also, turned it off in places where using a wireless device is not allowed (for example on\n        board an aircraft). ",
+                            "hasChildren": false
+                        },
+                        {
+                            "name": "Sending files using Bluetooth®",
+                            "url": "tasks::sendFileBluetooth.html",
+                            "shortdesc": " You can use Bluetooth® to send your picture, videos, and audio files to another\n        Bluetooth® enabled device such as a phone or notebook computer. ",
+                            "hasChildren": false
+                        },
+                        {
+                            "name": "Receiving files using Bluetooth®",
+                            "url": "tasks::receiveFilesBluetooth.html",
+                            "shortdesc": " When a file is sent to your phone using Bluetooth® technology, a dialog box\n        appears on your phone screen. ",
+                            "hasChildren": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Troubleshooting",
+            "url": "topics::serviceAndTroubleshooting.html",
+            "shortdesc": "How to fix common problems.",
+            "hasChildren": true,
+            "children": [
+                {
+                    "name": "Repairing the phone",
+                    "url": "topics::repairingThePhone.html",
+                    "shortdesc": "",
+                    "hasChildren": false
+                },
+                {
+                    "name": "Running problem diagnostic report",
+                    "url": "topics::runDiagnosticReport.html",
+                    "shortdesc": "",
+                    "hasChildren": false
+                }
+            ]
+        }
+    ]

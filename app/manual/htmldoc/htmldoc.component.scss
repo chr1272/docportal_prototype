@@ -1,0 +1,31 @@
+.htmlcontainer {
+    padding-left:20px;
+    padding-right:20px;
+}
+
+.haz {
+    display:flex;
+    flex-direction: row wrap;
+    width:90%;
+    padding:5px;
+    border:1px solid grey;
+    border-radius:5px;
+}
+
+.hazimg {
+    flex:1;
+}
+
+.messagepanel {
+    flex:6;
+}
+
+.typeofhazard {
+    font-weight:bold;
+    font-size:1.1em;
+    background-color:yellow;
+}
+
+ol.ol.safety {
+    list-style: none;
+}

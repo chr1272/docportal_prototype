@@ -1,0 +1,9 @@
+<h3>What's that?</h3>
+<p>Descriptions of relevant terms.</p>
+<mat-list>
+    <mat-list-item *ngFor="let whatsthat of whatsthats" class="whatsdesc">
+      <mat-icon mat-list-icon>folder</mat-icon>
+      <h4 mat-line><a href="#">{{whatsthat.term}}</a></h4>
+      <span mat-line>{{whatsthat.desc}}</span>
+    </mat-list-item>   
+  </mat-list>

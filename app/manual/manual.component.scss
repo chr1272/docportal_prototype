@@ -1,0 +1,90 @@
+@import '../../color_definition';
+
+
+/*
+.toc {
+    min-width:200px;
+    max-width:1920px;
+    background-color: $palette-primary-100;
+    flex-grow:1;
+    padding-left:10px;
+    display:flex;
+    flex-direction: row;
+}
+*/
+h2 {
+    position:relative;
+    top:-25px;    
+    left:10px;
+    color:rgb(45, 86, 146);
+}
+.navcontainer {
+    display: flex;
+    flex-direction: row;
+    top: 220px;
+  }
+  
+  .sidenav {
+    flex:1;
+    min-width: 250px;
+  }
+
+  .maincontent {
+    flex:3;
+    min-width: 750px;
+  }
+  
+  .example-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+  }
+  
+  .example-footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+
+
+  .routlet {
+    width:1000px;
+    background-color:hotpink;
+  }
+
+  .example-toolbar {
+    vertical-align: top;
+    padding-top:-10px;
+  }
+
+  .example-spacer {
+    flex: 1 1 auto;
+  }
+
+  .doctitle {
+    vertical-align:middle;
+  }
+
+  .maincontent {
+    position:relative;
+    left:20px;
+    flex:1 1 auto;
+    width:calc(100%-300px);
+  }
+
+
+  .allcontainer{
+    display:flex;
+    flex-direction:row;
+    height:calc(100vh-220px);
+  }
+  .sidebuffer {
+    flex:1;
+  }
+
+  .centercolumn {
+    flex:3;
+    min-width:800px;
+  }

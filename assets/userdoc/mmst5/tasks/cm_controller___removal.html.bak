@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="copyright" content="(C) Copyright 2019" />
+<meta name="DC.rights.owner" content="(C) Copyright 2019" />
+<meta name="DC.type" content="task" />
+<meta name="DC.title" content="Controller - Removal" />
+<meta name="abstract" content="Removal of the Controller." />
+<meta name="description" content="Removal of the Controller." />
+<meta name="DC.format" content="XHTML" />
+<meta name="DC.identifier" content="controller___removal" />
+<link rel="stylesheet" type="text/css" href="../commonltr.css" />
+<title>Controller - Removal</title>
+</head>
+<body id="controller___removal">
+
+    <h1 class="title topictitle1" id="ariaid-title1">Controller - Removal</h1>
+
+    
+    <div class="body taskbody"><p class="shortdesc">Removal of the <em class="ph i">Controller</em>.</p>
+
+        <ol class="ol steps"><li class="li step">
+                <span class="ph cmd">Disconnect the cables from the <em class="ph i"><span class="ph">CX9020 controller</span></em> (see <a class="xref" href="#controller___removal__Controller">Figure 1</a>).</span>
+            </li>
+<li class="li step">
+                <span class="ph cmd">Remove the bar clips on the top side and on the underside (see <a class="xref" href="cm_controller___installation.html#controller___installation__CPU_Installation">Figure 1</a>).</span>
+            </li>
+<li class="li step">
+                <span class="ph cmd">To release the terminal, pull the orange terminal release.</span>
+            </li>
+<li class="li step">
+                <span class="ph cmd">Pull the <em class="ph i"><span class="ph">CX9020 controller</span></em> slightly until it
+                    releases from the mounting rail.</span>
+                
+                    <div class="fig fignone" id="controller___removal__Controller"><span class="figcap"><span class="fig--title-label">Figure 1. </span>Controller CX9020</span>
+                        
+                        <img class="image" src="../images/_sources/Controller-01.svg" />
+                    </div>
+
+                
+            </li>
+</ol>
+
+        <div class="example">
+            <div class="fig fignone" id="controller___removal__SCADA_schematics"><span class="figcap"><span class="fig--title-label">Figure 2. </span>SCADA schematics</span>
+                
+                <img class="image" src="../images/Scada_schematics.png" height="685" width="813" />
+            </div>
+
+        </div>
+
+    </div>
+
+</body>
+</html>

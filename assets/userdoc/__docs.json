@@ -1,0 +1,32 @@
+[
+        {
+            "id": 1,
+            "type": "User manual",
+            "title": "Mobile phone",
+            "index": "mobile phone/customindex.json"
+        },
+        {
+            "id": 2,
+            "type": "Maintenance Manual",
+            "title": "Site Type 5",
+            "index": "mmst5/customindex.json"
+        },
+        {
+            "id": 3,
+            "type": "Operator manual",
+            "title": "Land Surveillance Application",
+            "index": "lsapp/customindex.json"
+        },
+        {
+            "id": 4,
+            "type": "Operator manual",
+            "title": "Mobile C2",
+            "index": "xhtml/customindex.json"
+        },
+        {
+            "id": 5,
+            "type": "Operator manual",
+            "title": "WAO C2O",
+            "index": "xhtml/customindex.json"
+        }
+]

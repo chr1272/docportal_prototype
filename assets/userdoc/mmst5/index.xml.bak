@@ -1,0 +1,1166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:noNamespaceSchemaLocation="file:///C:/Users/CMA-MSI/dp1/src/assets/userdoc/mmst5_1/simpletoc.xsd">
+   <ul>
+      <li name="Document information"
+          link="topics/preface/fm_document_information.html">
+         <ul>
+            <li name="Change record" link="topics/preface/fm_change_record.html"/>
+            <li name="Distribution list"
+                link="topics/preface/fm_distribution_list.html"/>
+         </ul>
+      </li>
+      <li name="Health and Safety">
+         <ul>
+            <li name="General health and safety" link="topics/safety/safety.html"/>
+            <li name="Safety recommendations"
+                link="topics/safety/safetyrecommendations.html"/>
+         </ul>
+      </li>
+      <li name="Site components">
+         <ul>
+            <li name="Site overview" link="topics/overview/general-overview.html"/>
+            <li name="Ground shelter"
+                link="topics/sitecomponents/comp_groundshelter_overview.html">
+               <ul>
+                  <li name="FM200 Cylinder" link="topics/sitecomponents/fm200Cylinder.html"/>
+                  <li name="HVAC Control Panel"
+                      link="topics/sitecomponents/hvacControlPanel.html"/>
+                  <li name="Air Conditioning Unit"
+                      link="topics/sitecomponents/airConditioningUnit.html"/>
+                  <li name="CO2 Fire Extinguisher"
+                      link="topics/sitecomponents/co2FireExtinguisher.html"/>
+                  <li name="Main Distribution Board (MDB)"
+                      link="topics/sitecomponents/mainDistributionBoardMdb.html"/>
+                  <li name="UPS Main Distribution Board (MDB)"
+                      link="topics/sitecomponents/upsMainDistributionBoardMdb.html"/>
+                  <li name="Internal Light" link="topics/sitecomponents/internalLight.html"/>
+                  <li name="Motion Detector" link="topics/sitecomponents/motionDetector.html"/>
+                  <li name="Ground Shelter Rack"
+                      link="topics/sitecomponents/groundShelterRack.html">
+                     <ul>
+                        <li name="Optical Distribution Frame (ODF)"
+                            link="topics/sitecomponents/opticalDistributionFrameRack.html"/>
+                        <li name="UPS (Rack)" link="topics/sitecomponents/upsRack.html"/>
+                        <li name="VMD Server" link="topics/sitecomponents/vmdComputerRack.html"/>
+                        <li name="PM PDU" link="topics/sitecomponents/pmPduRack.html"/>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li name="Upmast Cabinet "
+                link="topics/sitecomponents/comp_upmast_cabinet___overview.html">
+               <ul>
+                  <li name="Scanter 5202" link="topics/sitecomponents/comp_scanter_5202.html">
+                     <ul>
+                        <li name="Waveguide Assembly"
+                            link="topics/sitecomponents/comp_waveguide_assembly.html"/>
+                        <li name="RxTx" link="topics/sitecomponents/comp_rxtx.html"/>
+                        <li name="SSPA" link="topics/sitecomponents/comp_sspa.html"/>
+                     </ul>
+                  </li>
+                  <li name="Radar Digitizing Unit"
+                      link="topics/sitecomponents/comp_digitizing_unit__du_.html"/>
+                  <li name="AIS Base Station"
+                      link="topics/sitecomponents/st5_ais_base_station.html"/>
+                  <li name="Power Supply Unit (PSU)"
+                      link="topics/sitecomponents/st5_power_supply_unit.html"/>
+               </ul>
+            </li>
+            <li name="Outdoor systems"/>
+            <li name="Sensors" link="topics/sitecomponents/comp_sensors_overview.html">
+               <ul>
+                  <li name="TERMA Radar" link="topics/sitecomponents/comp_terma_radar.html"/>
+                  <li name="AIS Components" link="maps/st5_ais_components.html">
+                     <ul>
+                        <li name="GPS Antenna" link="topics/sitecomponents/st5_gps_antenna.html"/>
+                        <li name="VHF Antenna" link="topics/sitecomponents/st5_vhf_antenna.html"/>
+                        <li name="AIS Assembly" link="topics/sitecomponents/st5_ais_assembly.html"/>
+                     </ul>
+                  </li>
+                  <li name="RDF Components" link="maps/st5_rdf_components.html">
+                     <ul>
+                        <li name="RDF Assembly" link="topics/sitecomponents/st5_rdf_assembly.html"/>
+                        <li name="Antenna Switching Unit (ASU)"
+                            link="topics/sitecomponents/st5_antenna_switching_unit.html"/>
+                        <li name="RDF Antenna" link="topics/sitecomponents/st5_rdf_antenna.html"/>
+                        <li name="RDF Receiver" link="topics/sitecomponents/st5_rdf_receiver.html"/>
+                        <li name="GPS Antenna (TRIMBLE)"
+                            link="topics/sitecomponents/st5_rdf_gps_antenna.html"/>
+                        <li name="Static Protection Unit"
+                            link="topics/sitecomponents/st5_static_protection_unit.html"/>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li name="Supervision">
+               <ul>
+                  <li name="LCD KVM" link="topics/sitecomponents/lcdKvmRack.html"/>
+                  <li name="IP KVM Switch" link="topics/sitecomponents/ipKvmSwitchRack.html"/>
+                  <li name="Monitoring PC"
+                      link="topics/sitecomponents/serviceComputerRack.html"/>
+               </ul>
+            </li>
+            <li name="LAN system">
+               <ul>
+                  <li name="LAN Network Switch Type 3"
+                      link="topics/sitecomponents/juniperNetworkSwitchEx340024tRack.html"/>
+               </ul>
+            </li>
+            <li name="Software components"/>
+         </ul>
+      </li>
+      <li name="Tools" link="tools/tools.html"/>
+      <li name="Troubleshooting guide">
+         <ul>
+            <li name="Overview" link="topics/troubleshooting/overview.html"/>
+            <li name="Troubleshooting process"
+                link="topics/troubleshooting/methods.html"/>
+            <li name="Troubleshooting tools" link="topics/troubleshooting/tools.html"/>
+            <li name="Troubleshooting tasks " link="topics/troubleshooting/tasks.html">
+               <ul>
+                  <li name="Ground shelter">
+                     <ul>
+                        <li name="Fire detection and suppression system - Troubleshooting"
+                            link="tasks/fire_detection_and_suppression_system___troubleshooting.html"/>
+                        <li name="Fire Alarm Bell - Troubleshooting"
+                            link="tasks/fire_alarm_bell___troubleshooting.html"/>
+                        <li name="Motion Detector - Troubleshooting"
+                            link="tasks/motion_detector___troubleshooting.html"/>
+                        <li name="tasks/air_conditioning_unit___troubleshooting.dita"
+                            link="tasks/air_conditioning_unit___troubleshooting.html"/>
+                        <li name="HVAC Control Panel - Functional Check"
+                            link="tasks/pm_hvac_control_panel___functional_check.html"/>
+                        <li name="HVAC Controller - Troubleshooting"
+                            link="tasks/hvac_controller___troubleshooting.html"/>
+                        <li name="Temperature Sensor - Troubleshooting"
+                            link="tasks/temperature_sensor___troubleshooting.html"/>
+                        <li name="Smoke detector - Troubleshooting"
+                            link="tasks/smoke_detector___troubleshooting.html"/>
+                        <li name="UPS Battery kit - Functional Check"
+                            link="tasks/pm_ups_battery_kit___functional_check.html"/>
+                        <li name="UPS System - Troubleshooting"
+                            link="tasks/ups_system___troubleshooting.html"/>
+                        <li name="Door Closer - Troubleshooting"
+                            link="tasks/door_closer___troubleshooting.html"/>
+                        <li name="SCADA - Troubleshooting"
+                            link="tasks/scada___troubleshooting.html"/>
+                        <li name=" MCCB (UPS MDB) - Exchange "
+                            link="tasks/mccb__ups_mdb____exchange_.html"/>
+                        <li name="Circuit Breaker (20/10 Amp 3 pole, 10 Amp 1 pole) - Troubleshooting "
+                            link="tasks/circuit_breaker__20_10_amp_3_pole__10_amp_1_pole____troubleshooting.html"/>
+                        <li name="Main Contactor (UPS) - Troubleshooting"
+                            link="tasks/main_contactor__ups____troubleshooting.html"/>
+                        <li name="Illumination" link="tasks/illumination.html"/>
+                     </ul>
+                  </li>
+                  <li name="Sensors">
+                     <ul>
+                        <li name="tasks/maritime_radar_antenna_system___troubleshooting_.dita"
+                            link="tasks/maritime_radar_antenna_system___troubleshooting_.html"/>
+                     </ul>
+                  </li>
+                  <li name="Outdoor systems">
+                     <ul>
+                        <li name="Fixed Outdoor Camera Unit - Functional Check"
+                            link="tasks/pm_fixed_outdoor_camera_unit___functional_check.html"/>
+                        <li name="Fixed Outdoor Camera Unit - Troubleshooting"
+                            link="tasks/fixed_outdoor_camera_unit___troubleshooting.html"/>
+                     </ul>
+                  </li>
+                  <li name="Upmast cabinet">
+                     <ul>
+                        <li name="Air Filter, Transceiver - Removal, Check and Installation"
+                            link="tasks/cm_transceiver_filter_installationcheck.html"/>
+                     </ul>
+                  </li>
+                  <li name="Supervision">
+                     <ul>
+                        <li name="KVM Switch - Troubleshooting"
+                            link="tasks/kvm_switch___troubleshooting.html"/>
+                        <li name="LCD Rack Console - Troubleshooting "
+                            link="tasks/lcd_rack_console___troubleshooting_.html"/>
+                     </ul>
+                  </li>
+                  <li name="LAN system">
+                     <ul>
+                        <li name="LAN Switch - Troubleshooting"
+                            link="tasks/lan_switch___troubleshooting.html"/>
+                     </ul>
+                  </li>
+                  <li name="Software components"/>
+               </ul>
+            </li>
+         </ul>
+      </li>
+      <li name="Maintenance tasks">
+         <ul>
+            <li name="Ground Shelter " link="tasks/task_groundshelter_overview.html">
+               <ul>
+                  <li name="Tower structure" link="tasks/sections/towerstructure.html">
+                     <ul>
+                        <li name="Fixed Outdoor Camera Unit - Functional Check"
+                            link="tasks/pm_fixed_outdoor_camera_unit___functional_check.html"/>
+                        <li name="Fixed Outdoor Camera Unit - Exchange"
+                            link="tasks/cm_fixed_outdoor_camera_unit___exchange.html">
+                           <ul>
+                              <li name="Fixed Outdoor Camera Unit - Removal"
+                                  link="tasks/cm_fixed_outdoor_camera_unit___removal.html"/>
+                              <li name="Fixed Outdoor Camera Unit - Installation"
+                                  link="tasks/cm_fixed_outdoor_camera_unit___installation.html"/>
+                           </ul>
+                        </li>
+                     </ul>
+                  </li>
+                  <li name="Construction" link="tasks/sections/construction.html">
+                     <ul>
+                        <li name="Door Closer - Exchange"
+                            link="tasks/cm_door_closer___exchange.html">
+                           <ul>
+                              <li name="Door Closer - Removal" link="tasks/cm_door_closer___removal.html"/>
+                              <li name="Door Closer - Installation"
+                                  link="tasks/cm_door_closer___installation.html"/>
+                           </ul>
+                        </li>
+                     </ul>
+                  </li>
+                  <li name="HVAC" link="tasks/sections/hvac.html">
+                     <ul>
+                        <li name="HVAC Control Panel - Functional Check"
+                            link="tasks/pm_hvac_control_panel___functional_check_2.html"/>
+                        <li name="Air Conditioning Unit - Coil - Inspection"
+                            link="tasks/pm_air_conditioning_unit___coil___inspection.html"/>
+                        <li name="Air Conditioning Unit - Filter - Cleaning"
+                            link="tasks/pm_air_conditioning_unit___filter___cleaning.html"/>
+                        <li name="Air Conditioning Unit - Filter - Exchange"
+                            link="tasks/pm_air_conditioning_unit___filter___exchange.html">
+                           <ul>
+                              <li name="Air Conditioning Unit - Filter - Removal"
+                                  link="tasks/pm_air_conditioning_unit___filter___removal.html"/>
+                              <li name="Air Conditioning Unit - Filter - Installation"
+                                  link="tasks/pm_air_conditioning_unit___filter___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="HVAC Controller - Exchange"
+                            link="tasks/cm_hvac_controler___exchange.html">
+                           <ul>
+                              <li name="HVAC Controller - Removal"
+                                  link="tasks/cm_hvac_controler___removal.html"/>
+                              <li name="HVAC Controller - Installation"
+                                  link="tasks/cm_hvac_controler___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="Alarm Board - Exchange"
+                            link="tasks/cm_alarm_board___exchange.html">
+                           <ul>
+                              <li name="Alarm Board - Removal" link="tasks/cm_alarm_board___removal.html"/>
+                              <li name="Alarm Board - Installation"
+                                  link="tasks/cm_alarm_board___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="Relay 24VAC, 1A - Exchange"
+                            link="tasks/cm_relay_24vac__1a___exchange.html">
+                           <ul>
+                              <li name="Relay 24VAC, 1A - Removal"
+                                  link="tasks/cm_relay_24vac__1a___removal.html"/>
+                              <li name="Relay 24VAC, 1A - Installation"
+                                  link="tasks/cm_relay_24vac__1a___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="Temperature Sensor - Exchange"
+                            link="tasks/cm_temperature_sensor___exchange.html">
+                           <ul>
+                              <li name="Temperature Sensor - Removal"
+                                  link="tasks/cm_temperature_sensor___removal.html"/>
+                              <li name="Temperature Sensor - Installation"
+                                  link="tasks/cm_temperature_sensor___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="Display Board (Red-Alarm LEDs) - Exchange"
+                            link="tasks/cm_display_board__red_alarm_leds____exchange.html">
+                           <ul>
+                              <li name="Display Board (Red-Alarm LEDs) - Removal"
+                                  link="tasks/cm_display_board__red_alarm_leds____removal.html"/>
+                              <li name="Display Board (Red-Alarm LEDs) - Installation"
+                                  link="tasks/cm_display_board__red_alarm_leds____installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="Humidity Sensor - Exchange"
+                            link="tasks/cm_humidity_sensor___exchange.html">
+                           <ul>
+                              <li name="Humidity Sensor - Removal"
+                                  link="tasks/cm_humidity_sensor___removal.html"/>
+                              <li name="Humidity Sensor - Installation"
+                                  link="tasks/cm_humidity_sensor___installation.html"/>
+                           </ul>
+                        </li>
+                     </ul>
+                  </li>
+                  <li name="Fire detection and suppression system"
+                      link="tasks/sections/firedetect.html">
+                     <ul>
+                        <li name="Fire Detection and Suppression System - Functional Check"
+                            link="tasks/pm_fire_detection_and_suppression_system___functional_check.html"/>
+                        <li name="Fire Alarm Bell - Exchange"
+                            link="tasks/cm_fire_alarm_bell___exchange.html">
+                           <ul>
+                              <li name="Fire Alarm Bell - Removal"
+                                  link="tasks/cm_fire_alarm_bell___removal.html"/>
+                              <li name="Fire Alarm Bell - Installation"
+                                  link="tasks/cm_fire_alarm_bell___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="Internal Fire Alarm Sounder - Exchange"
+                            link="tasks/cm_fire_alarm_sounder_with_flasher___exchange.html">
+                           <ul>
+                              <li name="Internal Fire Alarm Sounder - Removal"
+                                  link="tasks/cm_fire_alarm_sounder_with_flasher___removal.html"/>
+                              <li name="Internal Fire Alarm Sounder - Installation"
+                                  link="tasks/cm_fire_alarm_sounder_with_flasher___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="Smoke detector" link="tasks/sections/smokedetect.html">
+                           <ul>
+                              <li name="Smoke/Heat Detector - Exchange"
+                                  link="tasks/cm_smoke_heat_detector__base___exchange.html">
+                                 <ul>
+                                    <li name="Smoke/Heat Detector - Removal"
+                                        link="tasks/cm_smoke_heat_detector__base___removal.html"/>
+                                    <li name="Smoke/Heat Detector - Installation"
+                                        link="tasks/cm_smoke_heat_detector__base___installation.html"/>
+                                 </ul>
+                              </li>
+                           </ul>
+                        </li>
+                        <li name="CO2 Fire Extinguisher 6kg" link="tasks/sections/fireext.html">
+                           <ul>
+                              <li name="CO2 Fire Extinguisher 6 KG - Exchange"
+                                  link="tasks/cm_co2_fire_extinguisher_6_kg___exchange.html">
+                                 <ul>
+                                    <li name="CO2 Fire Extinguisher 6 KG - Removal"
+                                        link="tasks/cm_co2_fire_extinguisher_6_kg___removal.html"/>
+                                    <li name="CO2 Fire Extinguisher 6 KG - Installation"
+                                        link="tasks/cm_co2_fire_extinguisher_6_kg___installation.html"/>
+                                 </ul>
+                              </li>
+                           </ul>
+                        </li>
+                        <li name="HFC 227 Cylinder Fire Extinguisher"
+                            link="tasks/sections/hfc227.html">
+                           <ul>
+                              <li name="HFC-227 Cylinder Extinguisher - Exchange"
+                                  link="tasks/cm_hfc_227_cylinder_extinguisher___exchange.html">
+                                 <ul>
+                                    <li name="HFC-227 Cylinder Extinguisher - Removal"
+                                        link="tasks/cm_hfc_227_cylinder_extinguisher___removal.html"/>
+                                    <li name="HFC-227 Cylinder Extinguisher - Installation"
+                                        link="tasks/cm_hfc_227_cylinder_extinguisher___installation.html"/>
+                                 </ul>
+                              </li>
+                              <li name="HFC-227 Cylinder Extinguisher - Visual Inspection"
+                                  link="tasks/pm_hfc_227_cylinder_extinguisher___visual_inspection.html"/>
+                           </ul>
+                        </li>
+                        <li name="Fire Alarm Beacon (Amber) - Exchange"
+                            link="tasks/cm_fire_alarm_beacon_amber___exchange.html">
+                           <ul>
+                              <li name="Fire Alarm Beacon (Amber) - Removal"
+                                  link="tasks/cm_fire_alarm_beacon_amber___removal.html"/>
+                              <li name="Fire Alarm Beacon (Amber) - Installation"
+                                  link="tasks/cm_fire_alarm_beacon_amber___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="LED Beacon (Red) - Exchange"
+                            link="tasks/cm_led_beacon__red____exchange.html">
+                           <ul>
+                              <li name="LED Beacon (Red) - Removal"
+                                  link="tasks/cm_led_beacon__red____removal.html"/>
+                              <li name="LED Beacon (Red) - Installation"
+                                  link="tasks/cm_led_beacon__red____installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="Fire alarm control panel"
+                            link="tasks/sections/firealarmcontrolpanel.html">
+                           <ul>
+                              <li name="Fire Alarm Control Panel - Exchange"
+                                  link="tasks/cm_fire_alarm_control_panel___exchange.html">
+                                 <ul>
+                                    <li name="Fire Alarm Control Panel - Removal"
+                                        link="tasks/cm_fire_alarm_control_panel___removal.html"/>
+                                    <li name="Fire Alarm Control Panel - Installation"
+                                        link="tasks/cm_fire_alarm_control_panel___installation.html"/>
+                                 </ul>
+                              </li>
+                              <li name="Battery (Fire Suppression System) - Exchange"
+                                  link="tasks/cm_battery__fire_suppression_system____exchange.html">
+                                 <ul>
+                                    <li name="Battery (Fire Suppression System) - Removal"
+                                        link="tasks/cm_battery__fire_suppression_system____removal.html"/>
+                                    <li name="Battery (Fire Suppression System) - Installation"
+                                        link="tasks/cm_battery__fire_suppression_system____installation.html"/>
+                                 </ul>
+                              </li>
+                           </ul>
+                        </li>
+                     </ul>
+                  </li>
+                  <li name="Illumination" link="tasks/sections/illum.html">
+                     <ul>
+                        <li name="Internal light">
+                           <ul>
+                              <li name="Electronic Ballast - Exchange"
+                                  link="tasks/cm_electronic_ballast___exchange.html">
+                                 <ul>
+                                    <li name="Electronic Ballast - Removal"
+                                        link="tasks/cm_electronic_ballast___removal.html"/>
+                                    <li name="Electronic Ballast - Installation"
+                                        link="tasks/cm_electronic_ballast___installation.html"/>
+                                 </ul>
+                              </li>
+                              <li name="Fluorescent tube - Exchange"
+                                  link="tasks/cm_fluorescent_tube___exchange.html">
+                                 <ul>
+                                    <li name="Fluorescent Tube - Removal"
+                                        link="tasks/cm_fluorescent_tube___removal.html"/>
+                                    <li name="Fluorescent Tube - Installation"
+                                        link="tasks/cm_fluorescent_tube___installation.html"/>
+                                 </ul>
+                              </li>
+                              <li name="Battery (internal light) - Exchange"
+                                  link="tasks/cm_battery___exchange.html">
+                                 <ul>
+                                    <li name="Battery - Removal" link="tasks/cm_battery___removal.html"/>
+                                    <li name="Battery - Installation"
+                                        link="tasks/cm_battery___installation.html"/>
+                                 </ul>
+                              </li>
+                           </ul>
+                        </li>
+                        <li name="External light" link="tasks/sections/extlight.html">
+                           <ul>
+                              <li name="Mercury bulb - Exchange"
+                                  link="tasks/cm_mercury_bulb___exchange.html">
+                                 <ul>
+                                    <li name="Mercury bulb - Removal"
+                                        link="tasks/cm_mercury_bulb___removal.html"/>
+                                    <li name="Mercury bulb - Installation"
+                                        link="tasks/cm_mercury_bulb___installation.html"/>
+                                 </ul>
+                              </li>
+                              <li name="Transformer/Capacitor - Exchange"
+                                  link="tasks/cm_transformer_capacitor___exchange.html">
+                                 <ul>
+                                    <li name="Transformer/Capacitor - Removal"
+                                        link="tasks/cm_transformer_capacitor___removal.html"/>
+                                    <li name="Transformer/Capacitor - Installation"
+                                        link="tasks/cm_transformer_capacitor___installation.html"/>
+                                 </ul>
+                              </li>
+                           </ul>
+                        </li>
+                     </ul>
+                  </li>
+                  <li name="Power distribution" link="tasks/sections/powerdist.html">
+                     <ul>
+                        <li name="Main Distribution Board">
+                           <ul>
+                              <li name="MCCB - Exchange" link="tasks/cm_mccb___exchange.html">
+                                 <ul>
+                                    <li name="MCCB - Removal" link="tasks/cm_mccb___removal.html"/>
+                                    <li name="MCCB - Installation" link="tasks/cm_mccb___installation.html"/>
+                                 </ul>
+                              </li>
+                              <li name="Main Contactor - Exchange"
+                                  link="tasks/cm_main_contactor___exchange.html">
+                                 <ul>
+                                    <li name="Main Contactor - Removal"
+                                        link="tasks/cm_main_contactor___removal.html"/>
+                                    <li name="Main Contactor - Installation"
+                                        link="tasks/cm_main_contactor___installation.html"/>
+                                 </ul>
+                              </li>
+                              <li name="Contactor for External Light - Exchange"
+                                  link="tasks/cm_contactor_for_external_light___exchange.html">
+                                 <ul>
+                                    <li name="Contactor for External Light - Removal"
+                                        link="tasks/cm_contactor_for_external_light___removal.html"/>
+                                    <li name="Contactor for External Light - Installation"
+                                        link="tasks/cm_contactor_for_external_light___installation.html"/>
+                                 </ul>
+                              </li>
+                              <li name="MDB Multifunction Relay - Exchange"
+                                  link="tasks/cm_mdb_multifunction_relay___exchange.html">
+                                 <ul>
+                                    <li name="MDB Multifunction Relay - Removal"
+                                        link="tasks/cm_mdb_multifunction_relay___removal.html"/>
+                                    <li name="MDB Multifunction Relay - Installation"
+                                        link="tasks/cm_mdb_multifunction_relay___installation.html"/>
+                                 </ul>
+                              </li>
+                              <li name="RCCB Breaker - Exchange"
+                                  link="tasks/cm_rccb_Breaker_Exchange.html">
+                                 <ul>
+                                    <li name="RCCB Breaker - Removal" link="tasks/cm_rccb_Breaker_Removal.html"/>
+                                    <li name="RCCB Breaker - Installation"
+                                        link="tasks/cm_rccb_Breaker_Installation.html"/>
+                                 </ul>
+                              </li>
+                              <li name="Circuit Breaker - Exchange"
+                                  link="tasks/cm_circuit_breaker___exchange.html">
+                                 <ul>
+                                    <li name="Circuit Breaker - Removal"
+                                        link="tasks/cm_circuit_breaker___removal.html"/>
+                                    <li name="Circuit Breaker - Installation"
+                                        link="tasks/cm_circuit_breaker___installation.html"/>
+                                 </ul>
+                              </li>
+                              <li name="Pilot Lights - Exchange"
+                                  link="tasks/cm_pilot_lights___exchange.html">
+                                 <ul>
+                                    <li name="Pilot Lights - Removal"
+                                        link="tasks/cm_pilot_lights___removal.html"/>
+                                    <li name="Pilot Lights - Installation"
+                                        link="tasks/cm_pilot_lights___installation.html"/>
+                                 </ul>
+                              </li>
+                           </ul>
+                        </li>
+                        <li name="UPS Main distribution board"
+                            link="tasks/sections/upsmaindist.html">
+                           <ul>
+                              <li name="MCCB (UPS MDB) - Exchange"
+                                  link="tasks/cm_mccb__UPS_MDB____exchange.html">
+                                 <ul>
+                                    <li name="MCCB (UPS MDB) - Removal"
+                                        link="tasks/cm_mccb__UPS_MDB____removal.html"/>
+                                    <li name="MCCB (UPS MDB) - Installation"
+                                        link="tasks/cm_mccb__UPS_MDB____installation.html"/>
+                                 </ul>
+                              </li>
+                              <li name="Circuit Breaker (20/10 Amp 3 pole, 10 Amp 1 pole) - Exchange"
+                                  link="tasks/cm_circuit_breaker__20_10_amp_3_pole__10_amp_1_pole____exchange.html">
+                                 <ul>
+                                    <li name="Circuit Breaker (20/10 Amp 3 pole, 10 Amp 1 pole) - Removal"
+                                        link="tasks/cm_circuit_breaker__20_10_amp_3_pole__10_amp_1_pole____removal.html"/>
+                                    <li name="Circuit Breaker (20/10 Amp 3 pole, 10 Amp 1 pole) - Installation"
+                                        link="tasks/cm_circuit_breaker__20_10_amp_3_pole__10_amp_1_pole____installation.html"/>
+                                 </ul>
+                              </li>
+                              <li name="Main Contactor (UPS) - Exchange"
+                                  link="tasks/cm_main_contactor__ups____exchange.html">
+                                 <ul>
+                                    <li name="Main Contactor (UPS) - Removal"
+                                        link="tasks/cm_main_contactor__ups____removal.html"/>
+                                    <li name="Main Contactor (UPS) - Installation"
+                                        link="tasks/cm_main_contactor__ups____installation.html"/>
+                                 </ul>
+                              </li>
+                           </ul>
+                        </li>
+                     </ul>
+                  </li>
+                  <li name="SCADA" link="tasks/sections/scada.html">
+                     <ul>
+                        <li name="Analog Input Terminal - Exchange"
+                            link="tasks/cm_analog_input_terminal___exchange.html">
+                           <ul>
+                              <li name="Analog Input Terminal - Removal"
+                                  link="tasks/cm_analog_input_terminal___removal.html"/>
+                              <li name="Analog Input Terminal - Installation"
+                                  link="tasks/cm_analog_input_terminal___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="Controller - Exchange" link="tasks/cm_controller___exchange.html">
+                           <ul>
+                              <li name="Controller - Removal" link="tasks/cm_controller___removal.html"/>
+                              <li name="Controller - Installation"
+                                  link="tasks/cm_controller___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="Digital Input Terminal - Exchange"
+                            link="tasks/cm_digital_input_terminal___exchange.html">
+                           <ul>
+                              <li name="Digital Input Terminal - Removal"
+                                  link="tasks/cm_digital_input_terminal___removal.html"/>
+                              <li name="Digital Input Terminal - Installation"
+                                  link="tasks/cm_digital_input_terminal___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="Digital Output Terminal - Exchange"
+                            link="tasks/cm_digital_output_terminal___exchange.html">
+                           <ul>
+                              <li name="Digital Output Terminal - Removal"
+                                  link="tasks/cm_digital_output_terminal___removal.html"/>
+                              <li name="Digital Output Terminal - Installation"
+                                  link="tasks/cm_digital_output_terminal___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="PSU (SCADA) - Exchange"
+                            link="tasks/cm_psu__scada____exchange.html">
+                           <ul>
+                              <li name="PSU (SCADA) - Removal" link="tasks/cm_psu__scada____removal.html"/>
+                              <li name="PSU (SCADA) - Installation"
+                                  link="tasks/cm_psu__scada____installation.html"/>
+                           </ul>
+                        </li>
+                     </ul>
+                  </li>
+                  <li name="Access control" link="tasks/sections/accesscontrol.html">
+                     <ul>
+                        <li name="Motion Detector - Exchange"
+                            link="tasks/cm_motion_detector___exchange.html">
+                           <ul>
+                              <li name="Motion Detector - Removal"
+                                  link="tasks/cm_motion_detector___removal.html"/>
+                              <li name="Motion Detector - Installation"
+                                  link="tasks/cm_motion_detector___installation.html"/>
+                           </ul>
+                        </li>
+                     </ul>
+                  </li>
+                  <li name="Ground shelter rack" link="tasks/sections/gsrack.html">
+                     <ul>
+                        <li name="Fiber Splicing Rack">
+                           <ul>
+                              <li name="Fiber Splicing Rack - Exchange"
+                                  link="tasks/cm_fiber_splicing_rack___exchange.html">
+                                 <ul>
+                                    <li name="Fiber Splicing Rack - Removal"
+                                        link="tasks/cm_fiber_splicing_rack___removal.html"/>
+                                    <li name="Fiber Splicing Rack - Installation"
+                                        link="tasks/cm_fiber_splicing_rack___installation.html"/>
+                                 </ul>
+                              </li>
+                           </ul>
+                        </li>
+                        <li name="UPS system" link="tasks/sections/upssyst.html">
+                           <ul>
+                              <li name="UPS System - Exchange" link="tasks/cm_ups_system___exchange.html">
+                                 <ul>
+                                    <li name="UPS System - Removal" link="tasks/cm_ups_system___removal.html"/>
+                                    <li name="UPS System - Installation"
+                                        link="tasks/cm_ups_system___installation.html"/>
+                                 </ul>
+                              </li>
+                              <li name="UPS System - Inspection"
+                                  link="tasks/pm_ups_system___inspection.html"/>
+                              <li name="UPS Battery kit - Functional Check"
+                                  link="tasks/pm_ups_battery_kit___functional_check.html"/>
+                              <li name="UPS_Battery_Kit - Exchange"
+                                  link="tasks/sections/ups_battery_kit___exchange.html"/>
+                           </ul>
+                        </li>
+                        <li name="Rack system" link="tasks/sections/racksyst.html">
+                           <ul>
+                              <li name="Door contact - Inspection"
+                                  link="tasks/pm_door_contact___inspection.html"/>
+                              <li name="Remote Power Distribution 3Ph (Ground Shelter) - Exchange"
+                                  link="tasks/cm_remote_power_distribution_3ph__ground_shelter____exchange.html">
+                                 <ul>
+                                    <li name="Remote Power Distribution 3Ph (Ground Shelter) - Removal"
+                                        link="tasks/cm_remote_power_distribution_3ph__ground_shelter____removal.html"/>
+                                    <li name="Remote Power Distribution 3Ph (Ground Shelter) - Installation"
+                                        link="tasks/cm_remote_power_distribution_3ph__ground_shelter____installation.html"/>
+                                 </ul>
+                              </li>
+                              <li name="Remote Power Distribution 3Ph (Ground Shelter) - Configuration"
+                                  link="tasks/cm_remote_power_distribution_3ph__ground_shelter____configuration.html"/>
+                              <li name="Remote Power Switch - Inspection"
+                                  link="tasks/pm_remote_power_switch___inspection.html"/>
+                           </ul>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li name="Upmast cabinet "
+                link="tasks/task_st5_upmastcabinet_overview.html">
+               <ul>
+                  <li name="Rack" link="tasks/sections/ucrack.html">
+                     <ul>
+                        <li name="Remote Power Distribution 3Ph (Upmast Cabinet) - Exchange"
+                            link="tasks/cm_remote_power_distribution_3ph__upmast_cabinet____exchange.html">
+                           <ul>
+                              <li name="Remote Power Distribution 3Ph (Upmast Cabinet) - Removal"
+                                  link="tasks/cm_remote_power_distribution_3ph__upmast_cabinet____removal.html"/>
+                              <li name="Remote Power Distribution 3Ph (Upmast Cabinet) - Installation"
+                                  link="tasks/cm_remote_power_distribution_3ph__upmast_cabinet____installation.html"/>
+                              <li name="Remote Power Distribution 3Ph (Upmast Cabinet) - Configuration"
+                                  link="tasks/cm_remote_power_distribution_3ph__upmast_cabinet____configuration.html"/>
+                           </ul>
+                        </li>
+                        <li name="Relay - Exchange" link="tasks/cm_relay___exchange.html">
+                           <ul>
+                              <li name="Relay - Removal" link="tasks/cm_relay___removal.html"/>
+                              <li name="Relay - Installation" link="tasks/cm_relay___installation.html"/>
+                           </ul>
+                        </li>
+                     </ul>
+                  </li>
+                  <li name="SCADA system" link="tasks/sections/ucscada.html">
+                     <ul>
+                        <li name="Analog Input Terminal - Exchange"
+                            link="tasks/cm_analog_input_terminal___exchange.html">
+                           <ul>
+                              <li name="Analog Input Terminal - Removal"
+                                  link="tasks/cm_analog_input_terminal___removal.html"/>
+                              <li name="Analog Input Terminal - Installation"
+                                  link="tasks/cm_analog_input_terminal___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="Controller - Exchange" link="tasks/cm_controller___exchange.html">
+                           <ul>
+                              <li name="Controller - Removal" link="tasks/cm_controller___removal.html"/>
+                              <li name="Controller - Installation"
+                                  link="tasks/cm_controller___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="Digital Input Terminal - Exchange"
+                            link="tasks/cm_digital_input_terminal___exchange.html">
+                           <ul>
+                              <li name="Digital Input Terminal - Removal"
+                                  link="tasks/cm_digital_input_terminal___removal.html"/>
+                              <li name="Digital Input Terminal - Installation"
+                                  link="tasks/cm_digital_input_terminal___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="Digital Output Terminal - Exchange"
+                            link="tasks/cm_digital_output_terminal___exchange.html">
+                           <ul>
+                              <li name="Digital Output Terminal - Removal"
+                                  link="tasks/cm_digital_output_terminal___removal.html"/>
+                              <li name="Digital Output Terminal - Installation"
+                                  link="tasks/cm_digital_output_terminal___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="PSU (SCADA) - Exchange"
+                            link="tasks/cm_psu__scada____exchange.html">
+                           <ul>
+                              <li name="PSU (SCADA) - Removal" link="tasks/cm_psu__scada____removal.html"/>
+                              <li name="PSU (SCADA) - Installation"
+                                  link="tasks/cm_psu__scada____installation.html"/>
+                           </ul>
+                        </li>
+                     </ul>
+                  </li>
+                  <li name="Scanter transceiver" link="tasks/sections/transceiver.html">
+                     <ul>
+                        <li name="Air Filter, Transceiver - Exchange"
+                            link="tasks/cm_transceiver_filter_exchange.html">
+                           <ul>
+                              <li name="Air Filter, Transceiver - Removal, Check and Installation"
+                                  link="tasks/cm_transceiver_filter_installationcheck.html"/>
+                           </ul>
+                        </li>
+                        <li name="SSPA" link="tasks/sections/sspa.html">
+                           <ul>
+                              <li name="SSPA - Exchange" link="tasks/cm_sspa___exchange.html">
+                                 <ul>
+                                    <li name="SSPA - Removal" link="tasks/cm_sspa___removal.html"/>
+                                    <li name="SSPA - Installation" link="tasks/cm_sspa___installation.html"/>
+                                 </ul>
+                              </li>
+                              <li name="SSPA - PSAT Calibration"
+                                  link="tasks/cm_sspa___psat_calibration.html"/>
+                           </ul>
+                        </li>
+                        <li name="WG Assy - Exchange" link="tasks/cm_wg_assy___exchange.html">
+                           <ul>
+                              <li name="WG Assy - Removal" link="tasks/cm_wg_assy___removal.html"/>
+                              <li name="WG Assy - Installation"
+                                  link="tasks/cm_wg_assy___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="Blower Assy - Exchange"
+                            link="tasks/cm_blower_assy___exchange.html">
+                           <ul>
+                              <li name="Blower Assy - Removal" link="tasks/cm_blower_assy___removal.html"/>
+                              <li name="Blower Assy - Installation"
+                                  link="tasks/cm_blower_assy___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="PC Controller Board">
+                           <ul>
+                              <li name="PC Controller Board - Exchange"
+                                  link="tasks/cm_pc_controller_board___exchange.html">
+                                 <ul>
+                                    <li name="PC Controller Board - Removal"
+                                        link="tasks/cm_pc_controller_board___removal.html"/>
+                                    <li name="PC Controller Board - Installation"
+                                        link="tasks/cm_pc_controller_board___installation.html"/>
+                                 </ul>
+                              </li>
+                              <li name="PC Controller Board, Battery - Exchange"
+                                  link="tasks/cm_pc_controller_board__battery___exchange.html">
+                                 <ul>
+                                    <li name="PC Controller Board, Battery - Removal"
+                                        link="tasks/cm_pc_controller_board__battery___removal.html"/>
+                                    <li name="PC Controller Board, Battery - Installation"
+                                        link="tasks/cm_pc_controller_board__battery___installation.html"/>
+                                 </ul>
+                              </li>
+                              <li name="PC Controller Board - Setup"
+                                  link="tasks/cm_pc_controller_board___setup.html"/>
+                           </ul>
+                        </li>
+                        <li name="Common Platform 4 - Exchange"
+                            link="tasks/cm_common_platform_4___exchange.html">
+                           <ul>
+                              <li name="Common Platform 4 - Removal"
+                                  link="tasks/cm_common_platform_4___removal.html"/>
+                              <li name="Common Platform 4 - Installation"
+                                  link="tasks/cm_common_platform_4___installation.html"/>
+                              <li name="Common Platform 4 - PSAT Calibration"
+                                  link="tasks/cm_common_platform_4___psat_calibration.html"/>
+                           </ul>
+                        </li>
+                        <li name="PSU (TERMA) - Exchange"
+                            link="tasks/cm_psu__terma____exchange.html">
+                           <ul>
+                              <li name="PSU (TERMA) - Removal" link="tasks/cm_psu__terma____removal.html"/>
+                              <li name="PSU (TERMA) - Installation"
+                                  link="tasks/cm_psu__terma____installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="External I/O - Exchange"
+                            link="tasks/cm_external_i_o___exchange.html">
+                           <ul>
+                              <li name="External I/O - Removal"
+                                  link="tasks/cm_external_i_o___removal.html"/>
+                              <li name="External I/O - Installation"
+                                  link="tasks/cm_external_i_o___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="Interconnection PCB - Exchange"
+                            link="tasks/cm_interconnection_pcb_exchange.html">
+                           <ul>
+                              <li name="Interconnection PCB - Removal"
+                                  link="tasks/cm_interconnection_pcb_removal.html"/>
+                              <li name="Interconnection PCB - Installation"
+                                  link="tasks/cm_interconnection_pcb_installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="WG, SSPA - Exchange" link="tasks/cm_wg_sspa_exchange.html">
+                           <ul>
+                              <li name="WG, SSPA - Removal" link="tasks/cm_wg_sspa_removal.html"/>
+                              <li name="WG, SSPA - Installation"
+                                  link="tasks/cm_wg_sspa_installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="RxTx - Exchange" link="tasks/cm_rxtx___exchange.html">
+                           <ul>
+                              <li name="RxTx - Removal" link="tasks/cm_rxtx___removal.html"/>
+                              <li name="RxTx - Installation" link="tasks/cm_rxtx___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="RxTx - PSAT calibration"
+                            link="tasks/cm_rxtx___psat_calibration.html"/>
+                        <li name="RxTx Control - Exchange"
+                            link="tasks/cm_rxtx_control___exchange.html">
+                           <ul>
+                              <li name="RxTx Control - Removal"
+                                  link="tasks/cm_rxtx_control___removal.html"/>
+                              <li name="RxTx Control - Installation"
+                                  link="tasks/cm_rxtx_control___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="Frame Assy - Exchange" link="tasks/cm_frame_assy___exchange.html">
+                           <ul>
+                              <li name="Frame Assy - Removal" link="tasks/cm_frame_assy___removal.html"/>
+                              <li name="Frame Assy - Installation"
+                                  link="tasks/cm_frame_assy___installation.html"/>
+                           </ul>
+                        </li>
+                     </ul>
+                  </li>
+                  <li name="Automatic Identification System (AIS) "
+                      link="tasks/sections/st5_ais.html">
+                     <ul>
+                        <li name="AIS - Base Station - Unit - Exchange"
+                            link="tasks/st5_cm_ais___base_station___unit___exchange.html">
+                           <ul>
+                              <li name="AIS - Base Station - Unit - Removal"
+                                  link="tasks/st5_cm_ais___base_station___unit___removal.html"/>
+                              <li name="AIS - Base Station - Unit - Installation"
+                                  link="tasks/st5_cm_ais___base_station___unit___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="AIS - Base Station - CF Card - Exchange"
+                            link="tasks/st5_cm_ais___base_station___cf_card___exchange.html">
+                           <ul>
+                              <li name="AIS - Base Station - CF Card - Removal"
+                                  link="tasks/st5_cm_ais___base_station___cf_card___removal.html"/>
+                              <li name="AIS - Base Station - CF Card - Installation"
+                                  link="tasks/st5_cm_ais___base_station___cf_card___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="AIS - Base Station - Chassis Fan - Exchange"
+                            link="tasks/st5_cm_ais___base_station___chassis_fan___exchange.html">
+                           <ul>
+                              <li name="AIS - Base Station - Chassis Fan - Removal"
+                                  link="tasks/st5_cm_ais___base_station___chassis_fan___removal.html"/>
+                              <li name="AIS - Base Station - Chassis Fan - Installation"
+                                  link="tasks/st5_cm_ais___base_station___chassis_fan___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="AIS - Base Station - Controller - Exchange"
+                            link="tasks/st5_cm_ais___base_station___controller___exchange.html">
+                           <ul>
+                              <li name="AIS - Base Station - Controller - Removal"
+                                  link="tasks/st5_cm_ais___base_station___controller___removal.html"/>
+                              <li name="AIS - Base Station - Controller - Installation"
+                                  link="tasks/st5_cm_ais___base_station___controller___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="AIS - Base Station - Ethernet Switch - Exchange"
+                            link="tasks/st5_cm_ais___base_station___ethernet_switch___exchange.html">
+                           <ul>
+                              <li name="AIS - Base Station - Ethernet Switch - Removal"
+                                  link="tasks/st5_cm_ais___base_station___ethernet_switch___removal.html"/>
+                              <li name="AIS - Base Station - Ethernet Switch - Installation"
+                                  link="tasks/st5_cm_ais___base_station___ethernet_switch___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="AIS - Base Station - Fan and Air Filter - Inspection"
+                            link="tasks/st5_pm_ais___base_station___fan_and_air_filter___inspection.html"/>
+                        <li name="AIS - Base Station - Fuse - Exchange"
+                            link="tasks/st5_cm_ais___base_station___fuse___exchange.html">
+                           <ul>
+                              <li name="AIS - Base Station - Fuse - Removal"
+                                  link="tasks/st5_cm_ais___base_station___fuse___removal.html"/>
+                              <li name="AIS - Base Station - Fuse - Installation"
+                                  link="tasks/st5_cm_ais___base_station___fuse___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="AIS - Base Station - Inspection and Cleaning"
+                            link="tasks/st5_pm_ais___base_station___inspection_and_cleaning.html"/>
+                        <li name="AIS - Base Station - LAN Converter - Exchange"
+                            link="tasks/st5_cm_ais___base_station___lan_converter___exchange.html">
+                           <ul>
+                              <li name="AIS - Base Station - LAN Converter - Removal"
+                                  link="tasks/st5_cm_ais___base_station___lan_converter___removal.html"/>
+                              <li name="AIS - Base Station - LAN Converter - Installation"
+                                  link="tasks/st5_cm_ais___base_station___lan_converter___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="AIS - Base Station - LED Check"
+                            link="tasks/st5_pm_ais___base_station___led_check.html"/>
+                        <li name="AIS - Base Station - PMU - Exchange"
+                            link="tasks/st5_cm_ais___base_station___pmu___exchange.html">
+                           <ul>
+                              <li name="AIS - Base Station - PMU - Removal"
+                                  link="tasks/st5_cm_ais___base_station___pmu___removal.html"/>
+                              <li name="AIS - Base Station - PMU - Installation"
+                                  link="tasks/st5_cm_ais___base_station___pmu___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="AIS - Base Station - Power Distribution Board - Exchange"
+                            link="tasks/st5_cm_ais___base_station___power_distribution_board___exchange.html">
+                           <ul>
+                              <li name="AIS - Base Station - Power Distribution Board - Removal"
+                                  link="tasks/st5_cm_ais___base_station___power_distribution_board___removal.html"/>
+                              <li name="AIS - Base Station - Power Distribution Board - Installation"
+                                  link="tasks/st5_cm_ais___base_station___power_distribution_board___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="AIS - Base Station - Transponder - Exchange"
+                            link="tasks/st5_cm_ais___base_station___transponder___exchange.html">
+                           <ul>
+                              <li name="AIS - Base Station - Transponder - Removal"
+                                  link="tasks/st5_cm_ais___base_station___transponder___removal.html"/>
+                              <li name="AIS - Base Station - Transponder - Installation"
+                                  link="tasks/st5_cm_ais___base_station___transponder___installation.html"/>
+                           </ul>
+                        </li>
+                     </ul>
+                  </li>
+                  <li name="Radio Direction Finder (RDF)" link="tasks/sections/st5_rdf.html">
+                     <ul>
+                        <li name="RDF - RDF PSU - Inspection"
+                            link="tasks/st5_pm_rdf___rdf_psu___inspection.html"/>
+                        <li name="RDF - Receiver - Inspection"
+                            link="tasks/st5_pm_rdf___receiver___inspection.html"/>
+                        <li name="RDF - Static Protection Unit - Inspection"
+                            link="tasks/st5_pm_rdf___static_protection_unit___inspection.html"/>
+                        <li name="RDF - Receiver Unit 7050C - Exchange"
+                            link="tasks/cm_rdf___receiver_unit_7050c___exchange.html">
+                           <ul>
+                              <li name="RDF - Receiver Unit 7050C - Removal"
+                                  link="tasks/cm_rdf___receiver_unit_7050c___removal.html"/>
+                              <li name="RDF - Receiver Unit 7050C - Installation"
+                                  link="tasks/cm_rdf___receiver_unit_7050c___installation.html"/>
+                           </ul>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li name="Outdoor systems"/>
+            <li name="Sensors " link="tasks/task_st5_sensors_overview.html">
+               <ul>
+                  <li name="Maritime Radar (TERMA)" link="tasks/sections/radar.html">
+                     <ul>
+                        <li name="Maritime Radar Antenna System - Exchange"
+                            link="tasks/cm_maritime_radar_antenna_system___exchange.html">
+                           <ul>
+                              <li name="Maritime Radar Antenna System - Removal"
+                                  link="tasks/cm_maritime_radar_antenna_system___removal.html"/>
+                              <li name="Maritime Radar Antenna System - Installation"
+                                  link="tasks/cm_maritime_radar_antenna_system___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="Turning Unit, intermediate - Lubricate"
+                            link="tasks/pm_turning_unit__intermediate___lubricate.html"/>
+                        <li name="Turning Unit, intermediate - Inspect"
+                            link="tasks/pm_turning_unit__intermediate___inspect.html"/>
+                        <li name="Encoder - Exchange" link="tasks/cm_encoder___exchange.html">
+                           <ul>
+                              <li name="Encoder - Removal" link="tasks/cm_encoder___removal.html"/>
+                              <li name="Encoder - Installation"
+                                  link="tasks/cm_encoder___installation.html"/>
+                              <li name="Encoder - North alignment"
+                                  link="tasks/cm_encoder___north_alignment.html"/>
+                           </ul>
+                        </li>
+                        <li name="Maritime Radar Gearbox - Exchange"
+                            link="tasks/cm_maritime_radar_gearbox_exchange.html"/>
+                        <li name="Motor - Exchange" link="tasks/cm_motor___exchange.html">
+                           <ul>
+                              <li name="Motor - Removal" link="tasks/cm_motor___removal.html"/>
+                              <li name="Motor - Installation" link="tasks/cm_motor___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="Turning Unit Cover - Exchange"
+                            link="tasks/cm_cover___exchange.html">
+                           <ul>
+                              <li name="Turning Unit Cover - Removal"
+                                  link="tasks/cm_cover___removal.html"/>
+                              <li name="Turning Unit Cover - Installation"
+                                  link="tasks/cm_cover___installation.html"/>
+                           </ul>
+                        </li>
+                     </ul>
+                  </li>
+                  <li name="Automatic Identification System (AIS) "
+                      link="tasks/sections/st5_ais.html">
+                     <ul>
+                        <li name="AIS - Remote Status Check"
+                            link="tasks/st5_pm_ais___remote_status_check.html"/>
+                        <li name="AIS - GPS Antenna - Exchange"
+                            link="tasks/st5_cm_ais___gps_antenna___exchange.html">
+                           <ul>
+                              <li name="AIS - GPS Antenna - Removal"
+                                  link="tasks/st5_cm_ais___gps_antenna___removal.html"/>
+                              <li name="AIS - GPS Antenna - Installation"
+                                  link="tasks/st5_cm_ais___gps_antenna___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="VHF antenna for AIS - Exchange"
+                            link="tasks/st5_cm_ais___vhf_antenna___exchange.html">
+                           <ul>
+                              <li name="AIS - VHF Antenna - Removal"
+                                  link="tasks/st5_cm_ais___vhf_antenna___removal.html"/>
+                              <li name="AIS - VHF Antenna - Installation"
+                                  link="tasks/st5_cm_ais___vhf_antenna___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="AIS - VHF Antenna - Inspection"
+                            link="tasks/st5_pm_ais___vhf_antenna___inspection.html"/>
+                        <li name="AIS - GPS Antenna - Inspection"
+                            link="tasks/st5_pm_ais___gps_antenna___inspection.html"/>
+                     </ul>
+                  </li>
+                  <li name="Radio Direction Finder (RDF)" link="tasks/sections/st5_rdf.html">
+                     <ul>
+                        <li name="RDF - Antenna Switching Unit - Inspection"
+                            link="tasks/st5_pm_rdf___antenna_switching_unit___inspection.html"/>
+                        <li name="RDF - GPS Antenna - Inspection"
+                            link="tasks/st5_pm_rdf___gps_antenna___inspection.html"/>
+                        <li name="RDF - RDF Antenna - Inspection"
+                            link="tasks/st5_pm_rdf___rdf_antenna___inspection.html"/>
+                        <li name="RDF - RDF Antenna - Check Angle/Direction"
+                            link="tasks/st5_pm_rdf___rdf_antenna___check_angle_and_direction.html"/>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li name="Supervision">
+               <ul>
+                  <li name="Computer (Service Computer, VMD, RDU) system"
+                      link="tasks/sections/vmdcomp.html">
+                     <ul>
+                        <li name="Computer (Service Computer, VMD, RDU) - Exchange"
+                            link="tasks/cm_vmd_computer___exchange.html">
+                           <ul>
+                              <li name="Computer (Service Computer, VMD, RDU) - Removal"
+                                  link="tasks/cm_vmd_computer___removal.html"/>
+                              <li name="Computer (Service Computer, VMD, RDU) - Installation "
+                                  link="tasks/cm_vmd_computer___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="Computer (Service Computer, VMD, RDU) Battery - Exchange"
+                            link="tasks/cm_battery__server____exchange.html">
+                           <ul>
+                              <li name="Battery (Server) - Removal"
+                                  link="tasks/cm_battery__server____removal.html"/>
+                              <li name="../tasks/cm_battery__server____installation.dita"
+                                  link="../tasks/cm_battery__server____installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="Computer (Service Computer, VMD, RDU) - Filter - Exchange"
+                            link="tasks/cm_computerServiceVmdDuFilter_Exchange.html">
+                           <ul>
+                              <li name="Computer (Service Computer, VMD, RDU) - Filter - Removal"
+                                  link="tasks/cm_computerServiceVmdDuFilter_Removal.html"/>
+                              <li name="Computer (Service Computer, VMD, RDU) - Filter - Installation"
+                                  link="tasks/cm_computerServiceVmdDuFilter_Installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="Camera VMD Computer System - Inspection"
+                            link="tasks/pm_camera_vmd_computer_system___inspection.html"/>
+                     </ul>
+                  </li>
+                  <li name="KVM console" link="tasks/sections/kvm.html">
+                     <ul>
+                        <li name="KVM Switch - Exchange" link="tasks/cm_kvm_switch___exchange.html">
+                           <ul>
+                              <li name="KVM Switch - Removal" link="tasks/cm_kvm_switch___removal.html"/>
+                              <li name="KVM Switch - Installation"
+                                  link="tasks/cm_kvm_switch___installation.html"/>
+                           </ul>
+                        </li>
+                        <li name="LCD Rack Console - Exchange"
+                            link="tasks/cm_lcd_rack_console___exchange.html">
+                           <ul>
+                              <li name="LCD Rack Console - Removal"
+                                  link="tasks/cm_lcd_rack_console___removal.html"/>
+                              <li name="LCD Rack Console - Installation"
+                                  link="tasks/cm_lcd_rack_console___installation.html"/>
+                           </ul>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li name="LAN system">
+               <ul>
+                  <li name="LAN switch" link="tasks/sections/lanswitch.html">
+                     <ul>
+                        <li name="LAN Switch - MS2 - Exchange"
+                            link="tasks/cm_lan_switch___ms2___exchange.html">
+                           <ul>
+                              <li name="LAN Switch - MS2 - Removal"
+                                  link="tasks/cm_lan_switch___ms2___removal.html"/>
+                              <li name="LAN Switch - MS2 - Installation"
+                                  link="tasks/cm_lan_switch___ms2___installation.html"/>
+                           </ul>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li name="Software components"/>
+         </ul>
+      </li>
+   </ul>
+</doc>

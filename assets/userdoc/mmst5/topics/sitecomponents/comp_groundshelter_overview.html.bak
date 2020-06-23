@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="copyright" content="(C) Copyright 2019" />
+<meta name="DC.rights.owner" content="(C) Copyright 2019" />
+<meta name="DC.type" content="topic" />
+<meta name="DC.title" content="Ground shelter" />
+<meta name="abstract" content="The Ground shelter is a sheltered basic enclosure with one rack installed." />
+<meta name="description" content="The Ground shelter is a sheltered basic enclosure with one rack installed." />
+<meta name="DC.relation" scheme="URI" content="fm200Cylinder.html" />
+<meta name="DC.relation" scheme="URI" content="hvacControlPanel.html" />
+<meta name="DC.relation" scheme="URI" content="airConditioningUnit.html" />
+<meta name="DC.relation" scheme="URI" content="co2FireExtinguisher.html" />
+<meta name="DC.relation" scheme="URI" content="mainDistributionBoardMdb.html" />
+<meta name="DC.relation" scheme="URI" content="upsMainDistributionBoardMdb.html" />
+<meta name="DC.relation" scheme="URI" content="internalLight.html" />
+<meta name="DC.relation" scheme="URI" content="motionDetector.html" />
+<meta name="DC.relation" scheme="URI" content="groundShelterRack.html" />
+<meta name="DC.format" content="XHTML" />
+<meta name="DC.identifier" content="groundShelter" />
+<link rel="stylesheet" type="text/css" href="../../commonltr.css" />
+<title>Ground shelter</title>
+</head>
+<body id="groundShelter">
+
+    <h1 class="title topictitle1" id="ariaid-title1">Ground shelter</h1>
+
+    
+    <div class="body"><p class="shortdesc">The <em class="ph i">Ground shelter</em> is a sheltered basic enclosure with one rack
+        installed.</p>
+
+        <p class="p">The main equipment provided in the ground shelter is the <em class="ph i">Ground shelter rack</em> (see
+                <a class="xref" href="#groundShelter__Ground_Shelter">Figure 1</a>).</p>
+
+        <div class="fig fignone" id="groundShelter__Ground_Shelter"><span class="figcap"><span class="fig--title-label">Figure 1. </span>Ground shelter - Floor plan</span>
+            
+            <img class="image" src="../../images/ground_shelter_floor_plan.png" />
+        </div>
+
+    </div>
+
+    <div class="related-links">
+<div class="linklist linklist relinfo"><strong>Related information</strong><br />
+<ul class="linklist">
+
+
+
+
+
+
+
+
+</ul></div>
+</div>
+</body>
+</html>

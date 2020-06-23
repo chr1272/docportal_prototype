@@ -1,0 +1,11 @@
+<h3>User documentation</h3>
+<mat-list>
+    <mat-list-item *ngFor="let userdoc of userdocs">
+      
+      <mat-icon mat-list-icon>folder</mat-icon>
+      <h5> {{userdoc.title}} - {{userdoc.type}}</h5>
+      <br/>
+        <button mat-button (click)="gotoDoc(userdoc.id)">OPEN</button>
+      
+    </mat-list-item>   
+  </mat-list>

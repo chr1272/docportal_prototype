@@ -1,0 +1,20 @@
+[
+        {
+            "id": 1,
+            "type": "User manual",
+            "title": "Mobile phone",
+            "index": "mobile phone/customindex.json"
+        },
+        {
+            "id": 2,
+            "type": "Operator Manual",
+            "title": "Other",
+            "index": "pub/customindex.json"
+        },
+        {
+            "id": 3,
+            "type": "Operator Manual",
+            "title": "Other",
+            "index": "newmanual/customindex.json"
+        }
+]

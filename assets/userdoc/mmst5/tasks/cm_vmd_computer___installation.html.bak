@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="copyright" content="(C) Copyright 2019" />
+<meta name="DC.rights.owner" content="(C) Copyright 2019" />
+<meta name="DC.type" content="task" />
+<meta name="DC.title" content="Computer (Service Computer, VMD, RDU) - Installation" />
+<meta name="abstract" content="Installation of the Computer (Service Computer, VMD, RDU)." />
+<meta name="description" content="Installation of the Computer (Service Computer, VMD, RDU)." />
+<meta name="DC.format" content="XHTML" />
+<meta name="DC.identifier" content="vmd_computer___installation" />
+<link rel="stylesheet" type="text/css" href="../commonltr.css" />
+<title>Computer (Service Computer, VMD, RDU) - Installation</title>
+</head>
+<body class="pagebreak" id="vmd_computer___installation">
+
+    <h1 class="title topictitle1" id="ariaid-title1">Computer (Service Computer, VMD, RDU) - Installation </h1>
+
+    
+    <div class="body taskbody"><p class="shortdesc">Installation of the <em class="ph i">Computer (Service Computer, VMD, RDU)</em>.</p>
+
+        <ol class="ol steps"><li class="li step">
+                <span class="ph cmd">Install the new unit by performing the removal steps in reverse order.</span>
+                
+                    <div class="fig fignone" id="vmd_computer___installation__fig_xgg_ysr_n2b"><span class="figcap"><span class="fig--title-label">Figure 1. </span>Computer (Service Computer, VMD, RDU) system</span>
+                        
+                        <img class="image" src="../images/vmd_comp_exch_1.jpg" />
+                        <dl class="dl">
+                            
+                                <dt class="dt dlterm">1</dt>
+
+                                <dd class="dd">Fixing screws</dd>
+
+                            
+                        </dl>
+
+                    </div>
+
+                
+            </li>
+<li class="li step">
+                <span class="ph cmd">Plug in the cables for a Radar Digitizing Unit System as follows:</span>
+                
+                    <ol class="ol" type="a" id="vmd_computer___installation__ol_ksc_r5r_n2b">
+                        <li class="li">DVI port at RDU -network cable - VGA/DVI adaptor - IQ module </li>
+
+                        <li class="li">LAN1 port at RDUx - data cable - GPUx </li>
+
+                        <li class="li">LAN2 port at RDU - network cable - LAN port at Ethernet Switch </li>
+
+                        <li class="li">USB1 port at RDU -data cable - IQ module </li>
+
+                        <li class="li">Earthing connector at PDU - earthing cable - Grounding bar </li>
+
+                        <li class="li">Pwr_01 port at RDU - power cable - Rack PDU </li>
+
+                        <li class="li">Pwr_02 port at RDU - power cable - Rack PDU</li>
+
+                    </ol>
+
+                
+            </li>
+<li class="li step">
+                <span class="ph cmd">Plug in the cables for a Camera VMD Computer System follows:</span>
+                
+                    <ol class="ol" type="a" id="vmd_computer___installation__ol_r1k_x5r_n2b">
+                        <li class="li">DVI port at RDU -network cable - VGA/DVI adaptor - IQ module </li>
+
+                        <li class="li">LAN1 port at RDU - network cable - LAN port at Ethernet Switch </li>
+
+                        <li class="li">USB1 port at RDU -data cable - IQ module</li>
+
+                        <li class="li">Earthing connector at PDU - earthing cable - Grounding bar </li>
+
+                        <li class="li">Pwr_01 port at RDU - power cable - Rack PDU </li>
+
+                        <li class="li">Pwr_02 port at RDU - power cable - Rack PDU</li>
+
+                    </ol>
+
+                
+            </li>
+<li class="li step">
+                <span class="ph cmd">Plug in the cables for a Service Computer System as follows:</span>
+                
+                    <ol class="ol" type="a" id="vmd_computer___installation__ol_yjk_bvr_n2b">
+                        <li class="li">DVI port at RDU -network cable - VGA/DVI adaptor - IQ module </li>
+
+                        <li class="li">LAN1 port at RDU - network cable - LAN port at Ethernet Switch </li>
+
+                        <li class="li">USB1 port at RDU -data cable - IQ module </li>
+
+                        <li class="li">Earthing connector at PDU - earthing cable - Grounding bar </li>
+
+                        <li class="li">Pwr_01 port at RDU - power cable - Rack PDU </li>
+
+                        <li class="li">Pwr_02 port at RDU -power cable - Rack PDU</li>
+
+                    </ol>
+
+                
+            </li>
+</ol>
+
+        <div class="section postreq closereqs" id="vmd_computer___installation__closereqs_l2z_2vr_n2b">
+            <ul class="ul ul reqconds" id="vmd_computer___installation__reqconds_m2z_2vr_n2b">
+                <li class="li li reqcond">Check if LEDs are on (power, drive activity, network activity,
+                    diagnostics).</li>
+
+            </ul>
+
+        </div>
+
+    </div>
+
+</body>
+</html>

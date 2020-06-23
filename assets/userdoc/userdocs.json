@@ -1,0 +1,19 @@
+{"userdocs": {
+        "om": {
+            "name":"Operator manuals",
+            "docs": {
+                "doc": {
+                    "title":"Mobile C2",
+                    "indexfile": "mc2_1/index.json"
+                }
+            }
+        },
+        "mm": {
+            "name": "Maintenance manuals",
+            "doc": {
+                "title":"Site type 5",
+                "indexfile":"mmsr5_1/index.json"
+            }
+        }
+    }
+}

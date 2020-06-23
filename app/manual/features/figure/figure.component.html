@@ -1,0 +1,21 @@
+<mat-card class="figure-card">
+    <mat-card-header>
+        <div mat-card-avatar class="example-header-image"></div>
+        <mat-card-title class="figuretitle">{{caption}}</mat-card-title>
+    </mat-card-header>
+    <img mat-card-image src="{{image}}" alt="{{caption}}">
+    
+    <mat-card-content>
+        <p>caption: {{caption}}</p>
+        <ol >
+            <li *ngFor="let item of legend">{{item}}</li>
+        </ol>
+    </mat-card-content>
+    <!--
+    <mat-card-actions>
+        <button mat-button>Display full size image</button>
+    </mat-card-actions>
+    -->
+</mat-card>
+    
+    

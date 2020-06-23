@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="copyright" content="(C) Copyright 2019" />
+<meta name="DC.rights.owner" content="(C) Copyright 2019" />
+<meta name="DC.type" content="task" />
+<meta name="DC.title" content="UPS Battery kit - Functional Check" />
+<meta name="abstract" content="Functional check of a UPS Battery Kit." />
+<meta name="description" content="Functional check of a UPS Battery Kit." />
+<meta name="DC.format" content="XHTML" />
+<meta name="DC.identifier" content="ups_battery_kit___functional_check" />
+<link rel="stylesheet" type="text/css" href="../commonltr.css" />
+<title>UPS Battery kit - Functional Check</title>
+</head>
+<body class="pagebreak" id="ups_battery_kit___functional_check">
+
+    <h1 class="title topictitle1" id="ariaid-title1">UPS Battery kit - Functional Check</h1>
+
+    
+    <div class="body taskbody"><p class="shortdesc">Functional check of a <em class="ph i">UPS Battery Kit</em>.</p>
+
+        <div class="section prereq prelreqs p">
+            <ul class="ul ul reqconds">
+                <li class="li li noconds"></li>
+
+            </ul>
+
+            <ul class="ul ul reqpers">
+                <li class="li li personnel">2</li>
+
+                <li class="li li perscat">Border guard</li>
+
+                <li class="li li perskill">Basic</li>
+
+                <li class="li li esttime">5</li>
+
+            </ul>
+
+            <p class="p p supequip">
+                
+            </p>
+
+            <p class="p p supplies">
+                
+            </p>
+
+            <p class="p p spares">
+                
+            </p>
+
+            <ol class="ol ol safety">
+                <li class="li li safecond">
+                    <div class="p"><table role="presentation" border="1" class="note hazardstatement"><tr><th colspan="2" class="hazardstatement--note">Note</th></tr><tr><td><img class="image hazardsymbol info" src="../safety/../symbols/info.svg" width="49" height="49" /></td><td><div class="messagepanel">
+                    <div class="typeofhazard">Batteries must be fully charged</div>
+                    <div class="howtoavoid">The batteries must be fully charged and the UPS must not be in
+                            <em class="ph i">battery mode</em> to perform the battery test.</div>
+                </div></td></tr></table></div>
+
+                </li>
+
+                <li class="li li safecond">
+                    <div class="p"><table role="presentation" border="1" class="note hazardstatement"><tr><th colspan="2" class="hazardstatement--note">Note</th></tr><tr><td><img class="image hazardsymbol info" src="../safety/../symbols/info.svg" width="49" height="49" /></td><td><div class="messagepanel">
+                    <div class="typeofhazard">Battery test</div>
+                    <div class="howtoavoid">For an accurate battery test, test the UPS with the ground shelter
+                        rack turned on.</div>
+                </div></td></tr></table></div>
+
+                </li>
+
+            </ol>
+
+        </div>
+
+        <ol class="ol steps"><li class="li step">
+                <span class="ph cmd">To test a <em class="ph i">UPS Battery kit</em>:</span>
+                <ol type="a" class="ol substeps" id="ups_battery_kit___functional_check__substeps_h3p_3hc_d2b">
+                    <li class="li substep">
+                        <span class="ph cmd">Plug the <em class="ph i">UPS Battery kit</em> into a power outlet for 48 hours to
+                            charge the battery.</span>
+                    </li>
+
+                    <li class="li substep">
+                        <span class="ph cmd">Press any button to activate the menu options. Select CONTROL and then
+                            START BATTERY TEST.</span>
+                        
+                            <div class="note remember remember"><span class="remembertitle">Remember:</span> During the battery test,
+                                the front panel displays "Battery Test Pending." A failed battery
+                                test initiates a <em class="ph i">Battery Test Failed</em> alarm.</div>
+
+                        
+                    </li>
+
+                </ol>
+
+            </li>
+<li class="li step">
+                <span class="ph cmd">To cancel a battery test in progress:</span>
+                <ol type="a" class="ol substeps">
+                    <li class="li substep">
+                        <span class="ph cmd">Press any button to activate the menu options.</span>
+                    </li>
+
+                    <li class="li substep">
+                        <span class="ph cmd">Select CONTROL, START BATTERY TEST, and then CANCEL.</span>
+                    </li>
+
+                </ol>
+
+            </li>
+</ol>
+
+    </div>
+
+</body>
+</html>

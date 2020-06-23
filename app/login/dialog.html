@@ -1,0 +1,22 @@
+<div  *ngIf="data.loggedin == false">
+<h1 mat-dialog-title>Login {{data.user}}</h1>
+  <div mat-dialog-content>
+    <mat-form-field>
+      <input matInput placeholder="Enter your name" [(ngModel)]="data.user" cdkFocusInitial>
+    </mat-form-field>
+    <mat-form-field>
+      <input matInput [(ngModel)]="data.pw" placeholder="Enter your password" type="password">
+    </mat-form-field>
+  </div>
+  <div mat-dialog-actions>
+    <button mat-button (click)="onNoClick()">Cancel</button>
+    <button mat-button [mat-dialog-close]="data.user" cdkFocusInitial>Ok</button>
+  </div>
+</div>
+<div *ngIf="data.loggedin == true">
+  <h1 mat-dialog-title>Logout</h1>
+    <p>You have been logged out successfully.</p>
+    <div mat-dialog-actions>
+      <button mat-button [mat-dialog-close]="data.user" cdkFocusInitial>Ok</button>
+    </div>
+</div>

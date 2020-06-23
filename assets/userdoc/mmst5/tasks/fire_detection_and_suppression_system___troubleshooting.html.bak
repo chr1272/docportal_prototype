@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="copyright" content="(C) Copyright 2019" />
+<meta name="DC.rights.owner" content="(C) Copyright 2019" />
+<meta name="DC.type" content="task" />
+<meta name="DC.title" content="Fire detection and suppression system - Troubleshooting" />
+<meta name="abstract" content="This troubleshooting procedure applies to failure at the fire detection and suppression system." />
+<meta name="description" content="This troubleshooting procedure applies to failure at the fire detection and suppression system." />
+<meta name="DC.format" content="XHTML" />
+<meta name="DC.identifier" content="fire_detection_and_suppression_system___troubleshooting" />
+<link rel="stylesheet" type="text/css" href="../commonltr.css" />
+<title>Fire detection and suppression system - Troubleshooting</title>
+</head>
+<body id="fire_detection_and_suppression_system___troubleshooting">
+
+    <h1 class="title topictitle1" id="ariaid-title1">Fire detection and suppression system - Troubleshooting</h1>
+
+    
+    <div class="body taskbody"><p class="shortdesc">This troubleshooting procedure applies to failure at the fire detection and
+        suppression system.</p>
+
+        <div class="section prereq prelreqs p" id="fire_detection_and_suppression_system___troubleshooting__prelreqs_tn5_jyj_gdb">
+            <ul class="ul ul reqconds" id="fire_detection_and_suppression_system___troubleshooting__reqconds_un5_jyj_gdb">
+                <li class="li li noconds"></li>
+
+            </ul>
+
+            <ul class="ul ul reqpers" id="fire_detection_and_suppression_system___troubleshooting__reqpers_vn5_jyj_gdb">
+                <li class="li li personnel">1</li>
+
+                <li class="li li perscat">Technical support team</li>
+
+                <li class="li li perskill">Electric</li>
+
+                <li class="li li esttime">30</li>
+
+            </ul>
+
+            <div class="p p supequip">
+                <ul class="ul ul supeqli" id="fire_detection_and_suppression_system___troubleshooting__supeqli_jgn_xwj_gdb">
+                    <li class="li li supequi">Standard toolbox tower</li>
+
+                </ul>
+
+            </div>
+
+            <p class="p p supplies">
+                
+            </p>
+
+            <p class="p p spares">
+                
+            </p>
+
+            <ol class="ol ol safety" id="fire_detection_and_suppression_system___troubleshooting__safety_of5_dxj_gdb">
+                <li class="li li safecond">
+                    <div class="p"><table role="presentation" border="1" class="note hazardstatement"><tr><th colspan="2" class="hazardstatement--caution"><svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" class="hazardsymbol" version="1.1" height="1em" viewBox="0 0 600 525"><metadata>
+      <rdf:RDF>
+         <cc:Work rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
+            <dc:title></dc:title>
+         </cc:Work>
+      </rdf:RDF>
+   </metadata><defs>
+      <path d="M 2.8117,-1.046 A 3,3 0 0 1 0.5,2.958 V 4.5119 A 10.5,10.5 0 0 1 2,25.3078 v 0.5583 A 15,15 0 0 0 14.7975,8.5433 15,15 0 0 0 23.4007,-11.201 l -0.4835,0.2792 A 10.5,10.5 0 0 1 4.1574,-1.8229 z m 3.4148,8.871 a 10,10 0 0 1 -12.453,0 9.5,9.5 0 0 0 -2.1756,2.7417 13.5,13.5 0 0 0 16.8042,0 A 10,10 0 0 0 6.2265,7.825 z" transform="matrix(10,0,0,-10,260,260)"></path>
+   </defs><path d="M 597.6,499.6 313.8,8 C 310.9,3 305.6,0 299.9,0 294.2,0 288.9,3.1 286,8 L 2.2,499.6 c -2.9,5 -2.9,11.1 0,16 2.9,5 8.2,8 13.9,8 h 567.6 c 5.7,0 11,-3.1 13.9,-8 2.9,-5 2.9,-11.1 0,-16 z"></path><polygon points="43.875,491.5 299.875,48.2 555.875,491.5 " transform="matrix(1,0,0,0.99591458,0.125,2.0332437)" style="fill:#f6bd16;fill-opacity:1;stroke:none;overflow:visible"></polygon><path d="m -384.00937,417.52725 a 38.151581,36.156727 0 1 1 -76.30316,0 38.151581,36.156727 0 1 1 76.30316,0 z" transform="matrix(0.99319888,0,0,1.0479962,719.28979,-2.9357862)" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.62514842;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:0.4;stroke-dasharray:none;stroke-dashoffset:0"></path><path d="m 300,168.60074 c -20.64745,0 -37.26716,16.97292 -37.26716,38.05658 l 11.01897,133.31318 c 2.10449,17.24457 3.90184,27.0149 11.01898,31.60966 4.64712,2.1172 9.79468,3.32214 15.22921,3.32214 5.40832,0 10.53383,-1.1913 15.16343,-3.28925 7.15697,-4.58178 8.97556,-14.35941 11.08476,-31.64255 l 11.01898,-133.31318 c 0,-21.08366 -16.61973,-38.05658 -37.26717,-38.05658 z" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.88582677;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"></path></svg> CAUTION</th></tr><tr><td><img class="image hazardsymbol warning" src="../safety/../symbols/warning.svg" width="49" height="49" /></td><td><div class="messagepanel">
+                    <div class="typeofhazard">Safety pin</div>
+                    <div class="howtoavoid">Make sure that the safety pin secures the manual actuator and the
+                        switch of the fire suppression system is switched off. Wrong operation of
+                        the release system may release the HFC-227 from the cylinder.</div>
+                </div></td></tr></table></div>
+
+                </li>
+
+            </ol>
+
+        </div>
+
+        <div class="section context">Each alarm is signaled by an LED on the front of the alarm control panel (see item
+            1 in <a class="xref" href="#fire_detection_and_suppression_system___troubleshooting__Fire_Alarm_Control_Panel">Figure 1</a>). Check the meaning of each LED in the table bellow.<div class="fig fignone" id="fire_detection_and_suppression_system___troubleshooting__Fire_Alarm_Control_Panel"><span class="figcap"><span class="fig--title-label">Figure 1. </span>Fire Alarm Control Panel</span>
+                
+                <img class="image" id="fire_detection_and_suppression_system___troubleshooting__image_ncz_xgx_tfb" src="../images/ts_Fire_Suppression.png" />
+                <dl class="dl">
+                    
+                        <dt class="dt dlterm">1</dt>
+
+                        <dd class="dd">Fire Alarm Control Panel LED Alarms</dd>
+
+                    
+                </dl>
+
+            </div>
+<table cellpadding="4" cellspacing="0" summary="" id="fire_detection_and_suppression_system___troubleshooting__simpletable_ecc_mym_gfb" border="0" class="simpletable"><col style="width:19.493177387914233%" /><col style="width:80.50682261208577%" /><thead></thead><tbody><tr class="strow">
+                    <td style="vertical-align:top;" class="stentry">
+                        <p class="p"><strong class="ph b">Mains fail</strong></p>
+
+                    </td>
+
+                    <td style="vertical-align:top;" class="stentry">
+                        <p class="p">Indicates that the 230V AC supply is not present and the system is
+                            running on standby batteries.</p>
+
+                    </td>
+
+                </tr>
+<tr class="strow">
+                    <td style="vertical-align:top;" class="stentry">
+                        <p class="p"><strong class="ph b">Batt fail</strong></p>
+
+                    </td>
+
+                    <td style="vertical-align:top;" class="stentry">
+                        <p class="p">Indicates that the standby battery has become disconnected or that the
+                            charging circuit of the control panel has failed. Check that both
+                            batteries are connected and linked together. Test the battery.
+                            Disconnect battery and ensure that 28 Volts can be measured on battery
+                            charger leads.</p>
+
+                    </td>
+
+                </tr>
+<tr class="strow">
+                    <td style="vertical-align:top;" class="stentry">
+                        <p class="p"><strong class="ph b">CPU fault</strong></p>
+
+                    </td>
+
+                    <td style="vertical-align:top;" class="stentry">
+                        <p class="p">Indicates that the central processor unit has failed to correctly execute
+                            code and has been restarted by the system watchdog. The watchdog reset
+                            switch must be pressed to clear the CPU fault condition. </p>
+
+                        <p class="p">Press watchdog reset. If system does not return to normal then the panel
+                            is probably damaged and needs the circuit board replacing.</p>
+
+                    </td>
+
+                </tr>
+<tr class="strow">
+                    <td style="vertical-align:top;" class="stentry">
+                        <p class="p"><strong class="ph b">Aux 24V fault</strong></p>
+
+                    </td>
+
+                    <td style="vertical-align:top;" class="stentry">
+                        <p class="p">The Aux 24V and R0V terminals provide a 500 milliamp, 24V DC power supply
+                            for power fire</p>
+
+                        <p class="p"> alarm auxiliary equipment. This LED indicates that fuse protecting the
+                            R0V output has operated and the rating of this output has been exceeded.
+                            The fuse is a self-resetting type and the supply will resume when the
+                            fault condition is removed.</p>
+
+                    </td>
+
+                </tr>
+<tr class="strow">
+                    <td style="vertical-align:top;" class="stentry"><strong class="ph b">Batt low</strong></td>
+
+                    <td style="vertical-align:top;" class="stentry">
+                        <p class="p">Illuminates when the system is running on batteries and the battery
+                            voltage is between 21.5 V and 20.5 V (the minimum battery voltage).</p>
+
+                    </td>
+
+                </tr>
+<tr class="strow">
+                    <td style="vertical-align:top;" class="stentry"><strong class="ph b">Comms fault</strong></td>
+
+                    <td style="vertical-align:top;" class="stentry">
+                        <p class="p">Indicates that communication has been lost with a repeater panel or
+                            Ancillary board. Check for comms fault at all repeaters and ancillary
+                            boards to identify the source of the problem.</p>
+
+                        <p class="p">The comms fault LED will be accompanied by the front panel Flooding zone
+                            fault LED to indicate a common fault condition within the extinguishant
+                            section of the control panel.</p>
+
+                    </td>
+
+                </tr>
+<tr class="strow">
+                    <td style="vertical-align:top;" class="stentry"><strong class="ph b">Earth fault</strong></td>
+
+                    <td style="vertical-align:top;" class="stentry">
+                        <p class="p">Indicates that part of the system wiring is connected to earth. Remove
+                            all system wiring and reconnect cables one at a time until the earth
+                            fault returns. This will indicate which cable the earth fault is present
+                            on.</p>
+
+                    </td>
+
+                </tr>
+<tr class="strow">
+                    <td style="vertical-align:top;" class="stentry"><strong class="ph b">Sys fuse fault</strong></td>
+
+                    <td style="vertical-align:top;" class="stentry">
+                        <p class="p">Indicates that the total power rating of the power supply has been
+                            exceeded and that the system fuse has come into operation. Remove and
+                            review all loads and re-connect one at a time until over rated circuit
+                            trips fuse to identify troublesome circuit.</p>
+
+                    </td>
+
+                </tr>
+<tr class="strow">
+                    <td style="vertical-align:top;" class="stentry"><strong class="ph b">S1, S2 and S3 fault</strong></td>
+
+                    <td style="vertical-align:top;" class="stentry">
+                        <p class="p">Indicates a short or open circuit on sounder outputs. Remove wiring and
+                            refit end of line resistors.</p>
+
+                        <p class="p">Check sounder circuit wiring.</p>
+
+                        <p class="p">The S3 LED will be accompanied by the front panel Flooding zone fault LED
+                            to indicate a common fault condition within the extinguishant section of
+                            the control panel.</p>
+
+                    </td>
+
+                </tr>
+<tr class="strow">
+                    <td style="vertical-align:top;" class="stentry"><strong class="ph b">Exting fault</strong></td>
+
+                    <td style="vertical-align:top;" class="stentry">
+                        <p class="p">Indicates a short or open circuit on extinguishant output. Remove wiring
+                            and refit end of line</p>
+
+                        <p class="p">resistors. Check extinguishant circuit wiring.</p>
+
+                        <p class="p">The Exting fault LED will be accompanied by the front panel Flooding zone
+                            fault LED to indicate a common fault condition within the extinguishant
+                            section of the control panel.</p>
+
+                    </td>
+
+                </tr>
+<tr class="strow">
+                    <td style="vertical-align:top;" class="stentry"><strong class="ph b">Hold fault</strong></td>
+
+                    <td style="vertical-align:top;" class="stentry">
+                        <p class="p">Indicates a short or open circuit on the hold switch input. Remove wiring
+                            and refit end of line.</p>
+
+                        <p class="p">Check hold circuit wiring.</p>
+
+                        <p class="p">The Hold fault LED will be accompanied by the front panel Flooding zone
+                            fault LED to indicate a common fault condition within the extinguishant
+                            section of the control panel.</p>
+
+                    </td>
+
+                </tr>
+<tr class="strow">
+                    <td style="vertical-align:top;" class="stentry"><strong class="ph b">Manual release fault</strong></td>
+
+                    <td style="vertical-align:top;" class="stentry">
+                        <p class="p">Indicates a short or open circuit on the manual release switch input.
+                            Remove wiring and refit end of line. Check manual release circuit
+                            wiring.</p>
+
+                        <p class="p">The Manual release fault LED will be accompanied by the front panel
+                            Flooding zone fault LED to indicate a common fault condition within the
+                            extinguishant section of the control panel.</p>
+
+                    </td>
+
+                </tr>
+<tr class="strow">
+                    <td style="vertical-align:top;" class="stentry"><strong class="ph b">Mode fault</strong></td>
+
+                    <td style="vertical-align:top;" class="stentry">
+                        <p class="p">Indicates a short or open circuit on the mode switch input. Remove wiring
+                            and refit end of line.</p>
+
+                        <p class="p">Check mode circuit wiring.</p>
+
+                        <p class="p">The Mode fault LED will be accompanied by the front panel Flooding zone
+                            fault LED to indicate a common fault condition within the extinguishant
+                            section of the control panel.</p>
+
+                    </td>
+
+                </tr>
+<tr class="strow">
+                    <td style="vertical-align:top;" class="stentry"><strong class="ph b">Release fault</strong></td>
+
+                    <td style="vertical-align:top;" class="stentry">
+                        <p class="p">Indicates a short or open circuit on the released pressure switch input.
+                            Remove wiring and refit end of line. Check released pressure switch
+                            circuit wiring.</p>
+
+                        <p class="p">The Released fault LED will be accompanied by the front panel Flooding
+                            zone fault LED to indicate a common fault condition within the
+                            extinguishant section of the control panel.</p>
+
+                    </td>
+
+                </tr>
+<tr class="strow">
+                    <td style="vertical-align:top;" class="stentry"><strong class="ph b">Low pres fault</strong></td>
+
+                    <td style="vertical-align:top;" class="stentry">
+                        <p class="p">Indicates a short or open circuit on the low pressure switch input.
+                            Remove wiring and refit end of line. Check low pressure switch circuit
+                            wiring.</p>
+
+                        <p class="p">The Low pres fault LED will be accompanied by the front panel Flooding
+                            zone fault LED to indicate a common fault condition within the
+                            extinguishant section of the control panel.</p>
+
+                    </td>
+
+                </tr>
+<tr class="strow">
+                    <td style="vertical-align:top;" class="stentry"><strong class="ph b">Tell tale</strong></td>
+
+                    <td style="vertical-align:top;" class="stentry">
+                        <p class="p">Indicates that either panel mounted or remote manual release button has
+                            been pressed.</p>
+
+                        <p class="p">Can only be reset by pressing processor reset and W/DOG reset or powering
+                            down the control panel.</p>
+
+                    </td>
+
+                </tr>
+</tbody></table>
+</div>
+
+        <div class="li step p">
+                <span class="ph cmd"></span><br />
+            </div>
+
+    </div>
+
+</body>
+</html>

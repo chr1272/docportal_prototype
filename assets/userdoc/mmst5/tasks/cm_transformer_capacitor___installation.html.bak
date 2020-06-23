@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="copyright" content="(C) Copyright 2019" />
+<meta name="DC.rights.owner" content="(C) Copyright 2019" />
+<meta name="DC.type" content="task" />
+<meta name="DC.title" content="Transformer/Capacitor - Installation" />
+<meta name="abstract" content="Installation of the Transformer/Capacitor." />
+<meta name="description" content="Installation of the Transformer/Capacitor." />
+<meta name="DC.format" content="XHTML" />
+<meta name="DC.identifier" content="transformer_capacitor___installation" />
+<link rel="stylesheet" type="text/css" href="../commonltr.css" />
+<title>Transformer/Capacitor - Installation</title>
+</head>
+<body id="transformer_capacitor___installation">
+
+    <h1 class="title topictitle1" id="ariaid-title1">Transformer/Capacitor - Installation</h1>
+
+    
+    <div class="body taskbody"><p class="shortdesc">Installation of the <em class="ph i">Transformer/Capacitor</em>.</p>
+
+        <ol class="ol steps"><li class="li step">
+                <span class="ph cmd"><strong class="ph b">Installation of the <em class="ph i">Transformer</em></strong></span>
+                <ol type="a" class="ol substeps">
+                    <li class="li substep">
+                        <span class="ph cmd">Install the new <em class="ph i">Transformer</em> with the screw (see item 6 in <a class="xref" href="cm_transformer_capacitor___removal.html#transformer_capacitor___removal__Reflector">Figure 2</a>).</span>
+                    </li>
+
+                    <li class="li substep">
+                        <span class="ph cmd">Connect the cables to the clamp (see item 4 in <a class="xref" href="cm_transformer_capacitor___removal.html#transformer_capacitor___removal__Reflector">Figure 2</a>) as noted down.</span>
+                    </li>
+
+                </ol>
+
+            </li>
+<li class="li step">
+                <span class="ph cmd"><strong class="ph b">Installation of the <em class="ph i">Capacitor</em></strong></span>
+                <ol type="a" class="ol substeps">
+                    <li class="li substep">
+                        <span class="ph cmd">Install the new <em class="ph i">Capacitor</em> with the screw (see item 7 in <a class="xref" href="cm_transformer_capacitor___removal.html#transformer_capacitor___removal__Reflector">Figure 2</a>).</span>
+                    </li>
+
+                    <li class="li substep">
+                        <span class="ph cmd">Connect the <em class="ph i">Connector</em> (see item 9 in <a class="xref" href="cm_transformer_capacitor___removal.html#transformer_capacitor___removal__Reflector">Figure 2</a>) to the <em class="ph i">Capacitor</em>.</span>
+                    </li>
+
+                </ol>
+
+            </li>
+<li class="li step">
+                <span class="ph cmd">Install the <em class="ph i"><span class="ph">Aluminium Reflector</span></em> with the three
+                    screws (see item 1 to 3 in <a class="xref" href="cm_transformer_capacitor___removal.html#transformer_capacitor___removal__Reflector">Figure 2</a>) with an <em class="ph i"><span class="ph">X-point screwdriver, small</span></em>.</span>
+            </li>
+<li class="li step">
+                <span class="ph cmd">Install the <em class="ph i"><span class="ph">Mercury bulb</span></em> (see item 2 in
+                        <a class="xref" href="cm_transformer_capacitor___removal.html#transformer_capacitor___removal__External_light">Figure 1</a>) by rotating the bulb in clockwise direction.</span>
+            </li>
+<li class="li step">
+                <span class="ph cmd">Close the <em class="ph i"><span class="ph">External Light</span></em> with two screws (see
+                    item 1 in <a class="xref" href="cm_transformer_capacitor___removal.html#transformer_capacitor___removal__External_light">Figure 1</a>).</span>
+            </li>
+<li class="li step">
+                <span class="ph cmd">Turn on power to the light fixture at the circuit breaker.</span>
+            </li>
+</ol>
+
+    </div>
+
+</body>
+</html>

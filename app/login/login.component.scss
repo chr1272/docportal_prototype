@@ -1,0 +1,13 @@
+
+.loginbox {
+    display: flex;
+    align-items: center;
+    justify-content: baseline;
+    min-width:100px;
+    max-width:150px;
+    flex-flow: row;
+    height:60px;
+}
+.hiddeninput {
+    display: none;
+}

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="copyright" content="(C) Copyright 2019" />
+<meta name="DC.rights.owner" content="(C) Copyright 2019" />
+<meta name="DC.type" content="task" />
+<meta name="DC.title" content="Controller - Installation" />
+<meta name="abstract" content="Installation of the CX9020 controller. The CX9020 controller must be installed onto the mounting rail located in the slots 20 and 21 in the Upmast Cabinet. The mounting rail is located at the very top right side of the Upmast Cabinet." />
+<meta name="description" content="Installation of the CX9020 controller. The CX9020 controller must be installed onto the mounting rail located in the slots 20 and 21 in the Upmast Cabinet. The mounting rail is located at the very top right side of the Upmast Cabinet." />
+<meta name="DC.format" content="XHTML" />
+<meta name="DC.identifier" content="controller___installation" />
+<link rel="stylesheet" type="text/css" href="../commonltr.css" />
+<title>Controller - Installation</title>
+</head>
+<body id="controller___installation">
+
+    <h1 class="title topictitle1" id="ariaid-title1">Controller - Installation</h1>
+
+    
+    <div class="body taskbody"><p class="shortdesc">Installation of the <em class="ph i"><span class="ph">CX9020 controller</span></em>. The <em class="ph i"><span class="ph">CX9020 controller</span></em> must be installed onto the mounting rail
+        located in the slots 20 and 21 in the <em class="ph i">Upmast Cabinet</em>. The mounting rail is located at
+        the very top right side of the <em class="ph i">Upmast Cabinet</em>.</p>
+
+        <ol class="ol steps"><li class="li step stepexpand">
+                <span class="ph cmd">Position the <em class="ph i"><span class="ph">CX9020 controller</span></em> on the mounting
+                    rail.</span>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Push it slightly until it engages on the right-hand side. This is indicated by
+                    a distinct click (see <a class="xref" href="#controller___installation__CPU_Installation">Figure 1</a>).</span>
+                
+                    <div class="fig fignone" id="controller___installation__CPU_Installation"><span class="figcap"><span class="fig--title-label">Figure 1. </span>Installation of the CPU onto the rail</span>
+                        
+                        <img class="image" src="../images/ICN-ACTA-AA-03040107A-A-D2714-06390-A-A-1.jpg" />
+                    </div>
+
+                
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Insert the bar clips on the top side and underside.</span>
+                <div class="itemgroup stepresult">The bars are then engaged again. The engagement of the individual bars
+                    is indicated by a distinct click.</div>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Once the <em class="ph i">CPU</em> and <em class="ph i">Power Supply Converter</em> are mounted, ensure the
+                    correct cables are connected to the corresponding power terminals (see <a class="xref" href="#controller___installation__24V_CX9020_Controller">Figure 2</a>).</span>
+                
+                    <div class="fig fignone" id="controller___installation__24V_CX9020_Controller"><span class="figcap"><span class="fig--title-label">Figure 2. </span>24V CX9020 Controller</span>
+                        
+                        <img class="image" src="../images/Controller_CX9020.png" height="288" width="492" />
+                        <dl class="dl">
+                            
+                                <dt class="dt dlterm">1</dt>
+
+                                <dd class="dd">Ethernet und USB connection</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">2</dt>
+
+                                <dd class="dd">DVI connection</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">3</dt>
+
+                                <dd class="dd">Multi optional interface (e.g. RS232, Profibus, CANopen)</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">4</dt>
+
+                                <dd class="dd">Status LEDs</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">5</dt>
+
+                                <dd class="dd">Battery compartment (behind the flap)</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">6</dt>
+
+                                <dd class="dd">2 x MicroSD</dd>
+
+                            
+                        </dl>
+
+                    </div>
+
+                
+            </li>
+</ol>
+
+    </div>
+
+</body>
+</html>

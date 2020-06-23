@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+        <meta name="copyright" content="(C) Copyright 2019" />
+        <meta name="DC.rights.owner" content="(C) Copyright 2019" />
+        <meta name="DC.type" content="task" />
+        <meta name="DC.title" content="Encoder - North alignment" />
+        <meta name="abstract" content="North alignment of the Transceiver." />
+        <meta name="description" content="North alignment of the Transceiver." />
+        <meta name="DC.format" content="XHTML" />
+        <meta name="DC.identifier" content="cm_encoder___north_alignment" />
+        <link rel="stylesheet" type="text/css" href="../commonltr.css" />
+        <title>Encoder - North alignment</title>
+    </head>
+    <body id="cm_encoder___north_alignment">
+        <h1 class="title topictitle1" id="ariaid-title1">Encoder - North alignment</h1>
+        <div class="body taskbody">
+            <p class="shortdesc">North alignment of the <em class="ph i"><span class="ph"
+                        >Transceiver</span></em>.</p>
+
+            <ol class="ol steps">
+                <li class="li step">
+                    <span class="ph cmd">Set RST measurement units to correspond to the reference
+                        target data.</span>
+                </li>
+                <li class="li step">
+                    <span class="ph cmd">Set “<em class="ph i">Antenna Correction</em>” to 0 (zero)
+                            (<em class="ph i">Configuration/Interfaces/Antenna</em>).</span>
+                </li>
+                <li class="li step">
+                    <span class="ph cmd">Set “<em class="ph i">Range Adjust</em>” to 0 (zero) (<em
+                            class="ph i">Configuration/Interfaces/Antenna</em>).</span>
+                </li>
+                <li class="li step">
+                    <span class="ph cmd">Locate the uniform, non-moving, small and stable targets
+                        with known range/bearing or GPS (&gt;5,000 m from the radar).</span>
+                </li>
+                <li class="li step">
+                    <span class="ph cmd">Use the EBL/VRM tool to show the targets on the VRM scope
+                        and measure the exact bearing. GPS positions can be converted to range and
+                        bearing from e.g. <em class="ph i"
+                            >http://www.gpsvisualizer.com/calculators</em>. </span>
+                </li>
+                <li class="li step">
+                    <span class="ph cmd">Calculate and set the “<em class="ph i">Antenna
+                            Correction</em>” (bearing correction). <em class="ph i">Antenna
+                            correction = 360° – Measured bearing + Actual bearing</em>. </span>
+                </li>
+                <li class="li step">
+                    <span class="ph cmd">Watch the PPI and inspect correct bearing to reference
+                        target, fine adjust as required.</span>
+                </li>
+                <li class="li step">
+                    <span class="ph cmd">Measure the exact distance to the reference target.</span>
+                </li>
+                <li class="li step">
+                    <span class="ph cmd">Calculate and set the “<em class="ph i">Range Adjust</em>”.
+                            <em class="ph i">Range adjust = Antenna range – Actual range</em>.
+                    </span>
+                </li>
+                <li class="li step">
+                    <span class="ph cmd">Watch the PPI and inspect correct range to reference
+                        target, fine adjust as required.</span>
+                </li>
+            </ol>
+
+        </div>
+    </body>
+</html>

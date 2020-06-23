@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="copyright" content="(C) Copyright 2019" />
+<meta name="DC.rights.owner" content="(C) Copyright 2019" />
+<meta name="DC.type" content="task" />
+<meta name="DC.title" content="WG Assy - Installation" />
+<meta name="abstract" content="Installation of the Waveguide Assy." />
+<meta name="description" content="Installation of the Waveguide Assy." />
+<meta name="DC.format" content="XHTML" />
+<meta name="DC.identifier" content="wg_assy___installation" />
+<link rel="stylesheet" type="text/css" href="../commonltr.css" />
+<title>WG Assy - Installation</title>
+</head>
+<body id="wg_assy___installation">
+
+    <h1 class="title topictitle1" id="ariaid-title1">WG Assy - Installation</h1>
+
+    
+    <div class="body taskbody"><p class="shortdesc">Installation of the <em class="ph i"><span class="ph">Waveguide Assy</span></em>.</p>
+
+        <ol class="ol steps"><li class="li step stepexpand">
+                <span class="ph cmd">Insert the new <em class="ph i"><span class="ph">Waveguide Assy</span></em>.</span>
+                <div class="itemgroup info">Ensure, that the top flange is guided properly through the circular cut-out in
+                    the top of the cabinet and fix the new o-ring (see <a class="xref" href="cm_wg_assy___removal.html#wg_assy___removal__Top_Flange">Figure 4</a>).</div>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Mount and tighten the four screws which are holding the top flange to the
+                    cabinet (see red circles in <a class="xref" href="cm_wg_assy___removal.html#wg_assy___removal__Top_Flange">Figure 4</a>) and mount
+                    the <em class="ph i">Waveguide Connector</em>.</span>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Check, that the o-ring is placed correctly (see item 1 in <a class="xref" href="cm_wg_assy___removal.html#wg_assy___removal__Top_Flange">Figure 4</a>).</span>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Tighten the four screws, which are holding the unit to the back (see red
+                    circles in <a class="xref" href="cm_wg_assy___removal.html#wg_assy___removal__Screws">Figure 5</a>).</span>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Mount a new <em class="ph i"><span class="ph">Cable Strap</span></em> to fix the
+                    cables to the cable tray at the bottom of the <em class="ph i"><span class="ph">Waveguide Assy</span></em> (see <a class="xref" href="cm_wg_assy___removal.html#wg_assy___removal__Cable_Strap">Figure 3</a>).</span>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Mount and tighten the <em class="ph i">Connectors X3, X5, X2 and X4</em> (see red circles in
+                        <a class="xref" href="cm_wg_assy___removal.html#wg_assy___removal__Connectors">Figure 1</a>).</span>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Remove the <em class="ph i">Termination</em> on X14 of <em class="ph i"><span class="ph">RxTx</span></em>
+                    (see <a class="xref" href="cm_wg_assy___removal.html#wg_assy___removal__Termination">Figure 2</a>).</span>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Mount the small cable between X6 from the <em class="ph i"><span class="ph">Waveguide Assy</span></em> and X14 from the <em class="ph i"><span class="ph">RxTx</span></em> (see <a class="xref" href="cm_wg_assy___removal.html#wg_assy___removal__Connectors">Figure 1</a>).</span>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Mount and tighten the <em class="ph i">Connectors X1, X10, X11, X12 and X13</em> on the <em class="ph i"><span class="ph">RxTx</span></em> (see yellow cirles in <a class="xref" href="cm_wg_assy___removal.html#wg_assy___removal__Connectors">Figure 1</a>).</span>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Mount the <em class="ph i"><span class="ph">SSPA</span></em> (see <a class="xref" href="cm_sspa___installation.html" title="Installation of the SSPA.">SSPA - Installation</a>).</span>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Mount the <em class="ph i"><span class="ph">Blower Assy</span></em> (see <a class="xref" href="cm_blower_assy___installation.html" title="Installation of the Blower Assy.">Blower Assy - Installation</a>).</span>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Mount the
+                            <em class="ph i"><span class="ph">Waveguide SSPA</span></em> with a
+                            <em class="ph i"><span class="ph">Screwdriver,
+                                        flexible, 6 mm</span></em>.</span>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Turn on power with the power switch on the <em class="ph i"><span class="ph">PSU</span></em>.</span>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Switch “Mains On” with the <em class="ph i">Radar Service Application</em> (if needed, select
+                    antenna rotation, Tx and profile).</span>
+            </li>
+</ol>
+
+    </div>
+
+</body>
+</html>

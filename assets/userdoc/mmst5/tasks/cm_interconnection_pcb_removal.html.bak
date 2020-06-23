@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="copyright" content="(C) Copyright 2019" />
+<meta name="DC.rights.owner" content="(C) Copyright 2019" />
+<meta name="DC.type" content="task" />
+<meta name="DC.title" content="Interconnection PCB - Removal" />
+<meta name="abstract" content="Removal of the Interconnection PCB." />
+<meta name="description" content="Removal of the Interconnection PCB." />
+<meta name="DC.format" content="XHTML" />
+<meta name="DC.identifier" content="interconnection_pcb_exch" />
+<link rel="stylesheet" type="text/css" href="../commonltr.css" />
+<title>Interconnection PCB - Removal</title>
+</head>
+<body id="interconnection_pcb_exch">
+
+    <h1 class="title topictitle1" id="ariaid-title1"><span class="ph">Interconnection
+                        PCB</span> - Removal</h1>
+
+    
+    <div class="body taskbody"><p class="shortdesc">Removal of the <em class="ph i"><span class="ph">Interconnection
+                        PCB</span></em>.</p>
+
+        <ol class="ol steps"><li class="li step">
+                <span class="ph cmd">Using the Radar Service application, stop antenna rotation (if active) and
+                    switch to "Mains Off".</span>
+            </li>
+<li class="li step">
+                <span class="ph cmd">Turn off power to the transceiver using the power switch on the power supply
+                    unit.</span>
+            </li>
+<li class="li step">
+                <span class="ph cmd">Remove all cables and connections from the External I/O at the bottom of the
+                    cabinet.</span>
+            </li>
+<li class="li step">
+                <span class="ph cmd">Mark all connector positions to ensure that they are correctly connected after
+                    the exchange.</span>
+            </li>
+<li class="li step">
+                <span class="ph cmd">Remove the two screws holding the connector for the interconnection PCB to the
+                    motherboard - use <em class="ph i"><span class="ph">Bit, Torx
+                                        T10 x 89</span></em>, as
+                    shown in <a class="xref" href="#interconnection_pcb_exch__pcb_connectors">Figure 1</a>. </span>
+                
+                    <div class="fig fignone" id="interconnection_pcb_exch__pcb_connectors"><span class="figcap"><span class="fig--title-label">Figure 1. </span>Connectors</span>
+                        
+                        <img class="image" id="interconnection_pcb_exch__image_zqp_x2n_h2b" src="../images/pcb_connectors.jpg" />
+                    </div>
+
+                
+            </li>
+<li class="li step">
+                <span class="ph cmd">Pull out the connector.</span>
+            </li>
+<li class="li step">
+                <span class="ph cmd">From the bottom of the cabinet, remove twelve Torx T20 screws, which are
+                    holding the External I/O board. The position of the screws is shown in <a class="xref" href="#interconnection_pcb_exch__pcb_screws">Figure 2</a>.</span>
+                
+                    <div class="fig fignone" id="interconnection_pcb_exch__pcb_screws"><span class="figcap"><span class="fig--title-label">Figure 2. </span>Screw positions</span>
+                        
+                        <img class="image" id="interconnection_pcb_exch__image_b2l_vfn_h2b" src="../images/pcb_screws.jpg" />
+                    </div>
+
+                
+            </li>
+<li class="li step">
+                <span class="ph cmd">Lift the board, take it out and move it to an ESD-approved workstation.</span>
+            </li>
+<li class="li step">
+                <span class="ph cmd">Remove the screws and two nuts holding the connector and the support angle,
+                    respectively.</span>
+            </li>
+<li class="li step">
+                <span class="ph cmd">In <a class="xref" href="#interconnection_pcb_exch__pcb_removal">Figure 3</a>, red circles indicate two screws on the
+                    connector, yellow circles indicate the two nuts holding the support angle.</span>
+                
+                    <div class="fig fignone" id="interconnection_pcb_exch__pcb_removal"><span class="figcap"><span class="fig--title-label">Figure 3. </span>PCB removal</span>
+                        
+                        <img class="image" id="interconnection_pcb_exch__image_pbb_mgn_h2b" src="../images/pcb_removal.jpg" />
+                    </div>
+
+                
+            </li>
+</ol>
+
+    </div>
+
+</body>
+</html>

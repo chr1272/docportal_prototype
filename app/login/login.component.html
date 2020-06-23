@@ -1,0 +1,6 @@
+<div class="loginbox" *ngIf="!user">
+    <button mat-icon-button color="accent" (click)="openDialog()"><mat-icon>account_circle</mat-icon> LOGIN</button>
+</div>
+<div class="loginbox" *ngIf="user">
+    <button mat-icon-button color="accent" (click)="openDialog()"><mat-icon>logout</mat-icon>Logout</button>
+</div>

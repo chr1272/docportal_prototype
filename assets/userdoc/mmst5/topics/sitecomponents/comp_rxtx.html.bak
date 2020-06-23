@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="copyright" content="(C) Copyright 2019" />
+<meta name="DC.rights.owner" content="(C) Copyright 2019" />
+<meta name="DC.type" content="topic" />
+<meta name="DC.title" content="RxTx" />
+<meta name="abstract" content="The RxTx is part of the Radio Section in the transceiver." />
+<meta name="description" content="The RxTx is part of the Radio Section in the transceiver." />
+<meta name="DC.format" content="XHTML" />
+<meta name="DC.identifier" content="comp_rxtx" />
+<link rel="stylesheet" type="text/css" href="../../commonltr.css" />
+<title>RxTx</title>
+</head>
+<body class="pagebreak" id="comp_rxtx">
+
+    <h1 class="title topictitle1" id="ariaid-title1">RxTx</h1>
+
+    
+    <div class="body"><p class="shortdesc">The <em class="ph i">RxTx</em> is part of the <em class="ph i">Radio Section</em> in the transceiver.</p>
+
+        <p class="p">The <em class="ph i">RxTx</em> is connected to the RxTx controller and the SSPA. The functionality of
+            the RxTx includes:</p>
+
+        <div class="p">
+            <ul class="ul">
+                <li class="li">Tx up converter</li>
+
+                <li class="li">Rx down converter</li>
+
+                <li class="li">Frequency synthesis circuitry</li>
+
+                <li class="li">A VCO which provides the local oscillator signals in the Rx and Tx chains</li>
+
+                <li class="li">A Tx chain attenuator supports TX reduced transmit power in sectors</li>
+
+                <li class="li">The RxTx provides system clock to the RxTx Controller</li>
+
+                <li class="li">Measurement system for monitoring noise figure, forward and reverse power</li>
+
+            </ul>
+
+        </div>
+
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Chapter name="Introduction" url="" shortdesc="" hasChildren="true">
+    <children name="About MobileView"
+        url="topics::c_mv_about_mobileview.html"
+        shortdesc=""
+        hasChildren="true">
+        <children name="About this guide"
+            url="topics::c_mv_about_guide.html"
+            shortdesc=""
+            hasChildren="false"/>
+        <children name="How MobileView is organized"
+            url="topics::c_mv_organization.html"
+            shortdesc=""
+            hasChildren="false"/>
+    </children>
+</Chapter>
+<Chapter name="Getting Started" url="" shortdesc="" hasChildren="true">
+    <children name="Thunderbird StormCluster features and benefits"
+        url="topics::c_architecture_combined.html"
+        shortdesc=""
+        hasChildren="false"/>
+    <children name="Logging on to MobileView"
+        url="topics::t_mv_logging_on.html"
+        shortdesc=""
+        hasChildren="false"/>
+    <children name="Workspace environment"
+        url="topics::c_mv_workspace_tab.html"
+        shortdesc=""
+        hasChildren="false"/>
+    <children name="System performance"
+        url="topics::c_mv_performance_tab.html"
+        shortdesc=""
+        hasChildren="false"/>
+    <children name="System diagnostics"
+        url="topics::c_mv_diagnostics_tab.html"
+        shortdesc=""
+        hasChildren="false"/>
+    <children name="Frequently Asked Questions"
+        url="topics::FAQ.html"
+        shortdesc=""
+        hasChildren="false"/>
+</Chapter>
+<Chapter name="Common Tasks" url="" shortdesc="" hasChildren="true">
+    <children name="Messaging Overview"
+        url="topics::c_mv_managing_messages.html"
+        shortdesc=""
+        hasChildren="false"/>
+    <children name="Customize Views"
+        url="topics::c_mv_customize_views.html"
+        shortdesc=""
+        hasChildren="true">
+        <children name="Cluster capacity reports"
+            url="topics::c_cluster_capacity.html"
+            shortdesc=""
+            hasChildren="false"/>
+        <children name="Generating data views"
+            url="topics::t_mv_generating_data_views.html"
+            shortdesc=""
+            hasChildren="false"/>
+        <children name="Query filters"
+            url="topics::r_mv_query_filters.html"
+            shortdesc=""
+            hasChildren="false"/>
+    </children>
+    <children name="Troubleshooting cluster reporting problems"
+        url="topics::t_mv_troubleshooting_clusters.html"
+        shortdesc=""
+        hasChildren="false"/>
+    <children name="Query warning messages"
+        url="topics::r_mv_query_messages.html"
+        shortdesc=""
+        hasChildren="false"/>
+    <children name="System notifications"
+        url="topics::r_mv_system_notifications.html"
+        shortdesc=""
+        hasChildren="false"/>
+    <children name="Quick reference: data views"
+        url="topics::r_mv_quickref_dataview.html"
+        shortdesc=""
+        hasChildren="false"/>
+    <children name="Quick reference: System health indicators"
+        url="topics::r_mv_quickref_health_indicators.html"
+        shortdesc=""
+        hasChildren="false"/>
+</Chapter>
+

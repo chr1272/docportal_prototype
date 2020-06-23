@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="copyright" content="(C) Copyright 2019" />
+<meta name="DC.rights.owner" content="(C) Copyright 2019" />
+<meta name="DC.Type" content="reference" />
+<meta name="DC.Title" content="Query filters" />
+<meta name="abstract" content="Before generating a data view, you must filter your query. This section lists the query filters available for each analysis. This list is organized alphabetically by query filter." />
+<meta name="description" content="Before generating a data view, you must filter your query. This section lists the query filters available for each analysis. This list is organized alphabetically by query filter." />
+<meta name="DC.subject" content=", ClusterView, query filters" />
+<meta name="keywords" content=", ClusterView, query filters" />
+<meta name="DC.Relation" scheme="URI" content="../topics/c_mv_customize_views.html" />
+<meta name="prodname" content="ClusterView" />
+<meta name="version" content="1.1" />
+<meta name="release" content="GA" />
+<meta name="modification" content="b" />
+<meta name="DC.Format" content="XHTML" />
+<meta name="DC.Identifier" content="r_mv_query_filters" />
+<meta name="DC.Language" content="en-us" />
+<link rel="stylesheet" type="text/css" href="../commonltr.css" />
+<title>Query filters</title>
+</head>
+<body id="r_mv_query_filters">
+
+    <h1 class="title topictitle1" id="ariaid-title1">Query filters</h1>
+
+    
+    
+    <div class="body refbody"><p class="shortdesc">Before generating a data view, you must filter your query. This section lists the query
+        filters available for each analysis. This list is organized alphabetically by query
+        filter.</p>
+
+        <div class="section">
+            
+<div class="tablenoborder"><table cellpadding="4" cellspacing="0" summary="" class="table" frame="hsides" border="1" rules="all"><colgroup><col style="width:24.675324675324674%" /><col style="width:29.87012987012987%" /><col style="width:45.45454545454545%" /></colgroup><thead class="thead" style="text-align:left;">
+                        <tr class="row">
+                            <th class="entry row-nocellborder" style="vertical-align:top;" id="d1756e63">Query filter</th>
+
+                            <th class="entry row-nocellborder" style="vertical-align:top;" id="d1756e66">Associated reports</th>
+
+                            <th class="entry row-nocellborder" style="vertical-align:top;" id="d1756e69">Description</th>
+
+                        </tr>
+
+                    </thead>
+<tbody class="tbody">
+                        <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Access rule</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Access rule configuration</li>
+
+                                </ul>
+
+                            </td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">Select the access rule to investigate.</td>
+
+                        </tr>
+
+                        <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Acknowledged by</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Alarm report</li>
+
+                                </ul>
+
+                            </td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">Users who acknowledged the alarm.</td>
+
+                        </tr>
+
+                        <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Acknowledged on</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Alarm report</li>
+
+                                </ul>
+
+                            </td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">Alarm acknowledgement time range.</td>
+
+                        </tr>
+
+                        <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Action taken</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Hits</li>
+
+                                </ul>
+
+                            </td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">User hit actions (Monitor, Diagnose, Clear).</td>
+
+                        </tr>
+
+                        <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Acknowledgement type</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Alarm report</li>
+
+                                </ul>
+
+                            </td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">Check one of the following acknowledgement type options: <dl class="dl">
+                                    
+                                        <dt class="dt dlterm">Alternate</dt>
+
+                                        <dd class="dd">Alarm was acknowledged by a user using the alternate
+                                            mode.</dd>
+
+                                    
+                                    
+                                        <dt class="dt dlterm">Default</dt>
+
+                                        <dd class="dd">Alarm was acknowledged by a user, or auto-acknowledged
+                                            by the system.</dd>
+
+                                    
+                                    
+                                        <dt class="dt dlterm">Forcibly</dt>
+
+                                        <dd class="dd">An administrator forced the alarm to be
+                                            acknowledged.</dd>
+
+                                    
+                                </dl>
+</td>
+
+                        </tr>
+
+                        <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Alarm priority</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Alarm report</li>
+
+                                </ul>
+
+                            </td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">Alarm priority.</td>
+
+                        </tr>
+
+                        <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Alarms</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Alarm report</li>
+
+                                </ul>
+
+                            </td>
+
+                             <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">Select the types of alarms you want to investigate.</td>
+
+                        </tr>
+
+                        <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Application</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Activity trails</li>
+
+                                    <li class="li">Audit trails</li>
+
+                                </ul>
+
+                            </td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">Which client application was used for the activity.</td>
+
+                        </tr>
+
+                        <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Archiver</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Archiver events</li>
+
+                                </ul>
+
+                            </td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">Select the Archivers to investigate.</td>
+
+                        </tr>
+
+                        <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Clusters</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Cluster activities</li>
+
+                                </ul>
+
+                            </td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">Select the clusters to investigate.</td>
+
+                        </tr>
+
+                        <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Compare with</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Inventory report</li>
+
+                                </ul>
+
+                            </td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">Compare entities with a source entity of the event.</td>
+
+                        </tr>
+
+                        <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Creation time</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Incidents</li>
+
+                                </ul>
+
+                            </td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">Incidents created/reported within the specified time
+                                range.</td>
+
+                        </tr>
+
+                        <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Credential</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Credential management</li>
+
+                                </ul>
+
+                            </td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">Specify whether or not the credential is assigned.</td>
+
+                        </tr>
+
+                        <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Custom fields</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Most reports</li>
+
+                                </ul>
+
+                            </td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">If custom fields are defined for the entity you are
+                                investigating, they can be included in this report.<div class="note note"><span class="notetitle">Note:</span> You might
+                                    not see the custom fields filter, depending on whether your user
+                                    is configured to view that custom field.</div>
+</td>
+
+                        </tr>
+
+                        <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Description</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Activity trails</li>
+
+                                    <li class="li">Credential management</li>
+
+                                </ul>
+
+                            </td>
+
+                             <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">Restrict the search to entries that contain this text
+                                string.</td>
+
+                        </tr>
+
+                        <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Devices</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">IO configuration</li>
+
+                                </ul>
+
+                            </td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">Select the devices to investigate.</td>
+
+                        </tr>
+
+                        <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Entities</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Audit trails</li>
+
+                                </ul>
+
+                            </td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">Select the entities you want to investigate. You can filter the
+                                entities by name and by type. </td>
+
+                        </tr>
+
+                    
+                        <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Health event</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Health history</li>
+
+                                </ul>
+
+                            </td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">Name of the health event.</td>
+
+                        </tr>
+
+                        <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Health severity</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Health history</li>
+
+                                </ul>
+
+                            </td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">Severity level of the health event.</td>
+
+                        </tr>
+
+                        <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Hit rules</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Hits</li>
+
+                                    <li class="li">Reads</li>
+
+                                 </ul>
+
+                            </td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">Select the hit rules to include in the report.</td>
+
+                        </tr>
+
+                        <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Hit type</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Hits</li>
+
+                                </ul>
+
+                            </td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">Select the type of hits to include in the report.</td>
+
+                        </tr>
+
+                        <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Impacted</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Activity trails</li>
+
+                                </ul>
+
+                            </td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">The entities that were impacted by this activity.</td>
+
+                        </tr>
+
+                        <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Incident time</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Incidents</li>
+
+                                </ul>
+
+                            </td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">Incidents reported within the specified time range. The incident
+                                time corresponds to the event or alarm timestamp the incident refers
+                                to. If the incident does not refer to any event or alarm, then the
+                                incident time corresponds to the creation time.</td>
+
+                        </tr>
+
+                        <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Initiator</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Activity trails</li>
+
+                                </ul>
+
+                            </td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">User responsible for the activity.</td>
+
+                        </tr>
+
+                        <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Investigated by</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Alarm report</li>
+
+                                </ul>
+
+                            </td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">Which user put the alarm into the <em class="ph i">under investigation</em>
+                                state.</td>
+
+                        </tr>
+
+                        <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Investigated on</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Alarm report</li>
+
+                                </ul>
+
+                            </td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">Specify a time range when the alarm was put into the <em class="ph i">under
+                                    investigation</em> state.</td>
+
+                        </tr>
+
+                       
+                        <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Machine</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Health history</li>
+
+                                </ul>
+
+                            </td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">Select a computer that was having health issues to investigate.
+                            </td>
+
+                        </tr>
+
+                        <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Modified by</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Audit trails</li>
+
+                                </ul>
+
+                            </td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">User responsible for the entity modification.</td>
+
+                        </tr>
+
+                        <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Modification time</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Audit trails</li>
+
+                                    <li class="li">Incidents</li>
+
+                                </ul>
+
+                            </td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">
+                                <dl class="dl">
+                                    
+                                        <dt class="dt dlterm"><em class="ph i">Audit trails</em> task</dt>
+
+                                        <dd class="dd">Entities modified within the specified time range.</dd>
+
+                                    
+                                    
+                                        <dt class="dt dlterm"><em class="ph i">Incidents</em> task</dt>
+
+                                        <dd class="dd">Incidents modified within the specified time range.</dd>
+
+                                    
+                                </dl>
+
+                            </td>
+
+                        </tr>
+
+                        <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Notes</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Incidents</li>
+
+                                </ul>
+
+                            </td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">Enter text to find incidents with a description starting or
+                                containing the specified text.</td>
+
+                        </tr>
+
+                         <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">State</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Alarm report</li>
+
+                                </ul>
+
+                            </td>
+
+                           <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">Current state of the alarm.<dl class="dl">
+                                    
+                                        <dt class="dt dlterm">Active</dt>
+
+                                        <dd class="dd">Alarm is not yet acknowledged. Selecting an active alarm
+                                            shows the alarm acknowledge buttons in the report
+                                            pane.</dd>
+
+                                    
+                                    
+                                        <dt class="dt dlterm">Acknowledged</dt>
+
+                                        <dd class="dd">Alarm was acknowledged by a user, or auto-acknowledged
+                                            by the system.</dd>
+
+                                    
+                                    
+                                        <dt class="dt dlterm">Under investigation</dt>
+
+                                        <dd class="dd">Alarm with an acknowledgement condition that is still
+                                            active was put under investigation.</dd>
+
+                                    
+                                    
+                                        <dt class="dt dlterm">Acknowledgement required</dt>
+
+                                        <dd class="dd">Alarm with an acknowledgement condition that was cleared
+                                            is ready to be acknowledged.</dd>
+
+                                    
+                                </dl>
+</td>
+
+                        </tr>
+
+                       <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Triggered on</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Alarm report</li>
+
+                                </ul>
+
+                            </td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">Alarm trigger time
+                                range.</td>
+
+                        </tr>
+
+                        <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Triggering event</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Alarm report</li>
+
+                                </ul>
+
+                            </td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">Events used to trigger the alarm.</td>
+
+                        </tr>
+
+                       <tr class="row">
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e63 "><span class="ph uicontrol">Users</span></td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e66 ">
+                                <ul class="ul">
+                                    <li class="li">Hits</li>
+
+                                    <li class="li">Reads</li>
+
+                                </ul>
+
+                            </td>
+
+                            <td class="entry row-nocellborder" style="vertical-align:top;" headers="d1756e69 ">Select the user name.</td>
+
+                        </tr>
+
+                    </tbody>
+</table>
+</div>
+
+        </div>
+
+    </div>
+
+<div class="related-links">
+<div class="familylinks">
+<div class="parentlink"><strong>Parent topic:</strong> <a class="link" href="../topics/c_mv_customize_views.html" title="Create custom data views that provide analytics specific to the needs of your project.">Customize Views</a></div>
+</div>
+</div></body>
+</html>

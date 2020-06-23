@@ -1,0 +1,274 @@
+
+/* Color Theme Swatches in Hex */
+$bluedark: #203A6B;
+$bluelight: #7FACFF;
+$bluemed: #4970B8;
+$browndark: #6B5E40;
+$brownlight: #B89549;
+
+/* Color Theme Swatches in RGBA */
+$bluedark-rgba: rgba(32,58,107, 1);
+$bluelight-rgba: rgba(127,172,255, 1);
+$bluemed-rgba: rgba(73,112,183, 1);
+$browndark-rgba: rgba(107,93,64, 1);
+$brownlight-rgba: rgba(183,148,73, 1);
+
+/* Color Theme Swatches in HSLA */
+$bluedark-hsla: hsla(218, 53, 27, 1);
+$bluelight-hsla: hsla(218, 100, 74, 1);
+$bluemed-hsla: hsla(218, 43, 50, 1);
+$browndark-hsla: hsla(41, 25, 33, 1);
+$brownlight-hsla: hsla(41, 43, 50, 1);
+
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, "Helvetica Neue", sans-serif; }
+
+.toolbar-title {
+    font-size:1.3em;
+    color:green;
+  }
+
+.example-spacer {
+  margin-right:10px;
+}
+
+.sidenavcontainer {
+  padding:7px;
+  border-radius:7px;
+  background-color: burlywood;
+  overflow:hidden;
+}
+
+.searchloginrow {
+  position:relative;
+  display: flex;
+  flex-flow: row;
+  align-items: stretch;
+  width:100%;
+  justify-content: flex-end;
+  font-size:0.95em;
+}
+
+/* MAT TREE */
+
+/* TREE END */
+
+.yellow {
+  background-color:rgb(240, 197, 116);
+  padding:3px;
+}
+
+.note {
+  //background-color:rgb(240, 197, 116);
+  padding:5px;
+  border-radius:7px;
+  width:100%;
+  display:flex;
+  align-items:center;
+}
+
+
+.haz {
+  display:flex;
+  flex-direction: row wrap;
+  width:90%;
+  padding:5px;
+  border:1px solid grey;
+  border-radius:5px;
+}
+
+.hazimg {
+  flex:1;
+}
+
+.messagepanel {
+  flex:6;
+}
+
+.typeofhazard {
+  font-weight:bold;
+  font-size:1.1em;
+  background-color:yellow;
+}
+
+ol.ol.safety {
+  list-style: none;
+}
+.note::before {
+  content:url("/assets/symbols/info_sm.svg");
+}
+
+.warning::before {
+  content:url("/assets/symbols/warning_sm.svg");
+}
+
+div.note {
+  vertical-align: middle;
+}
+
+//html styles
+
+
+
+table {
+  border-collapse: collapse;
+}
+
+table .desc {
+  display: block;
+  font-style: italic;
+}
+
+.cellrowborder {
+  border-bottom: solid 1px;
+  border-left: 0;
+  border-right: solid 1px;
+  border-top: 0;
+}
+
+.row-nocellborder {
+  border-bottom: solid 1px;
+  border-left: 0;
+  border-top: 0;
+}
+
+.cell-norowborder {
+  border-left: 0;
+  border-right: solid 1px;
+  border-top: 0;
+}
+
+.nocellnorowborder {
+  border: 0;
+}
+
+.firstcol {
+  font-weight: bold;
+}
+
+.table--pgwide-1 {
+  width: 100%;
+}
+
+.align-left {
+  text-align: left;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.align-justify {
+  text-align: justify;
+}
+
+.align-char {
+  text-align: char;
+}
+
+.valign-top {
+  vertical-align: top;
+}
+
+.valign-bottom {
+  vertical-align: bottom;
+}
+
+.valign-middle {
+  vertical-align: middle;
+}
+
+.colsep-0 {
+  border-right: 0;
+}
+
+.colsep-1 {
+  border-right: 1px solid;
+}
+
+.rowsep-0 {
+  border-bottom: 0;
+}
+
+.rowsep-1 {
+  border-bottom: 1px solid;
+}
+
+.stentry {
+  border-right: 1px solid;
+  border-bottom: 1px solid;
+}
+
+.stentry:last-child {
+  border-right: 0;
+}
+
+.strow:last-child .stentry {
+  border-bottom: 0;
+}
+
+/* Add space for top level topics */
+.nested0 {
+  margin-top: 1em;
+}
+
+/* div with class=p is used for paragraphs that contain blocks, to keep the XHTML valid */
+.p {
+  margin-top: 1em;
+}
+
+
+/* STYLE FOR FIGURES */
+.fig-webapi {
+  min-width:200px;
+  max-width:800px;
+  background-color:rgb(200,200,200);
+  padding:2px;
+  border-radius:5px;
+  border:1px solid rgb(124,124,124);
+  flex-flow: column;
+  margin-top:10px;
+  margin-bottom:10px;
+}
+
+.figcaption-webapi {
+  flex: 1;
+  font-size:1em;
+  color:black;
+  font-weight:bolder;
+  margin-bottom:4px;
+}
+
+.figcaption-webapi::before {
+  content:"Figure: "
+}
+
+.figimg-webapi {
+  flex:1;
+}
+
+.figlegend-webapi {
+  flex:1;
+  padding-left:20px;
+  font-size:0.9em;
+  color:black;
+}
+
+img {
+  max-width:800px;
+}
+
+.fig-webapi ol {
+  -moz-column-count: 2;
+    -moz-column-gap: 20px;
+    -webkit-column-count: 2;
+    -webkit-column-gap: 20px;
+    column-count: 2;
+    column-gap: 20px;
+}

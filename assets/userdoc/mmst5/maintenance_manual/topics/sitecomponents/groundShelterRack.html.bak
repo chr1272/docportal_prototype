@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="copyright" content="(C) Copyright 2019" />
+<meta name="DC.rights.owner" content="(C) Copyright 2019" />
+<meta name="DC.type" content="topic" />
+<meta name="DC.title" content="Ground Shelter Rack" />
+<meta name="abstract" content="The Ground Shelter Rack contains most control components for the Ground Shelter." />
+<meta name="description" content="The Ground Shelter Rack contains most control components for the Ground Shelter." />
+<meta name="DC.format" content="XHTML" />
+<meta name="DC.identifier" content="groundShelterRack" />
+<link rel="stylesheet" type="text/css" href="../../commonltr.css" />
+<title>Ground Shelter Rack</title>
+</head>
+<body class="pagebreak" id="groundShelterRack">
+
+    <h1 class="title topictitle1" id="ariaid-title1">Ground Shelter Rack</h1>
+
+    
+    <div class="body"><p class="shortdesc">The <em class="ph i">Ground Shelter Rack</em> contains most control components for the <em class="ph i">Ground
+            Shelter</em>.</p>
+
+        <p class="p">The <em class="ph i">Ground Shelter Rack</em> is shown in <a class="xref" href="#groundShelterRack__fig_df3_d1q_pdb">Figure 1</a></p>
+
+        <div class="fig fignone" id="groundShelterRack__fig_df3_d1q_pdb"><span class="figcap"><span class="fig--title-label">Figure 1. </span>Ground shelter Rack (Face &amp; Rear Layout)</span>
+            
+            <img class="image" id="groundShelterRack__image_ypv_21q_pdb" src="../../images/ICN-ACTA-AA-050100000-A-D2714-06009-A-01-1.jpg" />
+        </div>
+
+        <p class="p">The equipment installed in the <em class="ph i">Ground Shelter Rack</em> includes the following:</p>
+
+        <div class="p">
+            <ul class="ul" id="groundShelterRack__ul_dhj_51q_pdb">
+                <li class="li">Fiber splicing rack</li>
+
+                <li class="li">RPD (Emerson)</li>
+
+                <li class="li">LCD rack console (19”)</li>
+
+                <li class="li">KVM switch</li>
+
+                <li class="li">Cable management</li>
+
+                <li class="li">LAN switch (type 3)</li>
+
+                <li class="li">AC Power Supply</li>
+
+                <li class="li">Service Computer System</li>
+
+                <li class="li">Camera VMD Computer System</li>
+
+                <li class="li">Maritime shelter UPS system (SP-UPS 12 KV)</li>
+
+            </ul>
+
+        </div>
+
+    </div>
+
+</body>
+</html>

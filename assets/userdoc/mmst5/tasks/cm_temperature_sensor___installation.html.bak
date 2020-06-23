@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="copyright" content="(C) Copyright 2019" />
+<meta name="DC.rights.owner" content="(C) Copyright 2019" />
+<meta name="DC.type" content="task" />
+<meta name="DC.title" content="Temperature Sensor - Installation" />
+<meta name="abstract" content="Installation of the Temperature Sensor." />
+<meta name="description" content="Installation of the Temperature Sensor." />
+<meta name="DC.format" content="XHTML" />
+<meta name="DC.identifier" content="temperature_sensor___installation" />
+<link rel="stylesheet" type="text/css" href="../commonltr.css" />
+<title>Temperature Sensor - Installation</title>
+</head>
+<body id="temperature_sensor___installation">
+
+    <h1 class="title topictitle1" id="ariaid-title1">Temperature Sensor - Installation</h1>
+
+    
+    <div class="body taskbody"><p class="shortdesc">Installation of the <em class="ph i"><span class="ph">Temperature Sensor</span></em>.</p>
+
+        <ol class="ol steps"><li class="li step">
+                <span class="ph cmd">Push the new <em class="ph i"><span class="ph">Temperature Sensor</span></em> through the holder (see item 2 in <a class="xref" href="cm_temperature_sensor___removal.html#temperature_sensor___removal__Temperature_Sensor">Figure 2</a>).</span>
+            </li>
+<li class="li step">
+                <span class="ph cmd">Reconnect the sensor cable to the alarm board.</span>
+            </li>
+<li class="li step">
+                <span class="ph cmd">Connect the sensor cable to the clamp.</span>
+            </li>
+<li class="li step">
+                <span class="ph cmd">Close the cabinet door.</span>
+            </li>
+<li class="li step">
+                <span class="ph cmd">Switch on power to the <em class="ph i"><span class="ph">HVAC Controller
+                        Panel</span></em> at the circuit breaker.</span>
+            </li>
+</ol>
+
+    </div>
+
+</body>
+</html>

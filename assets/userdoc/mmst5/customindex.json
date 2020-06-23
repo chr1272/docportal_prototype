@@ -1,0 +1,2782 @@
+[
+        {
+            "name": "Document information",
+            "url": "topics::preface::fm_document_information.html",
+            "shortdesc": "",
+            "hasChildren": true,
+            "children": [
+                {
+                    "name": "Change record",
+                    "url": "topics::preface::fm_change_record.html",
+                    "shortdesc": "",
+                    "hasChildren": false
+                },
+                {
+                    "name": "Distribution list",
+                    "url": "topics::preface::fm_distribution_list.html",
+                    "shortdesc": "",
+                    "hasChildren": false
+                }
+            ]
+        },
+        {
+            "name": "Health and Safety",
+            "url": "",
+            "shortdesc": "",
+            "hasChildren": true,
+            "children": [
+                {
+                    "name": "General health and safety",
+                    "url": "topics::safety::safety.html",
+                    "shortdesc": "",
+                    "hasChildren": false
+                },
+                {
+                    "name": "Safety recommendations",
+                    "url": "topics::safety::safetyrecommendations.html",
+                    "shortdesc": "",
+                    "hasChildren": false
+                }
+            ]
+        },
+        {
+            "name": "Site components",
+            "url": "",
+            "shortdesc": "",
+            "hasChildren": true,
+            "children": [
+                {
+                    "name": "Site overview",
+                    "url": "topics::overview::general-overview.html",
+                    "shortdesc": "",
+                    "hasChildren": false
+                },
+                {
+                    "name": "Ground shelter",
+                    "url": "topics::sitecomponents::comp_groundshelter_overview.html",
+                    "shortdesc": "The Ground shelter is a sheltered basic\n                enclosure with one rack installed.",
+                    "hasChildren": true,
+                    "children": [
+                        {
+                            "name": "FM200 Cylinder",
+                            "url": "topics::sitecomponents::fm200Cylinder.html",
+                            "shortdesc": "The FM200 Cylinder is a component of the Fire Suppression System.",
+                            "hasChildren": false
+                        },
+                        {
+                            "name": "HVAC Control Panel",
+                            "url": "topics::sitecomponents::hvacControlPanel.html",
+                            "shortdesc": "The HVAC Control Panel controlls the Air Conditioning Unit.",
+                            "hasChildren": false
+                        },
+                        {
+                            "name": "Air Conditioning Unit",
+                            "url": "topics::sitecomponents::airConditioningUnit.html",
+                            "shortdesc": "The Air Conditioning Unit controls the\n                environment in the ground shelter.",
+                            "hasChildren": false
+                        },
+                        {
+                            "name": "CO2 Fire Extinguisher",
+                            "url": "topics::sitecomponents::co2FireExtinguisher.html",
+                            "shortdesc": "CO2 Fire Extinguishers are used for manual\n                fire fighting.",
+                            "hasChildren": false
+                        },
+                        {
+                            "name": "Main Distribution Board (MDB)",
+                            "url": "topics::sitecomponents::mainDistributionBoardMdb.html",
+                            "shortdesc": "The Main Distribution Board is part of the\n                electricity supply system.",
+                            "hasChildren": false
+                        },
+                        {
+                            "name": "UPS Main Distribution Board (MDB)",
+                            "url": "topics::sitecomponents::upsMainDistributionBoardMdb.html",
+                            "shortdesc": "The MDB is designed to protect the distribution boards, electrical\n                installations in the ground shelter and the connections for the UPS, ACs, lighting\n                etc.",
+                            "hasChildren": false
+                        },
+                        {
+                            "name": "Internal Light",
+                            "url": "topics::sitecomponents::internalLight.html",
+                            "shortdesc": "The internal light provides sufficient light within the ground\n                shelter.",
+                            "hasChildren": false
+                        },
+                        {
+                            "name": "Motion Detector",
+                            "url": "topics::sitecomponents::motionDetector.html",
+                            "shortdesc": "The Motion Detector registers the presence of\n                humans.",
+                            "hasChildren": false
+                        },
+                        {
+                            "name": "Ground Shelter Rack",
+                            "url": "topics::sitecomponents::groundShelterRack.html",
+                            "shortdesc": "The Ground Shelter Rack contains most control\n                components for the Ground Shelter.",
+                            "hasChildren": true,
+                            "children": [
+                                {
+                                    "name": "Optical Distribution Frame (ODF)",
+                                    "url": "topics::sitecomponents::opticalDistributionFrameRack.html",
+                                    "shortdesc": "The Optical Distribution Frame (ODF) is a\n                component used for connecting fiber cables. ",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "UPS (Rack)",
+                                    "url": "topics::sitecomponents::upsRack.html",
+                                    "shortdesc": "The UPS (Uninterruptible Power Supply)\n                protects electronic equipment from power outages and fluctuations. ",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "VMD Server",
+                                    "url": "topics::sitecomponents::vmdComputerRack.html",
+                                    "shortdesc": "The Video Motion Detection (VMD) helps with\n                the automatic analysis of IR camera video streams. ",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "PM PDU",
+                                    "url": "topics::sitecomponents::pmPduRack.html",
+                                    "shortdesc": "The Power Management (PM) Power Distribution Unit\n                    (PDU) monitors all connected devices.",
+                                    "hasChildren": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Upmast Cabinet",
+                    "url": "topics::sitecomponents::comp_upmast_cabinet___overview.html",
+                    "shortdesc": "",
+                    "hasChildren": true,
+                    "children": [
+                        {
+                            "name": "Scanter 5202",
+                            "url": "topics::sitecomponents::comp_scanter_5202.html",
+                            "shortdesc": "The TERMA radar sensor system consists of a transceiver and an\n                antenna unit.",
+                            "hasChildren": true,
+                            "children": [
+                                {
+                                    "name": "Waveguide Assembly",
+                                    "url": "topics::sitecomponents::comp_waveguide_assembly.html",
+                                    "shortdesc": "The Waveguide Assembly provides a special\n                form of transmission line for microwaves.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "RxTx",
+                                    "url": "topics::sitecomponents::comp_rxtx.html",
+                                    "shortdesc": "The RxTx is part of the Radio Section in the transceiver.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "SSPA",
+                                    "url": "topics::sitecomponents::comp_sspa.html",
+                                    "shortdesc": "The SSPA amplifies the radar signals.",
+                                    "hasChildren": false
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Radar Digitizing Unit",
+                            "url": "topics::sitecomponents::comp_digitizing_unit__du_.html",
+                            "shortdesc": "The Radar Digitizing Unit (RDU) creates the\n                radar tracks according to the received data.",
+                            "hasChildren": false
+                        },
+                        {
+                            "name": "AIS Base Station",
+                            "url": "topics::sitecomponents::st5_ais_base_station.html",
+                            "shortdesc": "The AIS Base Station receives and monitors\n                AIS traffic within the VHF coverage of that unit and sends those information to the\n                operator workstation.",
+                            "hasChildren": false
+                        },
+                        {
+                            "name": "Power Supply Unit (PSU)",
+                            "url": "topics::sitecomponents::st5_power_supply_unit.html",
+                            "shortdesc": "The Power Supply Unit (PSU) supplies power to\n                the RDF system.",
+                            "hasChildren": false
+                        }
+                    ]
+                },
+                {
+                    "name": "Sensors",
+                    "url": "topics::sitecomponents::comp_sensors_overview.html",
+                    "shortdesc": "The Sensors for Site type 5 (Cam, Radar, AIS,\n                    RDF) are composed of the TERMA\n                        radar, the NightOwl-M daylight/IR\n                        camera, the AIS and the RDF.",
+                    "hasChildren": true,
+                    "children": [
+                        {
+                            "name": "TERMA Radar",
+                            "url": "topics::sitecomponents::comp_terma_radar.html",
+                            "shortdesc": "The TERMA Radar uses electro magnetic waves\n                to discover objects.",
+                            "hasChildren": false
+                        },
+                        {
+                            "name": "AIS Components",
+                            "url": "maps::st5_ais_components.html",
+                            "shortdesc": "",
+                            "hasChildren": true,
+                            "children": [
+                                {
+                                    "name": "GPS Antenna",
+                                    "url": "topics::sitecomponents::st5_gps_antenna.html",
+                                    "shortdesc": "The GPS Antenna is a component of the\n                synchronization system.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "VHF Antenna",
+                                    "url": "topics::sitecomponents::st5_vhf_antenna.html",
+                                    "shortdesc": "The VHF Antenna converts electric power into\n                radio waves, and vice versa.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "AIS Assembly",
+                                    "url": "topics::sitecomponents::st5_ais_assembly.html",
+                                    "shortdesc": "The AIS Assembly is used to electronically\n                exchange ship data.",
+                                    "hasChildren": false
+                                }
+                            ]
+                        },
+                        {
+                            "name": "RDF Components",
+                            "url": "maps::st5_rdf_components.html",
+                            "shortdesc": "",
+                            "hasChildren": true,
+                            "children": [
+                                {
+                                    "name": "RDF Assembly",
+                                    "url": "topics::sitecomponents::st5_rdf_assembly.html",
+                                    "shortdesc": "",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "Antenna Switching Unit (ASU)",
+                                    "url": "topics::sitecomponents::st5_antenna_switching_unit.html",
+                                    "shortdesc": "The Antenna Switching Unit (ASU) switches\n                channels between antenna arrays.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "RDF Antenna",
+                                    "url": "topics::sitecomponents::st5_rdf_antenna.html",
+                                    "shortdesc": "The RDF Antenna is a direction finding\n                antenna.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "RDF Receiver",
+                                    "url": "topics::sitecomponents::st5_rdf_receiver.html",
+                                    "shortdesc": "The ASU and the GPS antenna are connected to a Receiver.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "GPS Antenna (TRIMBLE)",
+                                    "url": "topics::sitecomponents::st5_rdf_gps_antenna.html",
+                                    "shortdesc": "",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "Static Protection Unit",
+                                    "url": "topics::sitecomponents::st5_static_protection_unit.html",
+                                    "shortdesc": "The Static Protection Unit protects the\n                equipment from electrical currents.",
+                                    "hasChildren": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Supervision",
+                    "url": "",
+                    "shortdesc": "",
+                    "hasChildren": true,
+                    "children": [
+                        {
+                            "name": "LCD KVM",
+                            "url": "topics::sitecomponents::lcdKvmRack.html",
+                            "shortdesc": "The LCD KVM (Keyboard-Video-Mouse) is a\n                control unit to access multiple computers.",
+                            "hasChildren": false
+                        },
+                        {
+                            "name": "IP KVM Switch",
+                            "url": "topics::sitecomponents::ipKvmSwitchRack.html",
+                            "shortdesc": "The IP KVM Switch transmits data between\n                operators and target devices.",
+                            "hasChildren": false
+                        },
+                        {
+                            "name": "Monitoring PC",
+                            "url": "topics::sitecomponents::serviceComputerRack.html",
+                            "shortdesc": "The Monitoring PC is a device where\n                configuration, monitoring and maintenance are performed on the sensors, servers and\n                network switches.",
+                            "hasChildren": false
+                        }
+                    ]
+                },
+                {
+                    "name": "LAN system",
+                    "url": "",
+                    "shortdesc": "",
+                    "hasChildren": true,
+                    "children": {
+                        "name": "LAN Network Switch Type 3",
+                        "url": "topics::sitecomponents::juniperNetworkSwitchEx340024tRack.html",
+                        "shortdesc": "The LAN Network Switch Type 3 is a networking\n                device that links network segments or network devices.",
+                        "hasChildren": false
+                    }
+                },
+                {
+                    "name": "Software components",
+                    "url": "",
+                    "shortdesc": "",
+                    "hasChildren": false
+                }
+            ]
+        },
+        {
+            "name": "Tools",
+            "url": "tools::tools.html",
+            "shortdesc": "",
+            "hasChildren": false
+        },
+        {
+            "name": "Troubleshooting guide",
+            "url": "",
+            "shortdesc": "",
+            "hasChildren": true,
+            "children": [
+                {
+                    "name": "Overview",
+                    "url": "topics::troubleshooting::overview.html",
+                    "shortdesc": "Troubleshooting is the key to a well functioning system. This\n                chapter provides information about the troubleshooting process, troubleshooting\n                tools and describes important troubleshooting tasks.",
+                    "hasChildren": false
+                },
+                {
+                    "name": "Troubleshooting process",
+                    "url": "topics::troubleshooting::methods.html",
+                    "shortdesc": "Describes the troubleshooting process and lists procedures that can\n                be used in the troubleshooting process.",
+                    "hasChildren": false
+                },
+                {
+                    "name": "Troubleshooting tools",
+                    "url": "topics::troubleshooting::tools.html",
+                    "shortdesc": "Short description of tools that can be used for\n                troubleshooting.",
+                    "hasChildren": false
+                },
+                {
+                    "name": "Troubleshooting tasks",
+                    "url": "topics::troubleshooting::tasks.html",
+                    "shortdesc": "Troubleshooting tasks are mainly functional checks to determine\n                whether a component is operational or not, to support the fault finding process. ",
+                    "hasChildren": true,
+                    "children": [
+                        {
+                            "name": "Ground shelter",
+                            "url": "",
+                            "shortdesc": "",
+                            "hasChildren": true,
+                            "children": [
+                                {
+                                    "name": "Fire detection and suppression system - Troubleshooting",
+                                    "url": "tasks::fire_detection_and_suppression_system___troubleshooting.html",
+                                    "shortdesc": "This troubleshooting procedure applies to failure at the fire\n                detection and suppression system.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "Fire Alarm Bell - Troubleshooting",
+                                    "url": "tasks::fire_alarm_bell___troubleshooting.html",
+                                    "shortdesc": "",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "Motion Detector - Troubleshooting",
+                                    "url": "tasks::motion_detector___troubleshooting.html",
+                                    "shortdesc": "This troubleshooting procedure applies in case of Motion Detector failure. The Motion Detector picks\n                invisible infrared emissions coming from people and other heat sources without\n                emitting any type of radiation, so proper adjustement is required.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "tasks/air_conditioning_unit___troubleshooting.dita",
+                                    "url": "tasks::air_conditioning_unit___troubleshooting.html",
+                                    "shortdesc": "",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "HVAC Control Panel - Functional Check",
+                                    "url": "tasks::pm_hvac_control_panel___functional_check.html",
+                                    "shortdesc": "The functional check of the HVAC Control\n                    Panel checks, if the HVAC works correctly.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "HVAC Controller - Troubleshooting",
+                                    "url": "tasks::hvac_controller___troubleshooting.html",
+                                    "shortdesc": "",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "Temperature Sensor - Troubleshooting",
+                                    "url": "tasks::temperature_sensor___troubleshooting.html",
+                                    "shortdesc": "The standard (local) temperature sensor has 12\" leads and comes\n                installed from the factory. A secondary sensor is located internally on the main\n                controller board and serves as a reference and back-up sensor to the local\n                sensor.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "Smoke detector - Troubleshooting",
+                                    "url": "tasks::smoke_detector___troubleshooting.html",
+                                    "shortdesc": "",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "UPS Battery kit - Functional Check",
+                                    "url": "tasks::pm_ups_battery_kit___functional_check.html",
+                                    "shortdesc": "Functional check of a UPS Battery Kit.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "UPS System - Troubleshooting",
+                                    "url": "tasks::ups_system___troubleshooting.html",
+                                    "shortdesc": "This troubleshooting procedure applies to failure at the UPS System\n                in the Ground Shelter. The UPS System has both LED and audible signals that can help\n                in troubleshooting a malfunction.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "Door Closer - Troubleshooting",
+                                    "url": "tasks::door_closer___troubleshooting.html",
+                                    "shortdesc": "",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "SCADA - Troubleshooting",
+                                    "url": "tasks::scada___troubleshooting.html",
+                                    "shortdesc": "",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "MCCB (UPS MDB) - Exchange",
+                                    "url": "tasks::mccb__ups_mdb____exchange_.html",
+                                    "shortdesc": "This troubleshooting procedure applies to failure at the MCCB in\n                the UPS MDB. Prior to checking the breaker, verify the errors on the UPS.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "Circuit Breaker (20/10 Amp 3 pole, 10 Amp 1 pole) - Troubleshooting",
+                                    "url": "tasks::circuit_breaker__20_10_amp_3_pole__10_amp_1_pole____troubleshooting.html",
+                                    "shortdesc": "Prior to verifying the breaker, consult the power diagram and read\n                the label to identify what is the equipment it protects.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "Main Contactor (UPS) - Troubleshooting",
+                                    "url": "tasks::main_contactor__ups____troubleshooting.html",
+                                    "shortdesc": "Prior to verifying the Main Contactor, consult the power\n                diagram.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "Illumination",
+                                    "url": "tasks::illumination.html",
+                                    "shortdesc": "",
+                                    "hasChildren": false
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sensors",
+                            "url": "",
+                            "shortdesc": "",
+                            "hasChildren": true,
+                            "children": {
+                                "name": "tasks/maritime_radar_antenna_system___troubleshooting_.dita",
+                                "url": "tasks::maritime_radar_antenna_system___troubleshooting_.html",
+                                "shortdesc": "",
+                                "hasChildren": false
+                            }
+                        },
+                        {
+                            "name": "Outdoor systems",
+                            "url": "",
+                            "shortdesc": "",
+                            "hasChildren": true,
+                            "children": [
+                                {
+                                    "name": "Fixed Outdoor Camera Unit - Functional Check",
+                                    "url": "tasks::pm_fixed_outdoor_camera_unit___functional_check.html",
+                                    "shortdesc": "Functional check of the Fixed\n                        Outdoor Camera Unit.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "Fixed Outdoor Camera Unit - Troubleshooting",
+                                    "url": "tasks::fixed_outdoor_camera_unit___troubleshooting.html",
+                                    "shortdesc": "",
+                                    "hasChildren": false
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Upmast cabinet",
+                            "url": "",
+                            "shortdesc": "",
+                            "hasChildren": true,
+                            "children": {
+                                "name": "Air Filter, Transceiver - Removal, Check and Installation",
+                                "url": "tasks::cm_transceiver_filter_installationcheck.html",
+                                "shortdesc": "Exchange of the Air Filter,\n                        Transceiver.",
+                                "hasChildren": false
+                            }
+                        },
+                        {
+                            "name": "Supervision",
+                            "url": "",
+                            "shortdesc": "",
+                            "hasChildren": true,
+                            "children": [
+                                {
+                                    "name": "KVM Switch - Troubleshooting",
+                                    "url": "tasks::kvm_switch___troubleshooting.html",
+                                    "shortdesc": "This troubleshooting procedure applies in case of KVM Switch failure.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "LCD Rack Console - Troubleshooting",
+                                    "url": "tasks::lcd_rack_console___troubleshooting_.html",
+                                    "shortdesc": "This troubleshooting procedure applies to failure at the LCD Rack\n                Console. The steps in this procedure should be followed in order until the failure\n                is identified or fixed. If the failure is not identified, the equipment can be\n                exchanged. ",
+                                    "hasChildren": false
+                                }
+                            ]
+                        },
+                        {
+                            "name": "LAN system",
+                            "url": "",
+                            "shortdesc": "",
+                            "hasChildren": true,
+                            "children": {
+                                "name": "LAN Switch - Troubleshooting",
+                                "url": "tasks::lan_switch___troubleshooting.html",
+                                "shortdesc": "This troubleshooting procedure applies to failure at the LAN\n                Switch. The steps in this procedure should be performed after the equipment has been\n                checked remotly with the network management tool. ",
+                                "hasChildren": false
+                            }
+                        },
+                        {
+                            "name": "Software components",
+                            "url": "",
+                            "shortdesc": "",
+                            "hasChildren": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Maintenance tasks",
+            "url": "",
+            "shortdesc": "",
+            "hasChildren": true,
+            "children": [
+                {
+                    "name": "Ground Shelter",
+                    "url": "tasks::task_groundshelter_overview.html",
+                    "shortdesc": "",
+                    "hasChildren": true,
+                    "children": [
+                        {
+                            "name": "Tower structure",
+                            "url": "tasks::sections::towerstructure.html",
+                            "shortdesc": "",
+                            "hasChildren": true,
+                            "children": [
+                                {
+                                    "name": "Fixed Outdoor Camera Unit - Functional Check",
+                                    "url": "tasks::pm_fixed_outdoor_camera_unit___functional_check.html",
+                                    "shortdesc": "Functional check of the Fixed\n                        Outdoor Camera Unit.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "Fixed Outdoor Camera Unit - Exchange",
+                                    "url": "tasks::cm_fixed_outdoor_camera_unit___exchange.html",
+                                    "shortdesc": "The exchange of the Fixed Outdoor\n                        Camera Unit consists of a procedure for removal and a procedure\n                for installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Fixed Outdoor Camera Unit - Removal",
+                                            "url": "tasks::cm_fixed_outdoor_camera_unit___removal.html",
+                                            "shortdesc": "Removal of the Fixed Outdoor\n                        Camera Unit.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Fixed Outdoor Camera Unit - Installation",
+                                            "url": "tasks::cm_fixed_outdoor_camera_unit___installation.html",
+                                            "shortdesc": "Installation of the Fixed Outdoor\n                        Camera Unit.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Construction",
+                            "url": "tasks::sections::construction.html",
+                            "shortdesc": "",
+                            "hasChildren": true,
+                            "children": {
+                                "name": "Door Closer - Exchange",
+                                "url": "tasks::cm_door_closer___exchange.html",
+                                "shortdesc": "The exchange of the Door\n                        Closer consists of a procedure for removal and a procedure for\n                installation.",
+                                "hasChildren": true,
+                                "children": [
+                                    {
+                                        "name": "Door Closer - Removal",
+                                        "url": "tasks::cm_door_closer___removal.html",
+                                        "shortdesc": "Removal of the Door\n                    Closer.",
+                                        "hasChildren": false
+                                    },
+                                    {
+                                        "name": "Door Closer - Installation",
+                                        "url": "tasks::cm_door_closer___installation.html",
+                                        "shortdesc": "Installation of the Door\n                        Closer.",
+                                        "hasChildren": false
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "name": "HVAC",
+                            "url": "tasks::sections::hvac.html",
+                            "shortdesc": "",
+                            "hasChildren": true,
+                            "children": [
+                                {
+                                    "name": "HVAC Control Panel - Functional Check",
+                                    "url": "tasks::pm_hvac_control_panel___functional_check_2.html",
+                                    "shortdesc": "The functional check of the HVAC Control\n                    Panel checks, if the HVAC works correctly.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "Air Conditioning Unit - Coil - Inspection",
+                                    "url": "tasks::pm_air_conditioning_unit___coil___inspection.html",
+                                    "shortdesc": "Inspection of the Air\n                        Conditioning Unit - Coil.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "Air Conditioning Unit - Filter - Cleaning",
+                                    "url": "tasks::pm_air_conditioning_unit___filter___cleaning.html",
+                                    "shortdesc": "Cleaning of the Air Conditioning\n                        Unit - Filter.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "Air Conditioning Unit - Filter - Exchange",
+                                    "url": "tasks::pm_air_conditioning_unit___filter___exchange.html",
+                                    "shortdesc": "The exchange of the Air\n                        Conditioning Unit - Filter consists of a procedure for removal\n                and a procedure for installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Air Conditioning Unit - Filter - Removal",
+                                            "url": "tasks::pm_air_conditioning_unit___filter___removal.html",
+                                            "shortdesc": "Removal of the Air Conditioning\n                        Unit - Filter.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Air Conditioning Unit - Filter - Installation",
+                                            "url": "tasks::pm_air_conditioning_unit___filter___installation.html",
+                                            "shortdesc": "Installation of the Air\n                        Conditioning Unit - Filter.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "HVAC Controller - Exchange",
+                                    "url": "tasks::cm_hvac_controler___exchange.html",
+                                    "shortdesc": "The exchange of the HVAC\n                        Controller consists of a procedure for removal and a procedure\n                for installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "HVAC Controller - Removal",
+                                            "url": "tasks::cm_hvac_controler___removal.html",
+                                            "shortdesc": "Removal of the HVAC\n                        Controller.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "HVAC Controller - Installation",
+                                            "url": "tasks::cm_hvac_controler___installation.html",
+                                            "shortdesc": "Installation of the HVAC\n                        Controller.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Alarm Board - Exchange",
+                                    "url": "tasks::cm_alarm_board___exchange.html",
+                                    "shortdesc": "The exchange of the Alarm\n                        Board consists of a procedure for removal and a procedure for\n                installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Alarm Board - Removal",
+                                            "url": "tasks::cm_alarm_board___removal.html",
+                                            "shortdesc": "Removal of the Alarm\n                    Board.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Alarm Board - Installation",
+                                            "url": "tasks::cm_alarm_board___installation.html",
+                                            "shortdesc": "Installation of the Alarm\n                        Board.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Relay 24VAC, 1A - Exchange",
+                                    "url": "tasks::cm_relay_24vac__1a___exchange.html",
+                                    "shortdesc": "The exchange of the Relay 24VAC,\n                        1A consists of a procedure for removal and a procedure for\n                installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Relay 24VAC, 1A - Removal",
+                                            "url": "tasks::cm_relay_24vac__1a___removal.html",
+                                            "shortdesc": "Removal of the Relay 24VAC,\n                        1A.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Relay 24VAC, 1A - Installation",
+                                            "url": "tasks::cm_relay_24vac__1a___installation.html",
+                                            "shortdesc": "Installation of the Relay 24VAC,\n                        1A.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Temperature Sensor - Exchange",
+                                    "url": "tasks::cm_temperature_sensor___exchange.html",
+                                    "shortdesc": "The exchange of the Temperature\n                        Sensor consists of a procedure for removal and a procedure for\n                installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Temperature Sensor - Removal",
+                                            "url": "tasks::cm_temperature_sensor___removal.html",
+                                            "shortdesc": "Removal of the Temperature\n                        Sensor.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Temperature Sensor - Installation",
+                                            "url": "tasks::cm_temperature_sensor___installation.html",
+                                            "shortdesc": "Installation of the Temperature\n                        Sensor.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Display Board (Red-Alarm LEDs) - Exchange",
+                                    "url": "tasks::cm_display_board__red_alarm_leds____exchange.html",
+                                    "shortdesc": "The exchange of the Display Board\n                        (Red-Alarm LEDs) consists of a procedure for removal and a\n                procedure for installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Display Board (Red-Alarm LEDs) - Removal",
+                                            "url": "tasks::cm_display_board__red_alarm_leds____removal.html",
+                                            "shortdesc": "Removal of the Display Board\n                        (Red-Alarm LEDs).",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Display Board (Red-Alarm LEDs) - Installation",
+                                            "url": "tasks::cm_display_board__red_alarm_leds____installation.html",
+                                            "shortdesc": "Installation of the Display Board\n                        (Red-Alarm LEDs).",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Humidity Sensor - Exchange",
+                                    "url": "tasks::cm_humidity_sensor___exchange.html",
+                                    "shortdesc": "The exchange of the Humidity\n                        Sensor consists of a procedure for removal and a procedure for\n                installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Humidity Sensor - Removal",
+                                            "url": "tasks::cm_humidity_sensor___removal.html",
+                                            "shortdesc": "Removal of the Humidity\n                        Sensor.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Humidity Sensor - Installation",
+                                            "url": "tasks::cm_humidity_sensor___installation.html",
+                                            "shortdesc": "Installation of the Humidity\n                        Sensor.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Fire detection and suppression system",
+                            "url": "tasks::sections::firedetect.html",
+                            "shortdesc": "",
+                            "hasChildren": true,
+                            "children": [
+                                {
+                                    "name": "Fire Detection and Suppression System - Functional Check",
+                                    "url": "tasks::pm_fire_detection_and_suppression_system___functional_check.html",
+                                    "shortdesc": "Functional check of the Fire\n                        Detection and Suppression System.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "Fire Alarm Bell - Exchange",
+                                    "url": "tasks::cm_fire_alarm_bell___exchange.html",
+                                    "shortdesc": "The exchange of the Fire Alarm\n                        Bell consists of a procedure for removal and a procedure for\n                installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Fire Alarm Bell - Removal",
+                                            "url": "tasks::cm_fire_alarm_bell___removal.html",
+                                            "shortdesc": "Removal of the Fire Alarm\n                        Bell.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Fire Alarm Bell - Installation",
+                                            "url": "tasks::cm_fire_alarm_bell___installation.html",
+                                            "shortdesc": "Installation of the Fire Alarm\n                        Bell.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Internal Fire Alarm Sounder - Exchange",
+                                    "url": "tasks::cm_fire_alarm_sounder_with_flasher___exchange.html",
+                                    "shortdesc": "The exchange of the Fire Alarm\n                        Sounder consists of a procedure for removal and a procedure for\n                installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Internal Fire Alarm Sounder - Removal",
+                                            "url": "tasks::cm_fire_alarm_sounder_with_flasher___removal.html",
+                                            "shortdesc": "Removal of the Fire Alarm\n                        Sounder.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Internal Fire Alarm Sounder - Installation",
+                                            "url": "tasks::cm_fire_alarm_sounder_with_flasher___installation.html",
+                                            "shortdesc": "Installation of the Fire Alarm\n                        Sounder.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Smoke detector",
+                                    "url": "tasks::sections::smokedetect.html",
+                                    "shortdesc": "",
+                                    "hasChildren": true,
+                                    "children": {
+                                        "name": "Smoke/Heat Detector - Exchange",
+                                        "url": "tasks::cm_smoke_heat_detector__base___exchange.html",
+                                        "shortdesc": "The exchange of the Smoke/Heat\n                        Detector consists of a procedure for removal and a procedure for\n                installation.",
+                                        "hasChildren": true,
+                                        "children": [
+                                            {
+                                                "name": "Smoke/Heat Detector - Removal",
+                                                "url": "tasks::cm_smoke_heat_detector__base___removal.html",
+                                                "shortdesc": "Removal of the Smoke/Heat\n                        Detector.",
+                                                "hasChildren": false
+                                            },
+                                            {
+                                                "name": "Smoke/Heat Detector - Installation",
+                                                "url": "tasks::cm_smoke_heat_detector__base___installation.html",
+                                                "shortdesc": "Installation of the Smoke/Heat\n                        Detector.",
+                                                "hasChildren": false
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "CO2 Fire Extinguisher 6kg",
+                                    "url": "tasks::sections::fireext.html",
+                                    "shortdesc": "",
+                                    "hasChildren": true,
+                                    "children": {
+                                        "name": "CO2 Fire Extinguisher 6 KG - Exchange",
+                                        "url": "tasks::cm_co2_fire_extinguisher_6_kg___exchange.html",
+                                        "shortdesc": "The exchange of the CO2 Fire\n                        Extinguisher (6 KG) consists of a procedure for removal and a\n                procedure for installation.",
+                                        "hasChildren": true,
+                                        "children": [
+                                            {
+                                                "name": "CO2 Fire Extinguisher 6 KG - Removal",
+                                                "url": "tasks::cm_co2_fire_extinguisher_6_kg___removal.html",
+                                                "shortdesc": "Removal of the CO2 Fire\n                        Extinguisher (6 KG).",
+                                                "hasChildren": false
+                                            },
+                                            {
+                                                "name": "CO2 Fire Extinguisher 6 KG - Installation",
+                                                "url": "tasks::cm_co2_fire_extinguisher_6_kg___installation.html",
+                                                "shortdesc": "Installation of the CO2 Fire\n            Extinguisher (6 KG).",
+                                                "hasChildren": false
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "HFC 227 Cylinder Fire Extinguisher",
+                                    "url": "tasks::sections::hfc227.html",
+                                    "shortdesc": "",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "HFC-227 Cylinder Extinguisher - Exchange",
+                                            "url": "tasks::cm_hfc_227_cylinder_extinguisher___exchange.html",
+                                            "shortdesc": "The exchange of the HFC-227\n                        Cylinder Extinguisher consists of a procedure for removal and a\n                procedure for installation.",
+                                            "hasChildren": true,
+                                            "children": [
+                                                {
+                                                    "name": "HFC-227 Cylinder Extinguisher - Removal",
+                                                    "url": "tasks::cm_hfc_227_cylinder_extinguisher___removal.html",
+                                                    "shortdesc": "Removal of the HFC-227 Cylinder\n                        Extinguisher.",
+                                                    "hasChildren": false
+                                                },
+                                                {
+                                                    "name": "HFC-227 Cylinder Extinguisher - Installation",
+                                                    "url": "tasks::cm_hfc_227_cylinder_extinguisher___installation.html",
+                                                    "shortdesc": "Installation of the HFC-227\n                        Cylinder Extinguisher.",
+                                                    "hasChildren": false
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "HFC-227 Cylinder Extinguisher - Visual Inspection",
+                                            "url": "tasks::pm_hfc_227_cylinder_extinguisher___visual_inspection.html",
+                                            "shortdesc": "Visual inspection of the HFC-227\n                        Cylinder Extinguisher.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Fire Alarm Beacon (Amber) - Exchange",
+                                    "url": "tasks::cm_fire_alarm_beacon_amber___exchange.html",
+                                    "shortdesc": "The exchange of the Fire Alarm\n                        Beacon (amber) consists of a procedure for removal and a\n                procedure for installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Fire Alarm Beacon (Amber) - Removal",
+                                            "url": "tasks::cm_fire_alarm_beacon_amber___removal.html",
+                                            "shortdesc": "Removal of the Fire Alarm Beacon\n                        (amber).",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Fire Alarm Beacon (Amber) - Installation",
+                                            "url": "tasks::cm_fire_alarm_beacon_amber___installation.html",
+                                            "shortdesc": "Installation of the Fire Alarm\n                        Beacon (amber).",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "LED Beacon (Red) - Exchange",
+                                    "url": "tasks::cm_led_beacon__red____exchange.html",
+                                    "shortdesc": "The exchange of the LED Beacon\n                        (red) consists of a procedure for removal and a procedure for\n                installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "LED Beacon (Red) - Removal",
+                                            "url": "tasks::cm_led_beacon__red____removal.html",
+                                            "shortdesc": "Removal of the LED Beacon\n                        (red).",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "LED Beacon (Red) - Installation",
+                                            "url": "tasks::cm_led_beacon__red____installation.html",
+                                            "shortdesc": "Installation of the LED Beacon\n                        (red).",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Fire alarm control panel",
+                                    "url": "tasks::sections::firealarmcontrolpanel.html",
+                                    "shortdesc": "",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Fire Alarm Control Panel - Exchange",
+                                            "url": "tasks::cm_fire_alarm_control_panel___exchange.html",
+                                            "shortdesc": "The exchange of the Fire Alarm\n                        Control Panel consists of a procedure for removal and a\n                procedure for installation.",
+                                            "hasChildren": true,
+                                            "children": [
+                                                {
+                                                    "name": "Fire Alarm Control Panel - Removal",
+                                                    "url": "tasks::cm_fire_alarm_control_panel___removal.html",
+                                                    "shortdesc": "Removal of the Fire Alarm Control\n                        Panel.",
+                                                    "hasChildren": false
+                                                },
+                                                {
+                                                    "name": "Fire Alarm Control Panel - Installation",
+                                                    "url": "tasks::cm_fire_alarm_control_panel___installation.html",
+                                                    "shortdesc": "Installation of the Fire Alarm\n                        Control Panel.",
+                                                    "hasChildren": false
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Battery (Fire Suppression System) - Exchange",
+                                            "url": "tasks::cm_battery__fire_suppression_system____exchange.html",
+                                            "shortdesc": "The exchange of the Battery\n                        12V/7Ah (fire suppression system) consists of a procedure for\n                removal and a procedure for installation.",
+                                            "hasChildren": true,
+                                            "children": [
+                                                {
+                                                    "name": "Battery (Fire Suppression System) - Removal",
+                                                    "url": "tasks::cm_battery__fire_suppression_system____removal.html",
+                                                    "shortdesc": "Removal of the Battery 12V/7Ah\n                        (fire suppression system).",
+                                                    "hasChildren": false
+                                                },
+                                                {
+                                                    "name": "Battery (Fire Suppression System) - Installation",
+                                                    "url": "tasks::cm_battery__fire_suppression_system____installation.html",
+                                                    "shortdesc": "Installation of the Battery\n                        12V/7Ah (fire suppression system).",
+                                                    "hasChildren": false
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Illumination",
+                            "url": "tasks::sections::illum.html",
+                            "shortdesc": "",
+                            "hasChildren": true,
+                            "children": [
+                                {
+                                    "name": "Internal light",
+                                    "url": "",
+                                    "shortdesc": "",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Electronic Ballast - Exchange",
+                                            "url": "tasks::cm_electronic_ballast___exchange.html",
+                                            "shortdesc": "The exchange of the Electronic\n                        ballast consists of a procedure for removal and a procedure for\n                installation.",
+                                            "hasChildren": true,
+                                            "children": [
+                                                {
+                                                    "name": "Electronic Ballast - Removal",
+                                                    "url": "tasks::cm_electronic_ballast___removal.html",
+                                                    "shortdesc": "Removal of the Electronic\n                        ballast.",
+                                                    "hasChildren": false
+                                                },
+                                                {
+                                                    "name": "Electronic Ballast - Installation",
+                                                    "url": "tasks::cm_electronic_ballast___installation.html",
+                                                    "shortdesc": "Installation of the Electronic\n                        ballast.",
+                                                    "hasChildren": false
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Fluorescent tube - Exchange",
+                                            "url": "tasks::cm_fluorescent_tube___exchange.html",
+                                            "shortdesc": "The exchange of the Fluorescent\n                        tube consists of a procedure for removal and a procedure for\n                installation.",
+                                            "hasChildren": true,
+                                            "children": [
+                                                {
+                                                    "name": "Fluorescent Tube - Removal",
+                                                    "url": "tasks::cm_fluorescent_tube___removal.html",
+                                                    "shortdesc": "Removal of the Fluorescent\n                        tube.",
+                                                    "hasChildren": false
+                                                },
+                                                {
+                                                    "name": "Fluorescent Tube - Installation",
+                                                    "url": "tasks::cm_fluorescent_tube___installation.html",
+                                                    "shortdesc": "Installation of the Fluorescent\n                        tube.",
+                                                    "hasChildren": false
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Battery (internal light) - Exchange",
+                                            "url": "tasks::cm_battery___exchange.html",
+                                            "shortdesc": "The exchange of the Battery consists of a procedure for removal and a procedure for\n                installation.",
+                                            "hasChildren": true,
+                                            "children": [
+                                                {
+                                                    "name": "Battery - Removal",
+                                                    "url": "tasks::cm_battery___removal.html",
+                                                    "shortdesc": "Removal of the Battery.",
+                                                    "hasChildren": false
+                                                },
+                                                {
+                                                    "name": "Battery - Installation",
+                                                    "url": "tasks::cm_battery___installation.html",
+                                                    "shortdesc": "Installation of the Battery.",
+                                                    "hasChildren": false
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "External light",
+                                    "url": "tasks::sections::extlight.html",
+                                    "shortdesc": "",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Mercury bulb - Exchange",
+                                            "url": "tasks::cm_mercury_bulb___exchange.html",
+                                            "shortdesc": "The exchange of the Mercury\n                        bulb consists of a procedure for removal and a procedure for\n                installation.",
+                                            "hasChildren": true,
+                                            "children": [
+                                                {
+                                                    "name": "Mercury bulb - Removal",
+                                                    "url": "tasks::cm_mercury_bulb___removal.html",
+                                                    "shortdesc": "Removal of the Mercury\n                        bulb.",
+                                                    "hasChildren": false
+                                                },
+                                                {
+                                                    "name": "Mercury bulb - Installation",
+                                                    "url": "tasks::cm_mercury_bulb___installation.html",
+                                                    "shortdesc": "Installation of the Mercury\n                        bulb.",
+                                                    "hasChildren": false
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Transformer/Capacitor - Exchange",
+                                            "url": "tasks::cm_transformer_capacitor___exchange.html",
+                                            "shortdesc": "The exchange of the Transformer/Capacitor\n                consists of a procedure for removal and a procedure for installation.",
+                                            "hasChildren": true,
+                                            "children": [
+                                                {
+                                                    "name": "Transformer/Capacitor - Removal",
+                                                    "url": "tasks::cm_transformer_capacitor___removal.html",
+                                                    "shortdesc": "Removal of the Transformer/Capacitor.",
+                                                    "hasChildren": false
+                                                },
+                                                {
+                                                    "name": "Transformer/Capacitor - Installation",
+                                                    "url": "tasks::cm_transformer_capacitor___installation.html",
+                                                    "shortdesc": "Installation of the Transformer/Capacitor.",
+                                                    "hasChildren": false
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power distribution",
+                            "url": "tasks::sections::powerdist.html",
+                            "shortdesc": "",
+                            "hasChildren": true,
+                            "children": [
+                                {
+                                    "name": "Main Distribution Board",
+                                    "url": "",
+                                    "shortdesc": "",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "MCCB - Exchange",
+                                            "url": "tasks::cm_mccb___exchange.html",
+                                            "shortdesc": "The exchange of the MCCB consists of a procedure for removal and a procedure for\n                installation.",
+                                            "hasChildren": true,
+                                            "children": [
+                                                {
+                                                    "name": "MCCB - Removal",
+                                                    "url": "tasks::cm_mccb___removal.html",
+                                                    "shortdesc": "Removal of the MCCB.",
+                                                    "hasChildren": false
+                                                },
+                                                {
+                                                    "name": "MCCB - Installation",
+                                                    "url": "tasks::cm_mccb___installation.html",
+                                                    "shortdesc": "Installation of the MCCB.",
+                                                    "hasChildren": false
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Main Contactor - Exchange",
+                                            "url": "tasks::cm_main_contactor___exchange.html",
+                                            "shortdesc": "The exchange of the Main\n                        Contactor consists of a procedure for removal and a procedure\n                for installation.",
+                                            "hasChildren": true,
+                                            "children": [
+                                                {
+                                                    "name": "Main Contactor - Removal",
+                                                    "url": "tasks::cm_main_contactor___removal.html",
+                                                    "shortdesc": "Removal of the Main\n                        Contactor.",
+                                                    "hasChildren": false
+                                                },
+                                                {
+                                                    "name": "Main Contactor - Installation",
+                                                    "url": "tasks::cm_main_contactor___installation.html",
+                                                    "shortdesc": "Installation of the Main\n                        Contactor.",
+                                                    "hasChildren": false
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Contactor for External Light - Exchange",
+                                            "url": "tasks::cm_contactor_for_external_light___exchange.html",
+                                            "shortdesc": "The exchange of the Contactor for\n                        External Light consists of a procedure for removal and a\n                procedure for installation.",
+                                            "hasChildren": true,
+                                            "children": [
+                                                {
+                                                    "name": "Contactor for External Light - Removal",
+                                                    "url": "tasks::cm_contactor_for_external_light___removal.html",
+                                                    "shortdesc": "Removal of the Contactor for\n                        External Light.",
+                                                    "hasChildren": false
+                                                },
+                                                {
+                                                    "name": "Contactor for External Light - Installation",
+                                                    "url": "tasks::cm_contactor_for_external_light___installation.html",
+                                                    "shortdesc": "Installation of the Contactor for\n                        External Light.",
+                                                    "hasChildren": false
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "MDB Multifunction Relay - Exchange",
+                                            "url": "tasks::cm_mdb_multifunction_relay___exchange.html",
+                                            "shortdesc": "The exchange of the MDB\n                        Multifunction Relay consists of a procedure for removal and a\n                procedure for installation.",
+                                            "hasChildren": true,
+                                            "children": [
+                                                {
+                                                    "name": "MDB Multifunction Relay - Removal",
+                                                    "url": "tasks::cm_mdb_multifunction_relay___removal.html",
+                                                    "shortdesc": "Removal of the MDB Multifunction\n                        Relay.",
+                                                    "hasChildren": false
+                                                },
+                                                {
+                                                    "name": "MDB Multifunction Relay - Installation",
+                                                    "url": "tasks::cm_mdb_multifunction_relay___installation.html",
+                                                    "shortdesc": "Installation of the MDB\n                        Multifunction Relay.",
+                                                    "hasChildren": false
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "RCCB Breaker - Exchange",
+                                            "url": "tasks::cm_rccb_Breaker_Exchange.html",
+                                            "shortdesc": "The exchange of the RCCB\n                        breaker consists of a procedure for removal and a procedure for\n                installation.",
+                                            "hasChildren": true,
+                                            "children": [
+                                                {
+                                                    "name": "RCCB Breaker - Removal",
+                                                    "url": "tasks::cm_rccb_Breaker_Removal.html",
+                                                    "shortdesc": "Removal of the RCCB\n                        breaker.",
+                                                    "hasChildren": false
+                                                },
+                                                {
+                                                    "name": "RCCB Breaker - Installation",
+                                                    "url": "tasks::cm_rccb_Breaker_Installation.html",
+                                                    "shortdesc": "Installation of the RCCB\n                        breaker.",
+                                                    "hasChildren": false
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Circuit Breaker - Exchange",
+                                            "url": "tasks::cm_circuit_breaker___exchange.html",
+                                            "shortdesc": "The exchange of the Circuit\n                        Breaker consists of a procedure for removal and a procedure for\n                installation.",
+                                            "hasChildren": true,
+                                            "children": [
+                                                {
+                                                    "name": "Circuit Breaker - Removal",
+                                                    "url": "tasks::cm_circuit_breaker___removal.html",
+                                                    "shortdesc": "Removal of the Circuit\n                        Breaker.",
+                                                    "hasChildren": false
+                                                },
+                                                {
+                                                    "name": "Circuit Breaker - Installation",
+                                                    "url": "tasks::cm_circuit_breaker___installation.html",
+                                                    "shortdesc": "Installation of the Circuit\n                        Breaker.",
+                                                    "hasChildren": false
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Pilot Lights - Exchange",
+                                            "url": "tasks::cm_pilot_lights___exchange.html",
+                                            "shortdesc": "The exchange of the Pilot\n                        lights consists of a procedure for removal and a procedure for\n                installation.",
+                                            "hasChildren": true,
+                                            "children": [
+                                                {
+                                                    "name": "Pilot Lights - Removal",
+                                                    "url": "tasks::cm_pilot_lights___removal.html",
+                                                    "shortdesc": "Removal of the Pilot\n                        lights.",
+                                                    "hasChildren": false
+                                                },
+                                                {
+                                                    "name": "Pilot Lights - Installation",
+                                                    "url": "tasks::cm_pilot_lights___installation.html",
+                                                    "shortdesc": "Installation of the Pilot\n                        lights.",
+                                                    "hasChildren": false
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "UPS Main distribution board",
+                                    "url": "tasks::sections::upsmaindist.html",
+                                    "shortdesc": "",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "MCCB (UPS MDB) - Exchange",
+                                            "url": "tasks::cm_mccb__UPS_MDB____exchange.html",
+                                            "shortdesc": "The exchange of the MCCB (UPS\n                        MDB) consists of a procedure for removal and a procedure for\n                installation.",
+                                            "hasChildren": true,
+                                            "children": [
+                                                {
+                                                    "name": "MCCB (UPS MDB) - Removal",
+                                                    "url": "tasks::cm_mccb__UPS_MDB____removal.html",
+                                                    "shortdesc": "Removal of the MCCB (UPS\n                        MDB).",
+                                                    "hasChildren": false
+                                                },
+                                                {
+                                                    "name": "MCCB (UPS MDB) - Installation",
+                                                    "url": "tasks::cm_mccb__UPS_MDB____installation.html",
+                                                    "shortdesc": "Installation of the MCCB (UPS\n                        MDB).",
+                                                    "hasChildren": false
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Circuit Breaker (20/10 Amp 3 pole, 10 Amp 1 pole) - Exchange",
+                                            "url": "tasks::cm_circuit_breaker__20_10_amp_3_pole__10_amp_1_pole____exchange.html",
+                                            "shortdesc": "The exchange of the Circuit\n                        breaker (20/10 Amp 3 pole, 10 Amp 1 pole) consists of a\n                procedure for removal and a procedure for installation.",
+                                            "hasChildren": true,
+                                            "children": [
+                                                {
+                                                    "name": "Circuit Breaker (20/10 Amp 3 pole, 10 Amp 1 pole) - Removal",
+                                                    "url": "tasks::cm_circuit_breaker__20_10_amp_3_pole__10_amp_1_pole____removal.html",
+                                                    "shortdesc": "Removal of the Circuit breaker\n                        (20/10 Amp 3 pole, 10 Amp 1 pole).",
+                                                    "hasChildren": false
+                                                },
+                                                {
+                                                    "name": "Circuit Breaker (20/10 Amp 3 pole, 10 Amp 1 pole) - Installation",
+                                                    "url": "tasks::cm_circuit_breaker__20_10_amp_3_pole__10_amp_1_pole____installation.html",
+                                                    "shortdesc": "Installation of the Circuit\n                        breaker (20/10 Amp 3 pole, 10 Amp 1 pole).",
+                                                    "hasChildren": false
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Main Contactor (UPS) - Exchange",
+                                            "url": "tasks::cm_main_contactor__ups____exchange.html",
+                                            "shortdesc": "The exchange of the Main\n                        Contactor (UPS) consists of a procedure for removal and a\n                procedure for installation.",
+                                            "hasChildren": true,
+                                            "children": [
+                                                {
+                                                    "name": "Main Contactor (UPS) - Removal",
+                                                    "url": "tasks::cm_main_contactor__ups____removal.html",
+                                                    "shortdesc": "Removal of the Main Contactor\n                        (UPS).",
+                                                    "hasChildren": false
+                                                },
+                                                {
+                                                    "name": "Main Contactor (UPS) - Installation",
+                                                    "url": "tasks::cm_main_contactor__ups____installation.html",
+                                                    "shortdesc": "Installation of the Main\n                        Contactor (UPS).",
+                                                    "hasChildren": false
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "SCADA",
+                            "url": "tasks::sections::scada.html",
+                            "shortdesc": "",
+                            "hasChildren": true,
+                            "children": [
+                                {
+                                    "name": "Analog Input Terminal - Exchange",
+                                    "url": "tasks::cm_analog_input_terminal___exchange.html",
+                                    "shortdesc": "The exchange of the EL3064\n                        4-Channel Analog Input Terminal consists of a procedure for\n                removal and a procedure for installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Analog Input Terminal - Removal",
+                                            "url": "tasks::cm_analog_input_terminal___removal.html",
+                                            "shortdesc": "Removal of the EL3064 4-Channel\n                        Analog Input Terminal.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Analog Input Terminal - Installation",
+                                            "url": "tasks::cm_analog_input_terminal___installation.html",
+                                            "shortdesc": "Installation of the EL3064\n                        4-Channel Analog Input Terminal.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Controller - Exchange",
+                                    "url": "tasks::cm_controller___exchange.html",
+                                    "shortdesc": "The exchange of the CX9020\n                        controller consists of a procedure for removal and a procedure\n                for installation. These instructions are for the SCADA System\n                represented in the Ground Shelter. Follow similar instructions\n                for the SCADA System located in the Upmast\n                    Cabinet.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Controller - Removal",
+                                            "url": "tasks::cm_controller___removal.html",
+                                            "shortdesc": "Removal of the Controller.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Controller - Installation",
+                                            "url": "tasks::cm_controller___installation.html",
+                                            "shortdesc": "Installation of the CX9020\n                        controller. The CX9020\n                        controller must be installed onto the mounting rail located in\n                the slots 20 and 21 in the Upmast Cabinet. The mounting rail\n                is located at the very top right side of the Upmast\n                Cabinet.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Digital Input Terminal - Exchange",
+                                    "url": "tasks::cm_digital_input_terminal___exchange.html",
+                                    "shortdesc": "The exchange of the EL1008\n                        8-Channel Digital Input Terminal consists of a procedure for\n                removal and a procedure for installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Digital Input Terminal - Removal",
+                                            "url": "tasks::cm_digital_input_terminal___removal.html",
+                                            "shortdesc": "Removal of the EL1008 8-Channel\n                        Digital Input Terminal.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Digital Input Terminal - Installation",
+                                            "url": "tasks::cm_digital_input_terminal___installation.html",
+                                            "shortdesc": "Installation of the EL1008\n                        8-Channel Digital Input Terminal.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Digital Output Terminal - Exchange",
+                                    "url": "tasks::cm_digital_output_terminal___exchange.html",
+                                    "shortdesc": "The exchange of the EL2008\n                        8-Channel Digital Output Terminal consists of a procedure for\n                removal and a procedure for installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Digital Output Terminal - Removal",
+                                            "url": "tasks::cm_digital_output_terminal___removal.html",
+                                            "shortdesc": "Removal of the EL2008 8-Channel\n                        Digital Output Terminal.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Digital Output Terminal - Installation",
+                                            "url": "tasks::cm_digital_output_terminal___installation.html",
+                                            "shortdesc": "Installation of the EL2008\n                        8-Channel Digital Output Terminal.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "PSU (SCADA) - Exchange",
+                                    "url": "tasks::cm_psu__scada____exchange.html",
+                                    "shortdesc": "The exchange of the PSU (SCADA) -\n                        Adelsystem flex28024a 24V DC consists of a procedure for removal\n                and a procedure for installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "PSU (SCADA) - Removal",
+                                            "url": "tasks::cm_psu__scada____removal.html",
+                                            "shortdesc": "Removal of the PSU (SCADA) -\n                        Adelsystem flex28024a 24V DC.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "PSU (SCADA) - Installation",
+                                            "url": "tasks::cm_psu__scada____installation.html",
+                                            "shortdesc": "Installation of the PSU (SCADA) -\n                        Adelsystem flex28024a 24V DC.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Access control",
+                            "url": "tasks::sections::accesscontrol.html",
+                            "shortdesc": "",
+                            "hasChildren": true,
+                            "children": {
+                                "name": "Motion Detector - Exchange",
+                                "url": "tasks::cm_motion_detector___exchange.html",
+                                "shortdesc": "The exchange of the Motion Detector consists\n                of a procedure for removal and a procedure for installation.",
+                                "hasChildren": true,
+                                "children": [
+                                    {
+                                        "name": "Motion Detector - Removal",
+                                        "url": "tasks::cm_motion_detector___removal.html",
+                                        "shortdesc": "Removal of the Motion Detector.",
+                                        "hasChildren": false
+                                    },
+                                    {
+                                        "name": "Motion Detector - Installation",
+                                        "url": "tasks::cm_motion_detector___installation.html",
+                                        "shortdesc": "Installation of the Motion Detector.",
+                                        "hasChildren": false
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "name": "Ground shelter rack",
+                            "url": "tasks::sections::gsrack.html",
+                            "shortdesc": "",
+                            "hasChildren": true,
+                            "children": [
+                                {
+                                    "name": "Fiber Splicing Rack",
+                                    "url": "",
+                                    "shortdesc": "",
+                                    "hasChildren": true,
+                                    "children": {
+                                        "name": "Fiber Splicing Rack - Exchange",
+                                        "url": "tasks::cm_fiber_splicing_rack___exchange.html",
+                                        "shortdesc": "The exchange of the Fiber Splicing Rack\n                consists of a procedure for removal and a procedure for installation.",
+                                        "hasChildren": true,
+                                        "children": [
+                                            {
+                                                "name": "Fiber Splicing Rack - Removal",
+                                                "url": "tasks::cm_fiber_splicing_rack___removal.html",
+                                                "shortdesc": "Removal of the Fiber Splicing Rack.",
+                                                "hasChildren": false
+                                            },
+                                            {
+                                                "name": "Fiber Splicing Rack - Installation",
+                                                "url": "tasks::cm_fiber_splicing_rack___installation.html",
+                                                "shortdesc": "Installation of the Fiber Splicing Rack.",
+                                                "hasChildren": false
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "UPS system",
+                                    "url": "tasks::sections::upssyst.html",
+                                    "shortdesc": "",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "UPS System - Exchange",
+                                            "url": "tasks::cm_ups_system___exchange.html",
+                                            "shortdesc": "The exchange of the UPS System consists of a\n                procedure for removal and a procedure for installation.",
+                                            "hasChildren": true,
+                                            "children": [
+                                                {
+                                                    "name": "UPS System - Removal",
+                                                    "url": "tasks::cm_ups_system___removal.html",
+                                                    "shortdesc": "Removal of the UPS System.",
+                                                    "hasChildren": false
+                                                },
+                                                {
+                                                    "name": "UPS System - Installation",
+                                                    "url": "tasks::cm_ups_system___installation.html",
+                                                    "shortdesc": "Installation of the UPS System.",
+                                                    "hasChildren": false
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "UPS System - Inspection",
+                                            "url": "tasks::pm_ups_system___inspection.html",
+                                            "shortdesc": "Inspection of the UPS System.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "UPS Battery kit - Functional Check",
+                                            "url": "tasks::pm_ups_battery_kit___functional_check.html",
+                                            "shortdesc": "Functional check of a UPS Battery Kit.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "UPS_Battery_Kit - Exchange",
+                                            "url": "tasks::sections::ups_battery_kit___exchange.html",
+                                            "shortdesc": "",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Rack system",
+                                    "url": "tasks::sections::racksyst.html",
+                                    "shortdesc": "",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Door contact - Inspection",
+                                            "url": "tasks::pm_door_contact___inspection.html",
+                                            "shortdesc": "Inspection of the door contact.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Remote Power Distribution 3Ph (Ground Shelter) - Exchange",
+                                            "url": "tasks::cm_remote_power_distribution_3ph__ground_shelter____exchange.html",
+                                            "shortdesc": "The exchange of the Remote Power Distribution 3Ph\n                    (Ground Shelter) consists of a procedure for removal and a procedure for\n                installation.",
+                                            "hasChildren": true,
+                                            "children": [
+                                                {
+                                                    "name": "Remote Power Distribution 3Ph (Ground Shelter) - Removal",
+                                                    "url": "tasks::cm_remote_power_distribution_3ph__ground_shelter____removal.html",
+                                                    "shortdesc": "Removal of the Remote Power Distribution 3Ph\n                    (Ground Shelter).",
+                                                    "hasChildren": false
+                                                },
+                                                {
+                                                    "name": "Remote Power Distribution 3Ph (Ground Shelter) - Installation",
+                                                    "url": "tasks::cm_remote_power_distribution_3ph__ground_shelter____installation.html",
+                                                    "shortdesc": "Installation of the Remote Power Distribution 3Ph\n                    (Ground Shelter).",
+                                                    "hasChildren": false
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Remote Power Distribution 3Ph (Ground Shelter) - Configuration",
+                                            "url": "tasks::cm_remote_power_distribution_3ph__ground_shelter____configuration.html",
+                                            "shortdesc": "Configuration of the Remote Power Distribution 3Ph\n                    (Ground Shelter).",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Remote Power Switch - Inspection",
+                                            "url": "tasks::pm_remote_power_switch___inspection.html",
+                                            "shortdesc": "Inspection of the Remote Power Switch.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Upmast cabinet",
+                    "url": "tasks::task_st5_upmastcabinet_overview.html",
+                    "shortdesc": "",
+                    "hasChildren": true,
+                    "children": [
+                        {
+                            "name": "Rack",
+                            "url": "tasks::sections::ucrack.html",
+                            "shortdesc": "",
+                            "hasChildren": true,
+                            "children": [
+                                {
+                                    "name": "Remote Power Distribution 3Ph (Upmast Cabinet) - Exchange",
+                                    "url": "tasks::cm_remote_power_distribution_3ph__upmast_cabinet____exchange.html",
+                                    "shortdesc": "The exchange of the Remote Power Distribution 3Ph\n                    (Upmast Cabinet) consists of a procedure for removal and a procedure for\n                installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Remote Power Distribution 3Ph (Upmast Cabinet) - Removal",
+                                            "url": "tasks::cm_remote_power_distribution_3ph__upmast_cabinet____removal.html",
+                                            "shortdesc": "Removal of the Remote Power Distribution 3Ph\n                    (Upmast Cabinet).",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Remote Power Distribution 3Ph (Upmast Cabinet) - Installation",
+                                            "url": "tasks::cm_remote_power_distribution_3ph__upmast_cabinet____installation.html",
+                                            "shortdesc": "Installation of the Remote Power Distribution 3Ph\n                    (Upmast Cabinet).",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Remote Power Distribution 3Ph (Upmast Cabinet) - Configuration",
+                                            "url": "tasks::cm_remote_power_distribution_3ph__upmast_cabinet____configuration.html",
+                                            "shortdesc": "Configuration of the Remote Power Distribution 3Ph\n                    (Upmast Cabinet).",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Relay - Exchange",
+                                    "url": "tasks::cm_relay___exchange.html",
+                                    "shortdesc": "The exchange of the Relay consists of a\n                procedure for removal and a procedure for installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Relay - Removal",
+                                            "url": "tasks::cm_relay___removal.html",
+                                            "shortdesc": "Removal of the Relay.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Relay - Installation",
+                                            "url": "tasks::cm_relay___installation.html",
+                                            "shortdesc": "Installation of the Relay.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "SCADA system",
+                            "url": "tasks::sections::ucscada.html",
+                            "shortdesc": "",
+                            "hasChildren": true,
+                            "children": [
+                                {
+                                    "name": "Analog Input Terminal - Exchange",
+                                    "url": "tasks::cm_analog_input_terminal___exchange.html",
+                                    "shortdesc": "The exchange of the EL3064\n                        4-Channel Analog Input Terminal consists of a procedure for\n                removal and a procedure for installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Analog Input Terminal - Removal",
+                                            "url": "tasks::cm_analog_input_terminal___removal.html",
+                                            "shortdesc": "Removal of the EL3064 4-Channel\n                        Analog Input Terminal.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Analog Input Terminal - Installation",
+                                            "url": "tasks::cm_analog_input_terminal___installation.html",
+                                            "shortdesc": "Installation of the EL3064\n                        4-Channel Analog Input Terminal.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Controller - Exchange",
+                                    "url": "tasks::cm_controller___exchange.html",
+                                    "shortdesc": "The exchange of the CX9020\n                        controller consists of a procedure for removal and a procedure\n                for installation. These instructions are for the SCADA System\n                represented in the Ground Shelter. Follow similar instructions\n                for the SCADA System located in the Upmast\n                    Cabinet.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Controller - Removal",
+                                            "url": "tasks::cm_controller___removal.html",
+                                            "shortdesc": "Removal of the Controller.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Controller - Installation",
+                                            "url": "tasks::cm_controller___installation.html",
+                                            "shortdesc": "Installation of the CX9020\n                        controller. The CX9020\n                        controller must be installed onto the mounting rail located in\n                the slots 20 and 21 in the Upmast Cabinet. The mounting rail\n                is located at the very top right side of the Upmast\n                Cabinet.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Digital Input Terminal - Exchange",
+                                    "url": "tasks::cm_digital_input_terminal___exchange.html",
+                                    "shortdesc": "The exchange of the EL1008\n                        8-Channel Digital Input Terminal consists of a procedure for\n                removal and a procedure for installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Digital Input Terminal - Removal",
+                                            "url": "tasks::cm_digital_input_terminal___removal.html",
+                                            "shortdesc": "Removal of the EL1008 8-Channel\n                        Digital Input Terminal.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Digital Input Terminal - Installation",
+                                            "url": "tasks::cm_digital_input_terminal___installation.html",
+                                            "shortdesc": "Installation of the EL1008\n                        8-Channel Digital Input Terminal.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Digital Output Terminal - Exchange",
+                                    "url": "tasks::cm_digital_output_terminal___exchange.html",
+                                    "shortdesc": "The exchange of the EL2008\n                        8-Channel Digital Output Terminal consists of a procedure for\n                removal and a procedure for installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Digital Output Terminal - Removal",
+                                            "url": "tasks::cm_digital_output_terminal___removal.html",
+                                            "shortdesc": "Removal of the EL2008 8-Channel\n                        Digital Output Terminal.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Digital Output Terminal - Installation",
+                                            "url": "tasks::cm_digital_output_terminal___installation.html",
+                                            "shortdesc": "Installation of the EL2008\n                        8-Channel Digital Output Terminal.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "PSU (SCADA) - Exchange",
+                                    "url": "tasks::cm_psu__scada____exchange.html",
+                                    "shortdesc": "The exchange of the PSU (SCADA) -\n                        Adelsystem flex28024a 24V DC consists of a procedure for removal\n                and a procedure for installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "PSU (SCADA) - Removal",
+                                            "url": "tasks::cm_psu__scada____removal.html",
+                                            "shortdesc": "Removal of the PSU (SCADA) -\n                        Adelsystem flex28024a 24V DC.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "PSU (SCADA) - Installation",
+                                            "url": "tasks::cm_psu__scada____installation.html",
+                                            "shortdesc": "Installation of the PSU (SCADA) -\n                        Adelsystem flex28024a 24V DC.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Scanter transceiver",
+                            "url": "tasks::sections::transceiver.html",
+                            "shortdesc": "",
+                            "hasChildren": true,
+                            "children": [
+                                {
+                                    "name": "Air Filter, Transceiver - Exchange",
+                                    "url": "tasks::cm_transceiver_filter_exchange.html",
+                                    "shortdesc": "Exchange procedure for the Air\n                        Filter, Transceiver, includuing removal and installation\n                procedures. It applies both to the air inlet filter as well as to the air outlet\n                filter.",
+                                    "hasChildren": true,
+                                    "children": {
+                                        "name": "Air Filter, Transceiver - Removal, Check and Installation",
+                                        "url": "tasks::cm_transceiver_filter_installationcheck.html",
+                                        "shortdesc": "Exchange of the Air Filter,\n                        Transceiver.",
+                                        "hasChildren": false
+                                    }
+                                },
+                                {
+                                    "name": "SSPA",
+                                    "url": "tasks::sections::sspa.html",
+                                    "shortdesc": "",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "SSPA - Exchange",
+                                            "url": "tasks::cm_sspa___exchange.html",
+                                            "shortdesc": "The exchange of the SSPA consists of a procedure for removal, a procedure for\n                installation and a procedure for PSAT calibration.",
+                                            "hasChildren": true,
+                                            "children": [
+                                                {
+                                                    "name": "SSPA - Removal",
+                                                    "url": "tasks::cm_sspa___removal.html",
+                                                    "shortdesc": "Removal of the SSPA.",
+                                                    "hasChildren": false
+                                                },
+                                                {
+                                                    "name": "SSPA - Installation",
+                                                    "url": "tasks::cm_sspa___installation.html",
+                                                    "shortdesc": "Installation of the SSPA.",
+                                                    "hasChildren": false
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "SSPA - PSAT Calibration",
+                                            "url": "tasks::cm_sspa___psat_calibration.html",
+                                            "shortdesc": "PSAT calibration of the SSPA.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "WG Assy - Exchange",
+                                    "url": "tasks::cm_wg_assy___exchange.html",
+                                    "shortdesc": "The exchange of the Waveguide\n                        Assy consists of a procedure for removal and a procedure for\n                installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "WG Assy - Removal",
+                                            "url": "tasks::cm_wg_assy___removal.html",
+                                            "shortdesc": "Removal of the Waveguide\n                        Assy.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "WG Assy - Installation",
+                                            "url": "tasks::cm_wg_assy___installation.html",
+                                            "shortdesc": "Installation of the Waveguide\n                        Assy.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Blower Assy - Exchange",
+                                    "url": "tasks::cm_blower_assy___exchange.html",
+                                    "shortdesc": "The exchange of the Blower\n                        Assy consists of a procedure for removal and a procedure for\n                installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Blower Assy - Removal",
+                                            "url": "tasks::cm_blower_assy___removal.html",
+                                            "shortdesc": "Removal of the Blower\n                    Assy.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Blower Assy - Installation",
+                                            "url": "tasks::cm_blower_assy___installation.html",
+                                            "shortdesc": "Installation of the Blower\n                        Assy.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "PC Controller Board",
+                                    "url": "",
+                                    "shortdesc": "",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "PC Controller Board - Exchange",
+                                            "url": "tasks::cm_pc_controller_board___exchange.html",
+                                            "shortdesc": "The exchange of the PC Controller\n                        Board consists of a procedure for removal, a procedure for\n                installation and a procedure for setup.",
+                                            "hasChildren": true,
+                                            "children": [
+                                                {
+                                                    "name": "PC Controller Board - Removal",
+                                                    "url": "tasks::cm_pc_controller_board___removal.html",
+                                                    "shortdesc": "Removal of the PC Controller\n                        Board.",
+                                                    "hasChildren": false
+                                                },
+                                                {
+                                                    "name": "PC Controller Board - Installation",
+                                                    "url": "tasks::cm_pc_controller_board___installation.html",
+                                                    "shortdesc": "Installation of the PC Controller\n                        Board.",
+                                                    "hasChildren": false
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "PC Controller Board, Battery - Exchange",
+                                            "url": "tasks::cm_pc_controller_board__battery___exchange.html",
+                                            "shortdesc": "The exchange of the PC Controller\n                        Board, Battery consists of a procedure for removal and a\n                procedure for installation.",
+                                            "hasChildren": true,
+                                            "children": [
+                                                {
+                                                    "name": "PC Controller Board, Battery - Removal",
+                                                    "url": "tasks::cm_pc_controller_board__battery___removal.html",
+                                                    "shortdesc": "Removal of the Battery, lithium,\n                        for PC Controller Board.",
+                                                    "hasChildren": false
+                                                },
+                                                {
+                                                    "name": "PC Controller Board, Battery - Installation",
+                                                    "url": "tasks::cm_pc_controller_board__battery___installation.html",
+                                                    "shortdesc": "Installation of the Battery,\n                        lithium, for PC Controller Board.",
+                                                    "hasChildren": false
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "PC Controller Board - Setup",
+                                            "url": "tasks::cm_pc_controller_board___setup.html",
+                                            "shortdesc": "Setup of the Network Connection.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Common Platform 4 - Exchange",
+                                    "url": "tasks::cm_common_platform_4___exchange.html",
+                                    "shortdesc": "The exchange of the Common\n                        Platform 4 (CP4) Board consists of a procedure for removal, a\n                procedure for installation and a procedure for calibration.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Common Platform 4 - Removal",
+                                            "url": "tasks::cm_common_platform_4___removal.html",
+                                            "shortdesc": "Removal of the Common Platform 4\n                        (CP4) Board.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Common Platform 4 - Installation",
+                                            "url": "tasks::cm_common_platform_4___installation.html",
+                                            "shortdesc": "Installation of the Common\n                        Platform 4 (CP4) Board.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Common Platform 4 - PSAT Calibration",
+                                            "url": "tasks::cm_common_platform_4___psat_calibration.html",
+                                            "shortdesc": "PSAT Calibration of the SSPA.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "PSU (TERMA) - Exchange",
+                                    "url": "tasks::cm_psu__terma____exchange.html",
+                                    "shortdesc": "The exchange of the PSU\n                        (TERMA) consists of a procedure for removal and a procedure for\n                installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "PSU (TERMA) - Removal",
+                                            "url": "tasks::cm_psu__terma____removal.html",
+                                            "shortdesc": "Removal of the PSU\n                    (TERMA).",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "PSU (TERMA) - Installation",
+                                            "url": "tasks::cm_psu__terma____installation.html",
+                                            "shortdesc": "Installation of the PSU\n                        (TERMA).",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "External I/O - Exchange",
+                                    "url": "tasks::cm_external_i_o___exchange.html",
+                                    "shortdesc": "The exchange of the External I/O\n                        Board consists of a procedure for removal and a procedure for\n                installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "External I/O - Removal",
+                                            "url": "tasks::cm_external_i_o___removal.html",
+                                            "shortdesc": "Removal of the External I/O\n                        Board.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "External I/O - Installation",
+                                            "url": "tasks::cm_external_i_o___installation.html",
+                                            "shortdesc": "Installation of the External I/O\n                        Board.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Interconnection PCB - Exchange",
+                                    "url": "tasks::cm_interconnection_pcb_exchange.html",
+                                    "shortdesc": "Exchange procedure for the Air\n                        Filter, Transceiver, includuing removal and installation\n                procedures. It applies both to the air inlet filter as well as to the air outlet\n                filter.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Interconnection PCB - Removal",
+                                            "url": "tasks::cm_interconnection_pcb_removal.html",
+                                            "shortdesc": "Removal of the Interconnection\n                        PCB.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Interconnection PCB - Installation",
+                                            "url": "tasks::cm_interconnection_pcb_installation.html",
+                                            "shortdesc": "Installation of the Interconnection PCB.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "WG, SSPA - Exchange",
+                                    "url": "tasks::cm_wg_sspa_exchange.html",
+                                    "shortdesc": "Exchange procedure for the WG,\n                        SSPA.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "WG, SSPA - Removal",
+                                            "url": "tasks::cm_wg_sspa_removal.html",
+                                            "shortdesc": "Removal of the WG,\n                    SSPA.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "WG, SSPA - Installation",
+                                            "url": "tasks::cm_wg_sspa_installation.html",
+                                            "shortdesc": "Installation of the WG,\n                        SSPA.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "RxTx - Exchange",
+                                    "url": "tasks::cm_rxtx___exchange.html",
+                                    "shortdesc": "The exchange of the RxTx consists of a\n                procedure for removal, a procedure for installation and a procedure for\n                calibration.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "RxTx - Removal",
+                                            "url": "tasks::cm_rxtx___removal.html",
+                                            "shortdesc": "Removal of the RxTx.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "RxTx - Installation",
+                                            "url": "tasks::cm_rxtx___installation.html",
+                                            "shortdesc": "Installation of the RxTx.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "RxTx - PSAT calibration",
+                                    "url": "tasks::cm_rxtx___psat_calibration.html",
+                                    "shortdesc": "PSAT Calibration of the SSPA.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "RxTx Control - Exchange",
+                                    "url": "tasks::cm_rxtx_control___exchange.html",
+                                    "shortdesc": "The exchange of the RxTx Control consists of\n                a procedure for removal, a procedure for installation and a procedure for\n                calibration.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "RxTx Control - Removal",
+                                            "url": "tasks::cm_rxtx_control___removal.html",
+                                            "shortdesc": "Removal of the RxTx Control.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "RxTx Control - Installation",
+                                            "url": "tasks::cm_rxtx_control___installation.html",
+                                            "shortdesc": "Installation of the RxTx Control.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Frame Assy - Exchange",
+                                    "url": "tasks::cm_frame_assy___exchange.html",
+                                    "shortdesc": "The exchange of the Frame Assy consists of a\n                procedure for removal and a procedure for installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Frame Assy - Removal",
+                                            "url": "tasks::cm_frame_assy___removal.html",
+                                            "shortdesc": "Removal of the Frame Assy.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Frame Assy - Installation",
+                                            "url": "tasks::cm_frame_assy___installation.html",
+                                            "shortdesc": "Installation of the Frame Assy.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Automatic Identification System (AIS)",
+                            "url": "tasks::sections::st5_ais.html",
+                            "shortdesc": "",
+                            "hasChildren": true,
+                            "children": [
+                                {
+                                    "name": "AIS - Base Station - Unit - Exchange",
+                                    "url": "tasks::st5_cm_ais___base_station___unit___exchange.html",
+                                    "shortdesc": "The exchange of a AIS - Base Station - Unit\n                consists of a procedure for removal and a procedure for installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "AIS - Base Station - Unit - Removal",
+                                            "url": "tasks::st5_cm_ais___base_station___unit___removal.html",
+                                            "shortdesc": "Removal of the AIS - Base Station - Unit.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "AIS - Base Station - Unit - Installation",
+                                            "url": "tasks::st5_cm_ais___base_station___unit___installation.html",
+                                            "shortdesc": "Installation of the AIS - Base Station -\n                Unit.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "AIS - Base Station - CF Card - Exchange",
+                                    "url": "tasks::st5_cm_ais___base_station___cf_card___exchange.html",
+                                    "shortdesc": "The exchange of the AIS - Base Station - CF\n                    Card consists of a procedure for removal and a procedure for\n                installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "AIS - Base Station - CF Card - Removal",
+                                            "url": "tasks::st5_cm_ais___base_station___cf_card___removal.html",
+                                            "shortdesc": "Removal of the AIS - Base Station - CF\n                Card.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "AIS - Base Station - CF Card - Installation",
+                                            "url": "tasks::st5_cm_ais___base_station___cf_card___installation.html",
+                                            "shortdesc": "Installation of the AIS - Base Station - CF\n                    Card.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "AIS - Base Station - Chassis Fan - Exchange",
+                                    "url": "tasks::st5_cm_ais___base_station___chassis_fan___exchange.html",
+                                    "shortdesc": "The exchange of the AIS - Base Station - Chassis\n                    Fan consists of a procedure for removal and a procedure for\n                installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "AIS - Base Station - Chassis Fan - Removal",
+                                            "url": "tasks::st5_cm_ais___base_station___chassis_fan___removal.html",
+                                            "shortdesc": "Removal of the AIS - Base Station - Chassis\n                    Fan.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "AIS - Base Station - Chassis Fan - Installation",
+                                            "url": "tasks::st5_cm_ais___base_station___chassis_fan___installation.html",
+                                            "shortdesc": "Installation of the AIS - Base Station - Chassis\n                    Fan.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "AIS - Base Station - Controller - Exchange",
+                                    "url": "tasks::st5_cm_ais___base_station___controller___exchange.html",
+                                    "shortdesc": "The exchange of the AIS - Base Station -\n                    Controller consists of a procedure for removal and a procedure for\n                installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "AIS - Base Station - Controller - Removal",
+                                            "url": "tasks::st5_cm_ais___base_station___controller___removal.html",
+                                            "shortdesc": "Removal of the AIS - Base Station -\n                    Controller.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "AIS - Base Station - Controller - Installation",
+                                            "url": "tasks::st5_cm_ais___base_station___controller___installation.html",
+                                            "shortdesc": "Installation of the AIS - Base Station -\n                    Controller.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "AIS - Base Station - Ethernet Switch - Exchange",
+                                    "url": "tasks::st5_cm_ais___base_station___ethernet_switch___exchange.html",
+                                    "shortdesc": "The exchange of the AIS - Base Station - Ethernet\n                    Switch consists of a procedure for removal and a procedure for\n                installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "AIS - Base Station - Ethernet Switch - Removal",
+                                            "url": "tasks::st5_cm_ais___base_station___ethernet_switch___removal.html",
+                                            "shortdesc": "Removal of the AIS - Base Station - Ethernet\n                    Switch.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "AIS - Base Station - Ethernet Switch - Installation",
+                                            "url": "tasks::st5_cm_ais___base_station___ethernet_switch___installation.html",
+                                            "shortdesc": "Installation of the AIS - Base Station - Ethernet\n                    Switch.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "AIS - Base Station - Fan and Air Filter - Inspection",
+                                    "url": "tasks::st5_pm_ais___base_station___fan_and_air_filter___inspection.html",
+                                    "shortdesc": "Inspection of the AIS - Base Station - Fan and Air\n                    Filter.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "AIS - Base Station - Fuse - Exchange",
+                                    "url": "tasks::st5_cm_ais___base_station___fuse___exchange.html",
+                                    "shortdesc": "The exchange of a AIS - Base Station - Fuse\n                consists of a procedure for removal and a procedure for installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "AIS - Base Station - Fuse - Removal",
+                                            "url": "tasks::st5_cm_ais___base_station___fuse___removal.html",
+                                            "shortdesc": "Removal of a AIS - Base Station - Fuse.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "AIS - Base Station - Fuse - Installation",
+                                            "url": "tasks::st5_cm_ais___base_station___fuse___installation.html",
+                                            "shortdesc": "Installation of a AIS - Base Station -\n                Fuse.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "AIS - Base Station - Inspection and Cleaning",
+                                    "url": "tasks::st5_pm_ais___base_station___inspection_and_cleaning.html",
+                                    "shortdesc": "Inspection and cleaning of the AIS - Base\n                    Station.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "AIS - Base Station - LAN Converter - Exchange",
+                                    "url": "tasks::st5_cm_ais___base_station___lan_converter___exchange.html",
+                                    "shortdesc": "The exchange of the AIS - Base Station - LAN\n                    Converter consists of a procedure for removal and a procedure for\n                installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "AIS - Base Station - LAN Converter - Removal",
+                                            "url": "tasks::st5_cm_ais___base_station___lan_converter___removal.html",
+                                            "shortdesc": "Removal of the AIS - Base Station - LAN\n                    Converter.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "AIS - Base Station - LAN Converter - Installation",
+                                            "url": "tasks::st5_cm_ais___base_station___lan_converter___installation.html",
+                                            "shortdesc": "Installation of the AIS - Base Station - LAN\n                    Converter.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "AIS - Base Station - LED Check",
+                                    "url": "tasks::st5_pm_ais___base_station___led_check.html",
+                                    "shortdesc": "Check of the AIS - Base Station - LEDs.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "AIS - Base Station - PMU - Exchange",
+                                    "url": "tasks::st5_cm_ais___base_station___pmu___exchange.html",
+                                    "shortdesc": "The exchange of the AIS - Base Station - PMU\n                consists of a procedure for removal and a procedure for installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "AIS - Base Station - PMU - Removal",
+                                            "url": "tasks::st5_cm_ais___base_station___pmu___removal.html",
+                                            "shortdesc": "Removal of the AIS - Base Station - PMU.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "AIS - Base Station - PMU - Installation",
+                                            "url": "tasks::st5_cm_ais___base_station___pmu___installation.html",
+                                            "shortdesc": "Installation of the AIS - Base Station -\n                PMU.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "AIS - Base Station - Power Distribution Board - Exchange",
+                                    "url": "tasks::st5_cm_ais___base_station___power_distribution_board___exchange.html",
+                                    "shortdesc": "The exchange of the AIS - Base Station - Power\n                    Distribution Board consists of a procedure for removal and a procedure for\n                installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "AIS - Base Station - Power Distribution Board - Removal",
+                                            "url": "tasks::st5_cm_ais___base_station___power_distribution_board___removal.html",
+                                            "shortdesc": "Removal of the AIS - Base Station - Power\n                    Distribution Board.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "AIS - Base Station - Power Distribution Board - Installation",
+                                            "url": "tasks::st5_cm_ais___base_station___power_distribution_board___installation.html",
+                                            "shortdesc": "Installation of the AIS - Base Station - Power\n                    Distribution Board.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "AIS - Base Station - Transponder - Exchange",
+                                    "url": "tasks::st5_cm_ais___base_station___transponder___exchange.html",
+                                    "shortdesc": "The exchange of the AIS - Base Station -\n                    Transponder consists of a procedure for removal and a procedure for\n                installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "AIS - Base Station - Transponder - Removal",
+                                            "url": "tasks::st5_cm_ais___base_station___transponder___removal.html",
+                                            "shortdesc": "Removal of the AIS - Base Station -\n                    Transponder.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "AIS - Base Station - Transponder - Installation",
+                                            "url": "tasks::st5_cm_ais___base_station___transponder___installation.html",
+                                            "shortdesc": "Removal of the AIS - Base Station -\n                    Transponder.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Radio Direction Finder (RDF)",
+                            "url": "tasks::sections::st5_rdf.html",
+                            "shortdesc": "",
+                            "hasChildren": true,
+                            "children": [
+                                {
+                                    "name": "RDF - RDF PSU - Inspection",
+                                    "url": "tasks::st5_pm_rdf___rdf_psu___inspection.html",
+                                    "shortdesc": "Inspection of the RDF PSU.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "RDF - Receiver - Inspection",
+                                    "url": "tasks::st5_pm_rdf___receiver___inspection.html",
+                                    "shortdesc": "Inspection of the Receiver.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "RDF - Static Protection Unit - Inspection",
+                                    "url": "tasks::st5_pm_rdf___static_protection_unit___inspection.html",
+                                    "shortdesc": "Inspection and cleaning of the RDF - Static\n                    Protection Unit.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "RDF - Receiver Unit 7050C - Exchange",
+                                    "url": "tasks::cm_rdf___receiver_unit_7050c___exchange.html",
+                                    "shortdesc": "The exchange of the RDF - Receiver Unit 7050C\n                consists of a procedure for removal and a procedure for installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "RDF - Receiver Unit 7050C - Removal",
+                                            "url": "tasks::cm_rdf___receiver_unit_7050c___removal.html",
+                                            "shortdesc": "Removal of the RDF - Receiver Unit 7050C.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "RDF - Receiver Unit 7050C - Installation",
+                                            "url": "tasks::cm_rdf___receiver_unit_7050c___installation.html",
+                                            "shortdesc": "Installation of the RDF - Receiver Unit\n                7050C.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Outdoor systems",
+                    "url": "",
+                    "shortdesc": "",
+                    "hasChildren": false
+                },
+                {
+                    "name": "Sensors",
+                    "url": "tasks::task_st5_sensors_overview.html",
+                    "shortdesc": "",
+                    "hasChildren": true,
+                    "children": [
+                        {
+                            "name": "Maritime Radar (TERMA)",
+                            "url": "tasks::sections::radar.html",
+                            "shortdesc": "",
+                            "hasChildren": true,
+                            "children": [
+                                {
+                                    "name": "Maritime Radar Antenna System - Exchange",
+                                    "url": "tasks::cm_maritime_radar_antenna_system___exchange.html",
+                                    "shortdesc": "The exchange of the Maritime\n                        Radar Antenna System consists of a procedure for removal and a\n                procedure for installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Maritime Radar Antenna System - Removal",
+                                            "url": "tasks::cm_maritime_radar_antenna_system___removal.html",
+                                            "shortdesc": "Removal of the Maritime Radar\n                        Antenna System.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Maritime Radar Antenna System - Installation",
+                                            "url": "tasks::cm_maritime_radar_antenna_system___installation.html",
+                                            "shortdesc": "Installation of the Maritime\n                        Radar Antenna System.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Turning Unit, intermediate - Lubricate",
+                                    "url": "tasks::pm_turning_unit__intermediate___lubricate.html",
+                                    "shortdesc": "The lubrication of the Turning\n                        Unit, intermediate consists of a procedure for oil removal and a\n                procedure for oil refilling.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "Turning Unit, intermediate - Inspect",
+                                    "url": "tasks::pm_turning_unit__intermediate___inspect.html",
+                                    "shortdesc": "Visual inspection of the Turning\n                        Unit, intermediate.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "Encoder - Exchange",
+                                    "url": "tasks::cm_encoder___exchange.html",
+                                    "shortdesc": "The exchange of the Encoder consists of a procedure for removal, a procedure for\n                installation and a procedure for north alignment for the transceiver.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Encoder - Removal",
+                                            "url": "tasks::cm_encoder___removal.html",
+                                            "shortdesc": "Removal of the Encoder.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Encoder - Installation",
+                                            "url": "tasks::cm_encoder___installation.html",
+                                            "shortdesc": "Installation of the Encoder.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Encoder - North alignment",
+                                            "url": "tasks::cm_encoder___north_alignment.html",
+                                            "shortdesc": "North alignment of the Transceiver.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Maritime Radar Gearbox - Exchange",
+                                    "url": "tasks::cm_maritime_radar_gearbox_exchange.html",
+                                    "shortdesc": "",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "Motor - Exchange",
+                                    "url": "tasks::cm_motor___exchange.html",
+                                    "shortdesc": "The exchange of the Motor consists of a procedure for removal and a procedure for\n                installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Motor - Removal",
+                                            "url": "tasks::cm_motor___removal.html",
+                                            "shortdesc": "Removal of the Motor.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Motor - Installation",
+                                            "url": "tasks::cm_motor___installation.html",
+                                            "shortdesc": "Installation of the Motor.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Turning Unit Cover - Exchange",
+                                    "url": "tasks::cm_cover___exchange.html",
+                                    "shortdesc": "The exchange of the Turning Unit\n                        Cover consists of a procedure for removal and a procedure for\n                installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Turning Unit Cover - Removal",
+                                            "url": "tasks::cm_cover___removal.html",
+                                            "shortdesc": "Removal of the Turning Unit\n                        Cover.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Turning Unit Cover - Installation",
+                                            "url": "tasks::cm_cover___installation.html",
+                                            "shortdesc": "Installation of the Turning Unit\n                        Cover.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Automatic Identification System (AIS)",
+                            "url": "tasks::sections::st5_ais.html",
+                            "shortdesc": "",
+                            "hasChildren": true,
+                            "children": [
+                                {
+                                    "name": "AIS - Remote Status Check",
+                                    "url": "tasks::st5_pm_ais___remote_status_check.html",
+                                    "shortdesc": "Remote status check of the AIS System.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "AIS - GPS Antenna - Exchange",
+                                    "url": "tasks::st5_cm_ais___gps_antenna___exchange.html",
+                                    "shortdesc": "The exchange of the AIS - GPS Antenna\n                consists of a procedure for removal and a procedure for installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "AIS - GPS Antenna - Removal",
+                                            "url": "tasks::st5_cm_ais___gps_antenna___removal.html",
+                                            "shortdesc": "Removal of the AIS - GPS Antenna.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "AIS - GPS Antenna - Installation",
+                                            "url": "tasks::st5_cm_ais___gps_antenna___installation.html",
+                                            "shortdesc": "Installation of the AIS - GPS Antenna.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "VHF antenna for AIS - Exchange",
+                                    "url": "tasks::st5_cm_ais___vhf_antenna___exchange.html",
+                                    "shortdesc": "The exchange of the VHF antenna\n                        for AIS consists of a procedure for removal and a procedure for\n                installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "AIS - VHF Antenna - Removal",
+                                            "url": "tasks::st5_cm_ais___vhf_antenna___removal.html",
+                                            "shortdesc": "Removal of the AIS - VHF Antenna.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "AIS - VHF Antenna - Installation",
+                                            "url": "tasks::st5_cm_ais___vhf_antenna___installation.html",
+                                            "shortdesc": "Installation of the VHF antenna\n                        for AIS.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "AIS - VHF Antenna - Inspection",
+                                    "url": "tasks::st5_pm_ais___vhf_antenna___inspection.html",
+                                    "shortdesc": "Inspection of the VHF Antenna.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "AIS - GPS Antenna - Inspection",
+                                    "url": "tasks::st5_pm_ais___gps_antenna___inspection.html",
+                                    "shortdesc": "Inspection of the GPS Antenna.",
+                                    "hasChildren": false
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Radio Direction Finder (RDF)",
+                            "url": "tasks::sections::st5_rdf.html",
+                            "shortdesc": "",
+                            "hasChildren": true,
+                            "children": [
+                                {
+                                    "name": "RDF - Antenna Switching Unit - Inspection",
+                                    "url": "tasks::st5_pm_rdf___antenna_switching_unit___inspection.html",
+                                    "shortdesc": "Inspection of the Antenna Switching Unit.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "RDF - GPS Antenna - Inspection",
+                                    "url": "tasks::st5_pm_rdf___gps_antenna___inspection.html",
+                                    "shortdesc": "Inspection of the GPS Antenna.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "RDF - RDF Antenna - Inspection",
+                                    "url": "tasks::st5_pm_rdf___rdf_antenna___inspection.html",
+                                    "shortdesc": "Inspection of the RDF Antenna.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "RDF - RDF Antenna - Check Angle/Direction",
+                                    "url": "tasks::st5_pm_rdf___rdf_antenna___check_angle_and_direction.html",
+                                    "shortdesc": "Check angle/direction of the RDF Antenna.",
+                                    "hasChildren": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Supervision",
+                    "url": "",
+                    "shortdesc": "",
+                    "hasChildren": true,
+                    "children": [
+                        {
+                            "name": "Computer (Service Computer, VMD, RDU) system",
+                            "url": "tasks::sections::vmdcomp.html",
+                            "shortdesc": "",
+                            "hasChildren": true,
+                            "children": [
+                                {
+                                    "name": "Computer (Service Computer, VMD, RDU) - Exchange",
+                                    "url": "tasks::cm_vmd_computer___exchange.html",
+                                    "shortdesc": "The exchange of the Computer (Service Computer,\n                    VMD, RDU) consists of a procedure for removal and a procedure for\n                installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Computer (Service Computer, VMD, RDU) - Removal",
+                                            "url": "tasks::cm_vmd_computer___removal.html",
+                                            "shortdesc": "Removal of the Computer (Service Computer, VMD,\n                    RDU).",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Computer (Service Computer, VMD, RDU) - Installation",
+                                            "url": "tasks::cm_vmd_computer___installation.html",
+                                            "shortdesc": "Installation of the Computer (Service Computer,\n                    VMD, RDU).",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Computer (Service Computer, VMD, RDU) Battery - Exchange",
+                                    "url": "tasks::cm_battery__server____exchange.html",
+                                    "shortdesc": "The exchange of the Computer (Service Computer,\n                    VMD, RDU) battery  consists of a procedure for removal and a procedure for\n                installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Battery (Server) - Removal",
+                                            "url": "tasks::cm_battery__server____removal.html",
+                                            "shortdesc": "Removal of the Battery (Server).",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "../tasks/cm_battery__server____installation.dita",
+                                            "url": "..::tasks::cm_battery__server____installation.html",
+                                            "shortdesc": "",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Computer (Service Computer, VMD, RDU) - Filter - Exchange",
+                                    "url": "tasks::cm_computerServiceVmdDuFilter_Exchange.html",
+                                    "shortdesc": "The exchange of the Filter - Computer (Service\n                    Computer, VMD, RDU) consists of a procedure for removal and a procedure for\n                installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "Computer (Service Computer, VMD, RDU) - Filter - Removal",
+                                            "url": "tasks::cm_computerServiceVmdDuFilter_Removal.html",
+                                            "shortdesc": "Removal of the computer air filter. This procedure applies to the\n                    Service computer, the VMD computer\n                and the Radar Digitizing Unit computer.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "Computer (Service Computer, VMD, RDU) - Filter - Installation",
+                                            "url": "tasks::cm_computerServiceVmdDuFilter_Installation.html",
+                                            "shortdesc": "Installation of the computer air filter. This procedure applies to\n                the Service computer, the VMD computer\n                and the Radar Digitizing Unit computer.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Camera VMD Computer System - Inspection",
+                                    "url": "tasks::pm_camera_vmd_computer_system___inspection.html",
+                                    "shortdesc": "This inspection procedure applies to the Camera\n                    VMD Computer (housed in the ground shelter rack) and the Radar Digitizing Unit Computer (installed in the upmast cabinet). ",
+                                    "hasChildren": false
+                                }
+                            ]
+                        },
+                        {
+                            "name": "KVM console",
+                            "url": "tasks::sections::kvm.html",
+                            "shortdesc": "",
+                            "hasChildren": true,
+                            "children": [
+                                {
+                                    "name": "KVM Switch - Exchange",
+                                    "url": "tasks::cm_kvm_switch___exchange.html",
+                                    "shortdesc": "The exchange of the KVM Switch consists of a\n                procedure for removal and a procedure for installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "KVM Switch - Removal",
+                                            "url": "tasks::cm_kvm_switch___removal.html",
+                                            "shortdesc": "Removal of the KVM Switch.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "KVM Switch - Installation",
+                                            "url": "tasks::cm_kvm_switch___installation.html",
+                                            "shortdesc": "Installation of the KVM Switch.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "LCD Rack Console - Exchange",
+                                    "url": "tasks::cm_lcd_rack_console___exchange.html",
+                                    "shortdesc": "The exchange of the LCD Rack Console consists\n                of a procedure for removal and a procedure for installation.",
+                                    "hasChildren": true,
+                                    "children": [
+                                        {
+                                            "name": "LCD Rack Console - Removal",
+                                            "url": "tasks::cm_lcd_rack_console___removal.html",
+                                            "shortdesc": "Removal of the LCD Rack Console.",
+                                            "hasChildren": false
+                                        },
+                                        {
+                                            "name": "LCD Rack Console - Installation",
+                                            "url": "tasks::cm_lcd_rack_console___installation.html",
+                                            "shortdesc": "Installation of the LCD Rack Console.",
+                                            "hasChildren": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "LAN system",
+                    "url": "",
+                    "shortdesc": "",
+                    "hasChildren": true,
+                    "children": {
+                        "name": "LAN switch",
+                        "url": "tasks::sections::lanswitch.html",
+                        "shortdesc": "",
+                        "hasChildren": true,
+                        "children": {
+                            "name": "LAN Switch - MS2 - Exchange",
+                            "url": "tasks::cm_lan_switch___ms2___exchange.html",
+                            "shortdesc": "The exchange of the LAN Switch - MS2 consists\n                of a procedure for removal and a procedure for installation.",
+                            "hasChildren": true,
+                            "children": [
+                                {
+                                    "name": "LAN Switch - MS2 - Removal",
+                                    "url": "tasks::cm_lan_switch___ms2___removal.html",
+                                    "shortdesc": "Removal of the LAN Switch - MS2.",
+                                    "hasChildren": false
+                                },
+                                {
+                                    "name": "LAN Switch - MS2 - Installation",
+                                    "url": "tasks::cm_lan_switch___ms2___installation.html",
+                                    "shortdesc": "Installation of the LAN Switch - MS2.",
+                                    "hasChildren": false
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "name": "Software components",
+                    "url": "",
+                    "shortdesc": "",
+                    "hasChildren": false
+                }
+            ]
+        }
+    ]

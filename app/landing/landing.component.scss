@@ -1,0 +1,64 @@
+
+@import '../../color_definition.scss';
+
+.maincontent {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content:stretch;
+}
+
+.boxitem {
+    width: 400px;
+    min-height: 150px;
+    margin: 0 10px;
+    max-height:300px;
+    overflow-y:auto;
+    margin-top:20px;
+}
+
+.bigboxitem {
+    width: 600px;
+    min-height: 150px;
+    margin: 0 10px;
+    max-height:300px;
+    overflow-y:auto;
+}
+
+.altboxitem {
+    background-color: rgb(247, 225, 201);
+    padding:15px;
+    border-radius:10px;
+}
+
+.elearningitem {
+    width: 400px;
+    min-height: 150px;
+    margin: 0 10px;
+    max-height:300px;
+    overflow-y:auto;
+    display:none;
+}
+.kbitem {
+    width: 400px;
+    min-height: 150px;
+    margin: 0 10px;
+    max-height:300px;
+    overflow-y:auto;
+    display:none;
+}
+.incidentitem {
+    width: 400px;
+    min-height: 150px;
+    margin: 0 10px;
+    max-height:300px;
+    overflow-y:auto;
+    display:none;
+}
+.whatsthatitem {
+    width: 400px;
+    min-height: 150px;
+    margin: 0 10px;
+    max-height:300px;
+    overflow-y:auto;
+    display:none;
+}

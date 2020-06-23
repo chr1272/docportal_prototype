@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="copyright" content="(C) Copyright 2019" />
+<meta name="DC.rights.owner" content="(C) Copyright 2019" />
+<meta name="DC.type" content="task" />
+<meta name="DC.title" content="Transformer/Capacitor - Removal" />
+<meta name="abstract" content="Removal of the Transformer/Capacitor." />
+<meta name="description" content="Removal of the Transformer/Capacitor." />
+<meta name="DC.format" content="XHTML" />
+<meta name="DC.identifier" content="transformer_capacitor___removal" />
+<link rel="stylesheet" type="text/css" href="../commonltr.css" />
+<title>Transformer/Capacitor - Removal</title>
+</head>
+<body id="transformer_capacitor___removal">
+
+    <h1 class="title topictitle1" id="ariaid-title1">Transformer/Capacitor - Removal</h1>
+
+    
+    <div class="body taskbody"><p class="shortdesc">Removal of the <em class="ph i">Transformer/Capacitor</em>.</p>
+
+        <ol class="ol steps"><li class="li step">
+                <span class="ph cmd">Shut off power to the light fixture at the circuit breaker.</span>
+            </li>
+<li class="li step">
+                <span class="ph cmd">To open the <em class="ph i"><span class="ph">External Light</span></em> remove the stainless-steel screws (see item 1
+                    in <a class="xref" href="#transformer_capacitor___removal__External_light">Figure 1</a>).</span>
+                
+                    <div class="fig fignone" id="transformer_capacitor___removal__External_light"><span class="figcap"><span class="fig--title-label">Figure 1. </span>External light</span>
+                        
+                        <img class="image" src="../images/ICN-ACTA-AA-XX-X-XXX-A-D2714-06583-A-A-1.png" />
+                        <dl class="dl">
+                            
+                                <dt class="dt dlterm">1</dt>
+
+                                <dd class="dd">Screws</dd>
+
+                            
+                         
+                                <dt class="dt dlterm">2</dt>
+
+                                <dd class="dd">Bulb</dd>
+
+                            
+                        </dl>
+
+                    </div>
+
+                
+            </li>
+<li class="li step">
+                <span class="ph cmd">Remove the <em class="ph i"><span class="ph">Mercury bulb</span></em> (see item 2 in <a class="xref" href="#transformer_capacitor___removal__External_light">Figure 1</a>) by rotating the
+                    bulb in anti-clockwise direction.</span>
+            </li>
+<li class="li step">
+                <span class="ph cmd">Remove the screws of the <em class="ph i"><span class="ph">Aluminium Reflector</span></em> (see item 1 to 3 in <a class="xref" href="#transformer_capacitor___removal__Reflector">Figure 2</a>) with an <em class="ph i"><span class="ph">X-point screwdriver, small</span></em>.</span>
+                
+                    <div class="fig fignone" id="transformer_capacitor___removal__Reflector"><span class="figcap"><span class="fig--title-label">Figure 2. </span>Reflector</span>
+                        
+                        <img class="image" src="../images/ICN-ACTA-AA-XX-X-XXX-A-D2714-06584-A-A-1.png" />
+                        <dl class="dl">
+                            
+                                <dt class="dt dlterm">1</dt>
+
+                                <dd class="dd">Screw</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">2</dt>
+
+                                <dd class="dd">Screw</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">3</dt>
+
+                                <dd class="dd">Screw</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">4</dt>
+
+                                <dd class="dd">Clamp</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">5</dt>
+
+                                <dd class="dd">Transformer</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">6</dt>
+
+                                <dd class="dd">Screw</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">7</dt>
+
+                                <dd class="dd">Screw</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">8</dt>
+
+                                <dd class="dd">Capacitor</dd>
+
+                            
+                            
+                                <dt class="dt dlterm">9</dt>
+
+                                <dd class="dd">Connector</dd>
+
+                            
+                        </dl>
+
+                    </div>
+
+                
+            </li>
+<li class="li step">
+                <span class="ph cmd">Remove the <em class="ph i"><span class="ph">Aluminium Reflector</span></em>.</span>
+            </li>
+<li class="li step">
+                <span class="ph cmd">Note down the cabling.</span>
+            </li>
+<li class="li step">
+                <span class="ph cmd"><strong class="ph b">Removal of the <em class="ph i">Capacitor</em></strong></span>
+                <ol type="a" class="ol substeps">
+                    <li class="li substep">
+                        <span class="ph cmd">Remove the <em class="ph i">Connector</em> (see item 9 in <a class="xref" href="#transformer_capacitor___removal__Reflector">Figure 2</a>) from the
+                            <em class="ph i">Capacitor</em> (see item 8 in <a class="xref" href="#transformer_capacitor___removal__Reflector">Figure 2</a>).</span>
+                    </li>
+
+                    <li class="li substep">
+                        <span class="ph cmd">Remove the screw (see item 7 in <a class="xref" href="#transformer_capacitor___removal__Reflector">Figure 2</a>) and the
+                                <em class="ph i">Capacitor</em>.</span>
+                    </li>
+
+                </ol>
+
+            </li>
+<li class="li step">
+                <span class="ph cmd"><strong class="ph b">Removal of the <em class="ph i">Transformer</em></strong></span>
+                <ol type="a" class="ol substeps">
+                    <li class="li substep">
+                        <span class="ph cmd">Remove the cables from the clamp (see item 4 in <a class="xref" href="#transformer_capacitor___removal__Reflector">Figure 2</a>).</span>
+                    </li>
+
+                    <li class="li substep">
+                        <span class="ph cmd">Remove the screw (see item 6 in <a class="xref" href="#transformer_capacitor___removal__Reflector">Figure 2</a>) and the
+                            <em class="ph i">Transformer</em> (see item 5 in <a class="xref" href="#transformer_capacitor___removal__Reflector">Figure 2</a>).</span>
+                    </li>
+
+                </ol>
+
+            </li>
+</ol>
+
+    </div>
+
+</body>
+</html>

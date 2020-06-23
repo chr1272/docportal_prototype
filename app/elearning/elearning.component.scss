@@ -1,0 +1,22 @@
+table {
+    width: 100%;
+  }
+
+  a {
+    text-decoration:none;
+    color:rgb(0, 56, 139);
+  }
+
+  td.mat-cell:first-of-type, td.mat-footer-cell:first-of-type, th.mat-header-cell:first-of-type {
+    padding-left:0px;
+  }
+
+  .mcimg {
+    width:260px;
+    height:74.1px;
+    -ms-flex-align: start
+  }
+
+  .elitem {
+    margin-bottom:25px;
+  }

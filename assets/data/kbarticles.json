@@ -1,0 +1,5 @@
+[
+    {"id": 1, "title": "Requirements for displaying tracks from a neighbour AOI", "body": "Tracks are stored in the COP and their properties include the information of the SHQ which is in charge of it.", "keywords": "track, cop, AOI, AOR, SHQ, RHQ, NHQ, C2"},
+    {"id": 2, "title": "Events", "body": "Events are containers for all relevant information for specific missions, such as the interception of a suspect vehicle. They are created in HQC2.", "keywords": "suspect, track, C2, HQC2, event, interception"},
+    {"id": 3, "title": "Training simulations", "body": "Trainings can be held in training centers, where operators use real life workstations with operational data coming from a simulation.", "keywords": "training, operator, simulation"}
+]

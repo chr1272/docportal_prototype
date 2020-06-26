@@ -1,6 +1,6 @@
 # Documentation portal - Angular web app
 
-This prototype is a personal effort exclusively done on my own time. I did so to increase my knowledge of web app development and to create a demonstrator to support possible requests for R&D funding.
+This prototype is a personal effort exclusively done on my own time. I did so to increase my knowledge of web app development and to create a demonstrator to support possible requests for R&D funding for such a project.
 
 This particular instance is a stripped down version where confidential content has been removed. Its purpose is to demonstrate my knowledge of frameworks such as Angular and C#.NET, and of web or database related languages such as JS, CSS, XML, and others.
 

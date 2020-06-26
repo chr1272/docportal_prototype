@@ -17,7 +17,7 @@ The documentation portal can provide access to several types of content:
 * Incident related content from Remedy helpdesk service
 
 ### Documentation portal architecture summary
-Without going into great depth, the **Angular** part of the documentation portal takes care of the **organization of the content**, and the **.NET Web API** part takes care of **collecting, parsing, transforming and assembling the content**.
+Without going into great depth, the **Angular** part of the documentation portal takes care of the **organization and presentation of the content**, and the **.NET Web API** part takes care of **collecting, parsing, transforming and assembling the content**.
 
 ![](https://user-images.githubusercontent.com/8645726/85852623-400e6100-b7b1-11ea-9432-2d9c856ebd6b.png)
 

@@ -5,7 +5,7 @@ This prototype is a personal effort exclusively done on my own time. I did so to
 This particular instance is a stripped down version where confidential content has been removed. Its purpose is to demonstrate my knowledge of frameworks such as Angular and C#.NET, and of web or database related languages such as JS, CSS, XML, and others.
 
 ### What's it about?
-The idea behind the documentation portal is to provide **access to always up to date documentation** and to **capture the knowledge** of the users of the system. In addition to that, it could serve as a platform for e-Learning and provide the means to search the incident database of the helpdesk service linked to the same product or project.
+The idea behind the documentation portal is to provide **access to always up to date documentation** and to **capture the knowledge** of the users of the system. In addition to that, it could serve as a platform for e-Learning and provide the means to query the incident database of the helpdesk service linked to the same product or project.
 
 ![](https://user-images.githubusercontent.com/8645726/85849625-94164700-b7ab-11ea-93bf-c5b4a276701f.PNG)
 

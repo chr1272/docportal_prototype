@@ -3,7 +3,7 @@
 
 This prototype is a personal effort exclusively done on my own time. I did so to increase my knowledge of web app development and to create a demonstrator to support possible requests for R&D funding for such a project.
 
-This particular instance is a stripped down version where confidential content has been removed. Its purpose is to demonstrate my knowledge of frameworks such as Angular and C#.NET, and of web or database related languages such as JS, CSS, _[XML](# "Ok, XML is not a programming language in a strict sense, but in this context it includes XML related programming languages such as XSLT")_, and others.
+This particular instance is a stripped down version where confidential content has been removed. Its purpose is to demonstrate my knowledge of frameworks such as Angular and C#.NET, and of web or database related languages such as JS, CSS, SQL, _[XML](# "Ok, XML is not a programming language in a strict sense, but in this context it includes XML related programming languages such as XSLT")_, and others.
 
 ### What's it about?
 The idea behind the documentation portal is to provide **access to always up to date documentation** and to **capture the knowledge** of the users of a product. In addition to that, it could serve as a platform for e-Learning and provide the means to query the incident database of the helpdesk service linked to the same product or project.
